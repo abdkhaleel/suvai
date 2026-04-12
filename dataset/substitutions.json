@@ -1,0 +1,387 @@
+[
+  {
+    "ingredient": "coconut milk",
+    "tamil_name": "தேங்காய் பால்",
+    "substitutes": [
+      {
+        "item": "cashew cream",
+        "ratio": "1:1",
+        "note": "soak cashews overnight, blend smooth - milder and slightly sweeter"
+      },
+      {
+        "item": "almond milk thickened with coconut cream powder",
+        "ratio": "1:1",
+        "note": "adds nutty flavor, less rich than fresh coconut milk"
+      }
+    ]
+  },
+  {
+    "ingredient": "tamarind",
+    "tamil_name": "புளி",
+    "substitutes": [
+      {
+        "item": "lemon juice",
+        "ratio": "2 tbsp lemon juice for 1 tbsp tamarind pulp",
+        "note": "brighter citrus tang, lacks deep sour complexity"
+      },
+      {
+        "item": "amchur powder",
+        "ratio": "1 tsp amchur for 1 tbsp tamarind pulp",
+        "note": "dry mango powder gives tartness but no pulp body"
+      }
+    ]
+  },
+  {
+    "ingredient": "ghee",
+    "tamil_name": "நெய்",
+    "substitutes": [
+      {
+        "item": "butter",
+        "ratio": "1:1",
+        "note": "adds milky flavor and water content, not suitable for high heat"
+      },
+      {
+        "item": "coconut oil",
+        "ratio": "1:1",
+        "note": "neutral fat with coconut aroma, fully vegan"
+      }
+    ]
+  },
+  {
+    "ingredient": "urad dal",
+    "tamil_name": "உளுத்தம் பருப்பு",
+    "substitutes": [
+      {
+        "item": "moong dal",
+        "ratio": "1:1",
+        "note": "milder flavor and lighter texture, faster cooking"
+      },
+      {
+        "item": "chana dal",
+        "ratio": "3:4",
+        "note": "earthier taste and firmer bite, slightly longer soak needed"
+      }
+    ]
+  },
+  {
+    "ingredient": "curry leaves",
+    "tamil_name": "கருவேப்பிலை",
+    "substitutes": [
+      {
+        "item": "lime zest",
+        "ratio": "1 tsp zest for 8-10 leaves",
+        "note": "citrus aroma but lacks herbal depth and slight bitterness"
+      },
+      {
+        "item": "bay leaves with fenugreek leaves",
+        "ratio": "2 bay leaves + 1 tsp dried fenugreek for 10 curry leaves",
+        "note": "approximates aroma but stronger medicinal note"
+      }
+    ]
+  },
+  {
+    "ingredient": "idli rice",
+    "tamil_name": "இட்லி அரிசி",
+    "substitutes": [
+      {
+        "item": "parboiled rice",
+        "ratio": "1:1",
+        "note": "similar texture but slightly less sticky for idli fermentation"
+      },
+      {
+        "item": "raw rice mixed with 20% poha",
+        "ratio": "4:1 raw rice to poha",
+        "note": "helps fermentation but results in softer idlis"
+      }
+    ]
+  },
+  {
+    "ingredient": "gingelly oil",
+    "tamil_name": "நல்லெண்ணெய்",
+    "substitutes": [
+      {
+        "item": "sesame oil (untoasted)",
+        "ratio": "1:1",
+        "note": "milder sesame flavor, good for tempering"
+      },
+      {
+        "item": "peanut oil",
+        "ratio": "1:1",
+        "note": "neutral taste with high smoke point, less aromatic"
+      }
+    ]
+  },
+  {
+    "ingredient": "jaggery",
+    "tamil_name": "வெல்லம்",
+    "substitutes": [
+      {
+        "item": "palm sugar",
+        "ratio": "1:1",
+        "note": "similar caramel notes but slightly less mineral depth"
+      },
+      {
+        "item": "brown sugar",
+        "ratio": "1:1",
+        "note": "sweeter with molasses flavor, lacks earthy complexity"
+      }
+    ]
+  },
+  {
+    "ingredient": "asafoetida",
+    "tamil_name": "பெருங்காயம்",
+    "substitutes": [
+      {
+        "item": "garlic powder",
+        "ratio": "1/2 tsp for 1/4 tsp asafoetida",
+        "note": "stronger pungent garlic note, not as digestive"
+      },
+      {
+        "item": "onion powder mixed with pinch of hing alternative",
+        "ratio": "1 tsp onion powder for 1/4 tsp asafoetida",
+        "note": "approximates sulfurous aroma but milder"
+      }
+    ]
+  },
+  {
+    "ingredient": "rice flour",
+    "tamil_name": "அரிசி மாவு",
+    "substitutes": [
+      {
+        "item": "corn flour",
+        "ratio": "3:4",
+        "note": "crisper texture but slightly sweet aftertaste"
+      },
+      {
+        "item": "besan (gram flour)",
+        "ratio": "1:1",
+        "note": "nutty flavor and better binding, changes color slightly"
+      }
+    ]
+  },
+  {
+    "ingredient": "fresh coconut",
+    "tamil_name": "தேங்காய்",
+    "substitutes": [
+      {
+        "item": "desiccated coconut soaked in warm water",
+        "ratio": "1:1",
+        "note": "less juicy but similar flavor after 10 min soak"
+      },
+      {
+        "item": "coconut milk powder reconstituted",
+        "ratio": "3 tbsp powder + water for 1 cup grated coconut",
+        "note": "convenient but thinner consistency"
+      }
+    ]
+  },
+  {
+    "ingredient": "drumstick",
+    "tamil_name": "முருங்கைக்காய்",
+    "substitutes": [
+      {
+        "item": "asparagus",
+        "ratio": "1:1",
+        "note": "similar texture but greener, milder flavor"
+      },
+      {
+        "item": "green beans",
+        "ratio": "1:1",
+        "note": "crunchier with less unique earthy taste"
+      }
+    ]
+  },
+  {
+    "ingredient": "raw banana",
+    "tamil_name": "வாழைக்காய்",
+    "substitutes": [
+      {
+        "item": "plantain (green)",
+        "ratio": "1:1",
+        "note": "very similar starchiness and mild sweetness when cooked"
+      },
+      {
+        "item": "potato",
+        "ratio": "1:1",
+        "note": "softer texture, absorbs flavors well but less banana-like"
+      }
+    ]
+  },
+  {
+    "ingredient": "poha",
+    "tamil_name": "அவல்",
+    "substitutes": [
+      {
+        "item": "cooked leftover rice",
+        "ratio": "1:1",
+        "note": "slightly stickier but works well in upma and idli batter"
+    
+      },
+      {
+        "item": "oats",
+        "ratio": "1:1",
+        "note": "healthier option, becomes softer and mushier when cooked"
+      }
+    ]
+  },
+  {
+    "ingredient": "buttermilk",
+    "tamil_name": "மோர்",
+    "substitutes": [
+      {
+        "item": "yogurt whisked with water",
+        "ratio": "1:1 (1 part yogurt + 1 part water)",
+        "note": "thinner consistency with similar tang"
+      },
+      {
+        "item": "lemon juice in thin coconut milk",
+        "ratio": "1 tsp lemon per cup coconut milk",
+        "note": "vegan option with mild sourness"
+      }
+    ]
+  },
+  {
+    "ingredient": "curd/yogurt",
+    "tamil_name": "தயிர்",
+    "substitutes": [
+      {
+        "item": "sour cream",
+        "ratio": "1:1",
+        "note": "richer and creamier with higher fat content"
+      },
+      {
+        "item": "coconut yogurt",
+        "ratio": "1:1",
+        "note": "vegan with subtle coconut flavor"
+      }
+    ]
+  },
+  {
+    "ingredient": "toor dal",
+    "tamil_name": "துவரம் பருப்பு",
+    "substitutes": [
+      {
+        "item": "red lentils (masoor dal)",
+        "ratio": "1:1",
+        "note": "cooks faster, milder taste and softer texture"
+      },
+      {
+        "item": "moong dal",
+        "ratio": "1:1",
+        "note": "lighter flavor and quicker digestion"
+      }
+    ]
+  },
+  {
+    "ingredient": "chana dal",
+    "tamil_name": "கடலைப் பருப்பு",
+    "substitutes": [
+      {
+        "item": "split yellow peas",
+        "ratio": "1:1",
+        "note": "similar split texture but slightly sweeter"
+      },
+      {
+        "item": "toor dal",
+        "ratio": "1:1",
+        "note": "earthier taste, slightly longer cooking time"
+      }
+    ]
+  },
+  {
+    "ingredient": "stone flower",
+    "tamil_name": "கல்பாசி",
+    "substitutes": [
+      {
+        "item": "dagad phool (same as kalpasi)",
+        "ratio": "1:1",
+        "note": "identical ingredient, just regional name variation"
+      },
+      {
+        "item": "star anise + small piece of cinnamon",
+        "ratio": "1/2 star anise + pinch cinnamon",
+        "note": "approximates smoky licorice aroma"
+      }
+    ]
+  },
+  {
+    "ingredient": "marathi mokku",
+    "tamil_name": "மராத்தி மொக்கு",
+    "substitutes": [
+      {
+        "item": "dried button mushroom",
+        "ratio": "1:1",
+        "note": "similar earthy texture in pickles and curries"
+      },
+      {
+        "item": "kapok buds (if available)",
+        "ratio": "1:1",
+        "note": "traditional substitute with mild floral note"
+      }
+    ]
+  },
+  {
+    "ingredient": "star anise",
+    "tamil_name": "நட்சத்திர அனிஸ்",
+    "substitutes": [
+      {
+        "item": "anise seeds",
+        "ratio": "1/2 tsp anise seeds for 1 star anise",
+        "note": "stronger licorice flavor, use sparingly"
+      },
+      {
+        "item": "fennel seeds",
+        "ratio": "3/4 tsp for 1 star anise",
+        "note": "milder sweet anise-like taste"
+      }
+    ]
+  },
+  {
+    "ingredient": "fennel seeds",
+    "tamil_name": "சோம்பு",
+    "substitutes": [
+      {
+        "item": "anise seeds",
+        "ratio": "1:1",
+        "note": "very similar sweet licorice flavor"
+      },
+      {
+        "item": "cumin seeds with pinch of sugar",
+        "ratio": "3/4 tsp cumin + tiny pinch sugar",
+        "note": "earthy with added sweetness to mimic"
+      }
+    ]
+  },
+  {
+    "ingredient": "pandanus leaf",
+    "tamil_name": "தாழம்பூ இலை",
+    "substitutes": [
+      {
+        "item": "vanilla extract",
+        "ratio": "1/2 tsp vanilla for 1 pandan leaf",
+        "note": "sweet floral aroma but lacks grassy note"
+      },
+      {
+        "item": "screwpine essence or kewra water",
+        "ratio": "few drops for 1 leaf",
+        "note": "concentrated similar floral fragrance"
+      }
+    ]
+  },
+  {
+    "ingredient": "palm sugar",
+    "tamil_name": "பனை வெல்லம்",
+    "substitutes": [
+      {
+        "item": "jaggery",
+        "ratio": "1:1",
+        "note": "deeper caramel flavor with mineral notes"
+      },
+      {
+        "item": "coconut sugar",
+        "ratio": "1:1",
+        "note": "similar but slightly toasted flavor"
+      }
+    ]
+  }
+]

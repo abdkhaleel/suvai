@@ -1,0 +1,302 @@
+[
+  {
+    "standard_name": "Eggplant",
+    "tamil_name": "கத்தரிக்காய்",
+    "transliteration": "Kathirikkai",
+    "aliases": ["Brinjal"]
+  },
+  {
+    "standard_name": "Coriander Leaves",
+    "tamil_name": "கொத்தமல்லி",
+    "transliteration": "Kothamalli",
+    "aliases": ["Cilantro", "Dhania"]
+  },
+  {
+    "standard_name": "Drumstick",
+    "tamil_name": "முருங்கைக்காய்",
+    "transliteration": "Murungakkai",
+    "aliases": ["Moringa Pods"]
+  },
+  {
+    "standard_name": "Raw Banana",
+    "tamil_name": "வாழைக்காய்",
+    "transliteration": "Vazhakkai",
+    "aliases": ["Plantain"]
+  },
+  {
+    "standard_name": "Tamarind",
+    "tamil_name": "புளி",
+    "transliteration": "Puli",
+    "aliases": ["Imli"]
+  },
+  {
+    "standard_name": "Fenugreek Seeds",
+    "tamil_name": "வெந்தயம்",
+    "transliteration": "Vendhayam",
+    "aliases": ["Methi"]
+  },
+  {
+    "standard_name": "Mustard Seeds",
+    "tamil_name": "கடுகு",
+    "transliteration": "Kadugu",
+    "aliases": ["Rai", "Sarson"]
+  },
+  {
+    "standard_name": "Curry Leaves",
+    "tamil_name": "கருவேப்பிலை",
+    "transliteration": "Karuveppilai",
+    "aliases": ["Kadi Patta"]
+  },
+  {
+    "standard_name": "Urad Dal",
+    "tamil_name": "உளுத்தம் பருப்பு",
+    "transliteration": "Ulutham Paruppu",
+    "aliases": ["Black Gram", "Split Black Gram"]
+  },
+  {
+    "standard_name": "Toor Dal",
+    "tamil_name": "துவரம் பருப்பு",
+    "transliteration": "Thuvaram Paruppu",
+    "aliases": ["Arhar Dal", "Pigeon Peas"]
+  },
+  {
+    "standard_name": "Chana Dal",
+    "tamil_name": "கடலைப் பருப்பு",
+    "transliteration": "Kadalai Paruppu",
+    "aliases": ["Bengal Gram Dal", "Split Chickpeas"]
+  },
+  {
+    "standard_name": "Moong Dal",
+    "tamil_name": "பாசிப்பருப்பு / பயத்தம் பருப்பு",
+    "transliteration": "Payatham Paruppu",
+    "aliases": ["Mung Bean", "Moong Bean"]
+  },
+  {
+    "standard_name": "Coconut",
+    "tamil_name": "தேங்காய்",
+    "transliteration": "Thengai",
+    "aliases": ["Nariyal"]
+  },
+  {
+    "standard_name": "Coconut Milk",
+    "tamil_name": "தேங்காய் பால்",
+    "transliteration": "Thengai Paal",
+    "aliases": ["Nariyal ka doodh"]
+  },
+  {
+    "standard_name": "Ginger",
+    "tamil_name": "இஞ்சி",
+    "transliteration": "Inji",
+    "aliases": ["Adrak"]
+  },
+  {
+    "standard_name": "Garlic",
+    "tamil_name": "பூண்டு",
+    "transliteration": "Poondu",
+    "aliases": ["Lahsun"]
+  },
+  {
+    "standard_name": "Onion",
+    "tamil_name": "வெங்காயம்",
+    "transliteration": "Vengayam",
+    "aliases": ["Pyaz"]
+  },
+  {
+    "standard_name": "Tomato",
+    "tamil_name": "தக்காளி",
+    "transliteration": "Thakkali",
+    "aliases": ["Tamatar"]
+  },
+  {
+    "standard_name": "Green Chili",
+    "tamil_name": "பச்சை மிளகாய்",
+    "transliteration": "Pachai Milagai",
+    "aliases": ["Hari Mirch"]
+  },
+  {
+    "standard_name": "Red Chili",
+    "tamil_name": "சிவப்பு மிளகாய்",
+    "transliteration": "Sigappu Milagai",
+    "aliases": ["Lal Mirch", "Dry Red Chili"]
+  },
+  {
+    "standard_name": "Turmeric",
+    "tamil_name": "மஞ்சள்",
+    "transliteration": "Manjal",
+    "aliases": ["Haldi"]
+  },
+  {
+    "standard_name": "Asafoetida",
+    "tamil_name": "பெருங்காயம்",
+    "transliteration": "Perungayam",
+    "aliases": ["Hing"]
+  },
+  {
+    "standard_name": "Cumin Seeds",
+    "tamil_name": "சீரகம்",
+    "transliteration": "Jeeragam",
+    "aliases": ["Jeera"]
+  },
+  {
+    "standard_name": "Black Pepper",
+    "tamil_name": "மிளகு",
+    "transliteration": "Milagu",
+    "aliases": ["Kali Mirch", "Pepper"]
+  },
+  {
+    "standard_name": "Cardamom",
+    "tamil_name": "ஏலக்காய்",
+    "transliteration": "Elakkai",
+    "aliases": ["Elaichi"]
+  },
+  {
+    "standard_name": "Cinnamon",
+    "tamil_name": "பட்டை",
+    "transliteration": "Pattai",
+    "aliases": ["Dalchini"]
+  },
+  {
+    "standard_name": "Cloves",
+    "tamil_name": "கிராம்பு",
+    "transliteration": "Kirambu",
+    "aliases": ["Lavang"]
+  },
+  {
+    "standard_name": "Bay Leaf",
+    "tamil_name": "பிரிஞ்சி இலை",
+    "transliteration": "Brinji Ilai",
+    "aliases": ["Tej Patta"]
+  },
+  {
+    "standard_name": "Rice",
+    "tamil_name": "அரிசி",
+    "transliteration": "Arisi",
+    "aliases": ["Chawal"]
+  },
+  {
+    "standard_name": "Idli Rice",
+    "tamil_name": "இட்லி அரிசி",
+    "transliteration": "Idli Arisi",
+    "aliases": []
+  },
+  {
+    "standard_name": "Raw Rice",
+    "tamil_name": "பச்சரிசி",
+    "transliteration": "Pacharisi",
+    "aliases": []
+  },
+  {
+    "standard_name": "Parboiled Rice",
+    "tamil_name": "புழுங்கல் அரிசி",
+    "transliteration": "Puzhungal Arisi",
+    "aliases": []
+  },
+  {
+    "standard_name": "Semolina",
+    "tamil_name": "ரவை",
+    "transliteration": "Rava",
+    "aliases": ["Sooji"]
+  },
+  {
+    "standard_name": "Chickpeas",
+    "tamil_name": "கொண்டைக்கடலை",
+    "transliteration": "Kondakadalai",
+    "aliases": ["Chana", "Garbanzo Beans"]
+  },
+  {
+    "standard_name": "Black Eyed Peas",
+    "tamil_name": "காராமணி",
+    "transliteration": "Karamani",
+    "aliases": ["Lobia", "Cowpea"]
+  },
+  {
+    "standard_name": "Peanuts",
+    "tamil_name": "வேர்க்கடலை",
+    "transliteration": "Verkadalai",
+    "aliases": ["Groundnut", "Moongphali"]
+  },
+  {
+    "standard_name": "Sesame Seeds",
+    "tamil_name": "எள்",
+    "transliteration": "Ellu",
+    "aliases": ["Til"]
+  },
+  {
+    "standard_name": "Jaggery",
+    "tamil_name": "வெல்லம்",
+    "transliteration": "Vellam",
+    "aliases": ["Gur"]
+  },
+  {
+    "standard_name": "Ghee",
+    "tamil_name": "நெய்",
+    "transliteration": "Nei",
+    "aliases": ["Clarified Butter"]
+  },
+  {
+    "standard_name": "Gingelly Oil",
+    "tamil_name": "நல்லெண்ணெய்",
+    "transliteration": "Nallennai",
+    "aliases": ["Sesame Oil", "Til Oil"]
+  },
+  {
+    "standard_name": "Elephant Foot Yam",
+    "tamil_name": "சேனைக்கிழங்கு",
+    "transliteration": "Senai Kizhangu",
+    "aliases": ["Yam", "Jimikand"]
+  },
+  {
+    "standard_name": "Raw Mango",
+    "tamil_name": "மாங்காய்",
+    "transliteration": "Maanga",
+    "aliases": ["Kacha Aam"]
+  },
+  {
+    "standard_name": "Spinach",
+    "tamil_name": "கீரை",
+    "transliteration": "Keerai",
+    "aliases": ["Greens"]
+  },
+  {
+    "standard_name": "Drumstick Leaves",
+    "tamil_name": "முருங்கைக்கீரை",
+    "transliteration": "Murungai Keerai",
+    "aliases": ["Moringa Leaves"]
+  },
+  {
+    "standard_name": "Bitter Gourd",
+    "tamil_name": "பாவக்காய்",
+    "transliteration": "Pavakkai",
+    "aliases": ["Karela"]
+  },
+  {
+    "standard_name": "Snake Gourd",
+    "tamil_name": "புடலங்காய்",
+    "transliteration": "Pudalangai",
+    "aliases": ["Chichinda"]
+  },
+  {
+    "standard_name": "Ash Gourd",
+    "tamil_name": "பூசணிக்காய்",
+    "transliteration": "Poosanikai",
+    "aliases": ["White Pumpkin", "Pethakaddu"]
+  },
+  {
+    "standard_name": "Ridge Gourd",
+    "tamil_name": "பீர்க்கங்காய்",
+    "transliteration": "Peerkangai",
+    "aliases": ["Turai"]
+  },
+  {
+    "standard_name": "Bottle Gourd",
+    "tamil_name": "சுரைக்காய்",
+    "transliteration": "Suraikai",
+    "aliases": ["Lauki"]
+  },
+  {
+    "standard_name": "Cluster Beans",
+    "tamil_name": "கொத்தவரங்காய்",
+    "transliteration": "Kothavarangai",
+    "aliases": ["Gavar"]
+  }
+]
