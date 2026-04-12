@@ -130,11 +130,21 @@ function ChatContent() {
       <div style={{
         backgroundColor: 'white',
         borderBottom: '1px solid var(--border)',
-        padding: '1rem 1.5rem',
+        padding: '0.75rem 1rem',
       }}>
-        <div className="max-w-3xl mx-auto flex items-center justify-between">
-          <div>
-            <div className="flex items-center gap-2">
+        <div style={{
+          maxWidth: '768px',
+          margin: '0 auto',
+        }}>
+          {/* Top row */}
+          <div style={{
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            flexWrap: 'wrap',
+            gap: '0.5rem',
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
               <Link
                 href="/choose"
                 style={{
@@ -142,6 +152,7 @@ function ChatContent() {
                   fontFamily: 'var(--font-dm-sans)',
                   fontSize: '0.85rem',
                   textDecoration: 'none',
+                  whiteSpace: 'nowrap',
                 }}
               >
                 ← Back
@@ -149,57 +160,64 @@ function ChatContent() {
               <span style={{ color: 'var(--border)' }}>|</span>
               <h2 style={{
                 fontFamily: 'var(--font-playfair)',
-                fontSize: '1.1rem',
+                fontSize: '1rem',
                 fontWeight: 700,
                 color: 'var(--dark)',
+                whiteSpace: 'nowrap',
+                overflow: 'hidden',
+                textOverflow: 'ellipsis',
+                maxWidth: '180px',
               }}>
                 {recipe?.name?.split('|')[0].split('Recipe')[0].trim()
                   || recipeName?.split('|')[0].split('Recipe')[0].trim()
                   || 'Chef Chat'}
               </h2>
             </div>
-            {recipe?.tamil_name && (
-              <p style={{
-                fontFamily: 'var(--font-dm-sans)',
-                fontSize: '0.85rem',
-                color: 'var(--burnt-orange)',
-                marginTop: '0.2rem',
-              }}>
-                {recipe.tamil_name.split('/')[0].trim()}
-              </p>
+
+            {/* Pills */}
+            {recipe && (
+              <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap' }}>
+                {recipe.difficulty && (
+                  <span style={{
+                    backgroundColor: 'var(--cream)',
+                    border: '1px solid var(--border)',
+                    borderRadius: '100px',
+                    padding: '0.2rem 0.6rem',
+                    fontSize: '0.7rem',
+                    fontFamily: 'var(--font-dm-sans)',
+                    color: 'var(--muted)',
+                    textTransform: 'capitalize',
+                  }}>
+                    {recipe.difficulty}
+                  </span>
+                )}
+                {recipe.cook_time && (
+                  <span style={{
+                    backgroundColor: 'var(--cream)',
+                    border: '1px solid var(--border)',
+                    borderRadius: '100px',
+                    padding: '0.2rem 0.6rem',
+                    fontSize: '0.7rem',
+                    fontFamily: 'var(--font-dm-sans)',
+                    color: 'var(--muted)',
+                  }}>
+                    ⏱ {recipe.cook_time}m
+                  </span>
+                )}
+              </div>
             )}
           </div>
 
-          {recipe && (
-            <div className="flex gap-2">
-              {recipe.difficulty && (
-                <span style={{
-                  backgroundColor: 'var(--cream)',
-                  border: '1px solid var(--border)',
-                  borderRadius: '100px',
-                  padding: '0.25rem 0.75rem',
-                  fontSize: '0.75rem',
-                  fontFamily: 'var(--font-dm-sans)',
-                  color: 'var(--muted)',
-                  textTransform: 'capitalize',
-                }}>
-                  {recipe.difficulty}
-                </span>
-              )}
-              {recipe.cook_time && (
-                <span style={{
-                  backgroundColor: 'var(--cream)',
-                  border: '1px solid var(--border)',
-                  borderRadius: '100px',
-                  padding: '0.25rem 0.75rem',
-                  fontSize: '0.75rem',
-                  fontFamily: 'var(--font-dm-sans)',
-                  color: 'var(--muted)',
-                }}>
-                  ⏱ {recipe.cook_time} mins
-                </span>
-              )}
-            </div>
+          {/* Tamil name */}
+          {recipe?.tamil_name && (
+            <p style={{
+              fontFamily: 'var(--font-dm-sans)',
+              fontSize: '0.8rem',
+              color: 'var(--burnt-orange)',
+              marginTop: '0.2rem',
+            }}>
+              {recipe.tamil_name.split('/')[0].trim()}
+            </p>
           )}
         </div>
       </div>
@@ -345,22 +363,28 @@ function ChatContent() {
       <div style={{
         backgroundColor: 'white',
         borderTop: '1px solid var(--border)',
-        padding: '1rem 1.5rem',
-        paddingBottom: 'calc(1rem + env(safe-area-inset-bottom))',
+        padding: '0.75rem 1rem',
+        paddingBottom: 'calc(0.75rem + env(safe-area-inset-bottom))',
       }}>
         <form
           onSubmit={sendMessage}
-          className="max-w-3xl mx-auto flex gap-3 items-center"
+          style={{
+            maxWidth: '768px',
+            margin: '0 auto',
+            display: 'flex',
+            gap: '0.5rem',
+            alignItems: 'center',
+          }}
         >
           <input
             type="text"
             value={input}
             onChange={e => setInput(e.target.value)}
-            placeholder="Ask your chef anything..."
+            placeholder="Ask your chef..."
             disabled={loading}
             style={{
               flex: 1,
-              padding: '0.875rem 1.25rem',
+              padding: '0.75rem 1rem',
               borderRadius: '100px',
               border: '2px solid var(--border)',
               backgroundColor: 'var(--cream)',
@@ -368,6 +392,7 @@ function ChatContent() {
               fontSize: '0.95rem',
               color: 'var(--dark)',
               outline: 'none',
+              minWidth: 0,        // ← important for mobile flex
               transition: 'border-color 0.2s ease',
             }}
             onFocus={e => (e.target.style.borderColor = 'var(--burnt-orange)')}
@@ -383,9 +408,9 @@ function ChatContent() {
               color: 'white',
               border: 'none',
               borderRadius: '50%',
-              width: '48px',
-              height: '48px',
-              fontSize: '1.2rem',
+              width: '44px',
+              height: '44px',
+              fontSize: '1.1rem',
               cursor: loading || !input.trim() ? 'not-allowed' : 'pointer',
               transition: 'all 0.2s ease',
               display: 'flex',

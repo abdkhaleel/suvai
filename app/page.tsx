@@ -64,42 +64,22 @@ export default function Home() {
 
           {/* CTA Buttons */}
           <div
-            className="animate-fade-up delay-3 flex flex-col sm:flex-row gap-4 justify-center"
-            style={{ opacity: 0 }}
+            className="animate-fade-up delay-3"
+            style={{
+              opacity: 0,
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '0.75rem',
+              alignItems: 'center',
+              width: '100%',
+              maxWidth: '400px',
+              margin: '0 auto',
+            }}
           >
-            <Link
-              href="/choose"
-              style={{
-                backgroundColor: 'var(--burnt-orange)',
-                color: 'white',
-                padding: '1rem 2.5rem',
-                borderRadius: '100px',
-                fontFamily: 'var(--font-dm-sans)',
-                fontWeight: 600,
-                fontSize: '1rem',
-                textDecoration: 'none',
-                transition: 'all 0.2s ease',
-                display: 'inline-block',
-              }}
-            >
+            <Link href="/choose" className="btn-primary" style={{ width: '100%', textAlign: 'center' }}>
               🔍 Choose a Dish
             </Link>
-            <Link
-              href="/cook"
-              style={{
-                backgroundColor: 'transparent',
-                color: 'var(--burnt-orange)',
-                padding: '1rem 2.5rem',
-                borderRadius: '100px',
-                fontFamily: 'var(--font-dm-sans)',
-                fontWeight: 600,
-                fontSize: '1rem',
-                textDecoration: 'none',
-                border: '2px solid var(--burnt-orange)',
-                transition: 'all 0.2s ease',
-                display: 'inline-block',
-              }}
-            >
+            <Link href="/cook" className="btn-outline" style={{ width: '100%', textAlign: 'center' }}>
               🥘 Cook With What You Have
             </Link>
           </div>

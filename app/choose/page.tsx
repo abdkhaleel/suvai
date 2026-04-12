@@ -117,16 +117,20 @@ export default function ChoosePage() {
           className="animate-fade-up delay-1"
           style={{ opacity: 0, marginBottom: '1.5rem' }}
         >
-          <div style={{ position: 'relative', maxWidth: '600px' }}>
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            gap: '0.75rem',
+            maxWidth: '600px',
+          }}>
             <input
               type="text"
               value={query}
               onChange={e => setQuery(e.target.value)}
-              placeholder="Search — try 'soft idli', 'spicy dosa', 'இட்லி'..."
+              placeholder="Search — try 'idli', 'spicy dosa'..."
               style={{
                 width: '100%',
-                padding: '1rem 1.5rem',
-                paddingRight: '7rem',
+                padding: '0.9rem 1.25rem',
                 borderRadius: '100px',
                 border: '2px solid var(--border)',
                 backgroundColor: 'white',
@@ -143,24 +147,21 @@ export default function ChoosePage() {
               type="submit"
               disabled={loading || !query.trim()}
               style={{
-                position: 'absolute',
-                right: '6px',
-                top: '50%',
-                transform: 'translateY(-50%)',
                 backgroundColor: 'var(--burnt-orange)',
                 color: 'white',
                 border: 'none',
                 borderRadius: '100px',
-                padding: '0.6rem 1.4rem',
+                padding: '0.875rem',
                 fontFamily: 'var(--font-dm-sans)',
                 fontWeight: 600,
-                fontSize: '0.9rem',
+                fontSize: '1rem',
                 cursor: loading ? 'not-allowed' : 'pointer',
                 opacity: loading ? 0.7 : 1,
                 transition: 'all 0.2s ease',
+                width: '100%',
               }}
             >
-              {loading ? '...' : 'Search'}
+              {loading ? 'Searching...' : '🔍 Search'}
             </button>
           </div>
         </form>
