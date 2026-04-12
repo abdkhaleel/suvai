@@ -1,0 +1,159 @@
+
+{
+    "name": "Soft Idli",
+    "tamil_name": "இட்லி",
+    "transliteration": "Idli",
+    "category": "Breakfast",
+    "sub_category": "South Indian",
+    "diet_type": ["vegetarian", "vegan", "gluten-free", "dairy-free"],
+    "difficulty": "medium",
+    "prep_time": 930,
+    "cook_time": 15,
+    "total_time": 945,
+    "servings": 4,
+    "ingredients": [
+        {
+            "name": "Regular Rice",
+            "tamil_name": "அரிசி",
+            "transliteration": "Arisi",
+            "quantity": "1",
+            "unit": "cup",
+            "notes": "Can use 2 cups idli rice instead of split rice types"
+        },
+        {
+            "name": "Parboiled Rice",
+            "tamil_name": "புழுங்கல் அரிசி",
+            "transliteration": "Puzhungal Arisi",
+            "quantity": "1",
+            "unit": "cup",
+            "notes": "Also known as idli rice"
+        },
+        {
+            "name": "Urad Dal",
+            "tamil_name": "உளுத்தம் பருப்பு",
+            "transliteration": "Ulutham Paruppu",
+            "quantity": "0.5",
+            "unit": "cup",
+            "notes": "Husked black gram (whole or split), approx 120 grams"
+        },
+        {
+            "name": "Thick Poha",
+            "tamil_name": "அவல்",
+            "transliteration": "Aval",
+            "quantity": "0.25",
+            "unit": "cup",
+            "notes": "Flattened rice, approx 20 grams"
+        },
+        {
+            "name": "Fenugreek Seeds",
+            "tamil_name": "வெந்தயம்",
+            "transliteration": "Vendhayam",
+            "quantity": "0.25",
+            "unit": "teaspoon",
+            "notes": "Methi seeds"
+        },
+        {
+            "name": "Rock Salt",
+            "tamil_name": "கல் உப்பு",
+            "transliteration": "Kal Uppu",
+            "quantity": "1",
+            "unit": "teaspoon",
+            "notes": "Edible and food grade"
+        },
+        {
+            "name": "Oil",
+            "tamil_name": "எண்ணெய்",
+            "transliteration": "Ennai",
+            "quantity": "as required",
+            "unit": "",
+            "notes": "To grease idli moulds"
+        },
+        {
+            "name": "Water",
+            "tamil_name": "தண்ணீர்",
+            "transliteration": "Thanneer",
+            "quantity": "5.5",
+            "unit": "cups",
+            "notes": "Includes water for soaking, grinding, and steaming"
+        }
+    ],
+    "steps": [
+        {
+            "step_no": 1,
+            "instruction": "Rinse the regular rice, parboiled rice, and poha well. Soak them together in 2 cups of water for 4 to 5 hours.",
+            "tip": "",
+            "duration_mins": 300
+        },
+        {
+            "step_no": 2,
+            "instruction": "Rinse urad dal and fenugreek seeds. Soak in 1 cup of water for 4 to 5 hours.",
+            "tip": "Soak dal separately from rice for better grinding results.",
+            "duration_mins": 300
+        },
+        {
+            "step_no": 3,
+            "instruction": "Drain the urad dal (reserve the soaking water). Grind dal and fenugreek seeds with 1/2 cup of water until the batter is smooth, fluffy, and light.",
+            "tip": "The dal batter should be very airy for soft idlis.",
+            "duration_mins": 15
+        },
+        {
+            "step_no": 4,
+            "instruction": "Drain the rice and poha. Grind with 3/4 to 1 cup water to a smooth but slightly grainy consistency like fine rava.",
+            "tip": "",
+            "duration_mins": 15
+        },
+        {
+            "step_no": 5,
+            "instruction": "Mix the urad dal batter and rice batter together in a large bowl. Add 1 teaspoon rock salt and mix very well.",
+            "tip": "Mixing with clean hands is traditional and aids fermentation.",
+            "duration_mins": 5
+        },
+        {
+            "step_no": 6,
+            "instruction": "Cover loosely and keep in a warm place for 8 to 12 hours until the batter doubles in volume.",
+            "tip": "In cold climates, it may take 12–24 hours.",
+            "duration_mins": 600
+        },
+        {
+            "step_no": 7,
+            "instruction": "Heat 2 to 2.5 cups water in an idli steamer. Lightly grease moulds with oil, gently stir the fermented batter, and pour into moulds.",
+            "tip": "Do not over-stir the fermented batter; you want to keep the air bubbles.",
+            "duration_mins": 5
+        },
+        {
+            "step_no": 8,
+            "instruction": "Place the stand in the steamer and steam for 12 to 15 minutes.",
+            "tip": "If using a pressure cooker, do not put the whistle.",
+            "duration_mins": 15
+        },
+        {
+            "step_no": 9,
+            "instruction": "Let idlis rest for 2–3 minutes, then gently remove with a spoon.",
+            "tip": "A toothpick inserted should come out clean.",
+            "duration_mins": 3
+        }
+    ],
+    "tips": [
+        "Use rock salt for better fermentation results.",
+        "The consistency of the rice batter should be like fine semolina.",
+        "Reserve the dal soaking water as it helps in fermentation."
+    ],
+    "variations": [
+        "Kanchipuram Idli: Add cumin, pepper, and ginger.",
+        "Vegetable Idli: Add finely grated carrots and beans to the batter."
+    ],
+    "commonly_served_with": [
+        "Coconut Chutney",
+        "Sambar",
+        "Tomato Onion Chutney",
+        "Idli Podi"
+    ],
+    "tags": [
+        "healthy",
+        "steamed",
+        "fermented",
+        "south indian",
+        "staple",
+        "breakfast"
+    ]
+}
