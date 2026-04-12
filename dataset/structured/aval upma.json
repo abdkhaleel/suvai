@@ -1,0 +1,280 @@
+{
+"name": "Aval Upma Recipe | Poha Upma",
+"tamil_name": "அவல் உப்புமா",
+"transliteration": "Aval Uppuma",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 15,
+"cook_time": 15,
+"total_time": 30,
+"servings": 4,
+"ingredients": [
+{
+"name": "thick poha",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "cups",
+"notes": "flattened rice"
+},
+{
+"name": "turmeric powder",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "sugar",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "or add as per taste"
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+},
+{
+"name": "potato",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "medium",
+"notes": ""
+},
+{
+"name": "carrot",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "small to medium",
+"notes": ""
+},
+{
+"name": "green peas",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1/3",
+"unit": "cup",
+"notes": "fresh or frozen"
+},
+{
+"name": "oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": ""
+},
+{
+"name": "mustard seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "chana dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "urad dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "cashews",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "10 to 12",
+"unit": "",
+"notes": "or 1 tablespoon peanuts"
+},
+{
+"name": "dried red chili",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "",
+"notes": ""
+},
+{
+"name": "green chilies",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 or 2",
+"unit": "",
+"notes": "chopped"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "inch",
+"notes": "finely chopped"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "8 to 10",
+"unit": "",
+"notes": ""
+},
+{
+"name": "asafoetida",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "pinch",
+"notes": "hing"
+},
+{
+"name": "onion",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "medium",
+"notes": "finely chopped or 1/3 cup"
+},
+{
+"name": "grated coconut",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": "optional"
+},
+{
+"name": "coriander leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2 to 3",
+"unit": "tablespoons",
+"notes": "chopped"
+},
+{
+"name": "lime or lemon",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "small",
+"notes": "for serving"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Steam veggies if adding (potato, carrot, peas).",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Rinse 2 cups thick poha in water gently so that it softens. Add ½ tsp turmeric powder, sugar and salt to the poha. Mix gently.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 3,
+"instruction": "In a pan, heat 2 tbsp oil and add 1 tsp mustard seeds.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 4,
+"instruction": "When the mustard seeds crackle, add 1 tsp chana dal, 1 tsp urad dal and 10 to 12 cashews (or peanuts).",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Stir and saute till both the dals and cashews turn golden.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Now add 1/3 cup finely chopped onion, 1 tsp finely chopped ginger, 1 tsp chopped green chilies, 1 dry red chili, 8 to 10 curry leaves and a pinch of asafoetida.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Stir and saute till the onions turn translucent.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 8,
+"instruction": "Add the veggies and stir very well.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 9,
+"instruction": "Then add the poha. Stir and mix gently.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 10,
+"instruction": "Cook on a low flame for 3 to 4 minutes.",
+"tip": "",
+"duration_mins": 4
+},
+{
+"step_no": 11,
+"instruction": "Lastly add 2 to 3 tbsp chopped coriander leaves and mix gently. You can also add 2 to 3 tbsp grated coconut.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 12,
+"instruction": "Drizzle some lime or lemon juice and mix or serve with lime slices.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"While rinsing the poha, make sure to move it with your hands gently so that it just softens.",
+"You can make this upma with or without veggies.",
+"Chana dal, urad dal and asafoetida are optional.",
+"Instead of cashews, you can also add 1 tablespoon peanuts.",
+"You can increase the quantity of green chilies for spicier upma."
+],
+"variations": [
+"Make with or without vegetables.",
+"Skip chana dal, urad dal or asafoetida.",
+"Use peanuts instead of cashews."
+],
+"commonly_served_with": [
+"lemon or lime slices",
+"lemon pickle"
+],
+"tags": [
+"aval upma",
+"poha upma",
+"flattened rice upma",
+"south indian breakfast",
+"tamil style poha"
+]
+}

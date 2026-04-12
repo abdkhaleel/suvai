@@ -1,0 +1,52 @@
+{
+"name": "Oats Uttapam Recipe (Instant & Healthy)",
+"tamil_name": "ஓட்ஸ் உத்தப்பம்",
+"transliteration": "Oats Uttapam",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 20,
+"cook_time": 20,
+"total_time": 40,
+"servings": 2,
+"ingredients": [
+{"name": "quick cooking oats", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": "or rolled oats"},
+{"name": "rava", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": "fine textured sooji"},
+{"name": "gram flour", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": "besan"},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "⅔ to ¾", "unit": "cup", "notes": "or as required"},
+{"name": "lemon juice", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "tablespoon", "notes": ""},
+{"name": "baking soda", "tamil_name": "", "transliteration": "", "quantity": "⅛", "unit": "teaspoon", "notes": ""},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "as required"},
+{"name": "onion", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "small to medium", "notes": "thinly sliced"},
+{"name": "tomato", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "small to medium", "notes": "thinly sliced"},
+{"name": "bell pepper", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "small", "notes": "thinly sliced"},
+{"name": "green chilli", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "", "notes": "chopped"},
+{"name": "coriander leaves", "tamil_name": "", "transliteration": "", "quantity": "2 to 3", "unit": "tablespoons", "notes": "chopped"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Grind oats to fine flour.", "tip": "", "duration_mins": 0},
+{"step_no": 2, "instruction": "Mix oat flour, rava, besan and salt. Add water and make smooth batter.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Rest batter covered for 20 minutes.", "tip": "", "duration_mins": 20},
+{"step_no": 4, "instruction": "Slice onion, tomato, bell pepper. Chop green chilli and coriander. Mix veggies.", "tip": "", "duration_mins": 0},
+{"step_no": 5, "instruction": "After resting, adjust consistency. Add lemon juice and baking soda. Mix well.", "tip": "", "duration_mins": 0},
+{"step_no": 6, "instruction": "Heat pan, pour batter and spread gently. Top with mixed veggies and press lightly.", "tip": "", "duration_mins": 0},
+{"step_no": 7, "instruction": "Drizzle oil and cook both sides till golden.", "tip": "", "duration_mins": 0},
+{"step_no": 8, "instruction": "Serve hot or warm.", "tip": "", "duration_mins": 0}
+],
+"tips": [
+"Use rolled or quick cooking oats.",
+"Replace rava with rice flour for gluten-free.",
+"Use ¼ cup curd instead of lemon juice.",
+"Adjust water for medium consistency.",
+"Recipe can be easily doubled or tripled."
+],
+"variations": [
+"Use rice flour instead of rava.",
+"Add grated carrots and beetroot.",
+"Make plain without vegetables.",
+"Use curd instead of lemon juice."
+],
+"commonly_served_with": ["coconut chutney", "tomato ketchup"],
+"tags": ["oats uttapam", "healthy uttapam", "instant uttapam", "oats recipe", "south indian breakfast"]
+}

@@ -1,0 +1,57 @@
+{
+"name": "Rava Idli Recipe | Quick Rava Idli (Suji Idli)",
+"tamil_name": "ரவா இட்லி",
+"transliteration": "Rava Idli",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 35,
+"cook_time": 12,
+"total_time": 47,
+"servings": 12,
+"ingredients": [
+{"name": "ghee", "tamil_name": "", "transliteration": "", "quantity": "2", "unit": "tablespoons", "notes": "clarified butter"},
+{"name": "cashews", "tamil_name": "", "transliteration": "", "quantity": "7 to 8", "unit": "", "notes": "halved"},
+{"name": "mustard seeds", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": ""},
+{"name": "chana dal", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "teaspoon", "notes": "husked and split bengal gram"},
+{"name": "cumin seeds", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": ""},
+{"name": "curry leaves", "tamil_name": "", "transliteration": "", "quantity": "10", "unit": "", "notes": "chopped"},
+{"name": "asafoetida", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "pinch", "notes": "optional"},
+{"name": "ginger", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "teaspoon", "notes": "finely chopped"},
+{"name": "green chilli", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "", "notes": "finely chopped"},
+{"name": "carrots", "tamil_name": "", "transliteration": "", "quantity": "2", "unit": "tablespoons", "notes": "finely grated, optional"},
+{"name": "coriander leaves", "tamil_name": "", "transliteration": "", "quantity": "2", "unit": "tablespoons", "notes": "chopped"},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": "or as required"},
+{"name": "rava", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "cup", "notes": "175 grams, sooji or semolina"},
+{"name": "curd", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": "yogurt"},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "½ to ¾", "unit": "cup", "notes": "or as required"},
+{"name": "eno", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "teaspoon", "notes": "fruit salt or ¼ teaspoon baking soda"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Heat 2 tablespoons ghee in a pan. Add the halved cashews and fry till golden. Remove and keep aside.", "tip": "", "duration_mins": 0},
+{"step_no": 2, "instruction": "In the same pan add mustard seeds and let them splutter.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Add chana dal and fry till golden. Then add cumin seeds, curry leaves, asafoetida, ginger and green chillies. Fry for 10 seconds.", "tip": "", "duration_mins": 0},
+{"step_no": 4, "instruction": "Add rava and roast on low heat for 5 to 7 minutes till aromatic and grains look separate.", "tip": "", "duration_mins": 7},
+{"step_no": 5, "instruction": "Let the roasted rava cool slightly. Add grated carrots, chopped coriander leaves and salt.", "tip": "", "duration_mins": 0},
+{"step_no": 6, "instruction": "Add curd and water as required to make medium consistency batter. Mix well and rest covered for 20 minutes.", "tip": "", "duration_mins": 20},
+{"step_no": 7, "instruction": "Grease idli moulds with oil or ghee. Place a fried cashew in the center of each mould.", "tip": "", "duration_mins": 0},
+{"step_no": 8, "instruction": "After resting, add eno or baking soda to the batter and mix gently but quickly.", "tip": "", "duration_mins": 0},
+{"step_no": 9, "instruction": "Pour batter into greased moulds. Steam on medium heat for 10 to 12 minutes.", "tip": "", "duration_mins": 12},
+{"step_no": 10, "instruction": "Let stand for 2 minutes, then demould and serve hot.", "tip": "", "duration_mins": 2}
+],
+"tips": [
+"Use finer variety of rava like Bombay rava.",
+"Roast rava well in ghee to prevent stickiness.",
+"Eno or baking soda must be fresh for fluffy texture.",
+"You can skip leavening agents but idlis will be denser.",
+"If no idli pan, use cake pan or bowl and slice after steaming."
+],
+"variations": [
+"Add grated vegetables like carrots, beans or peas.",
+"Skip cashews or use roasted peanuts instead.",
+"Make plain rava idli without vegetables or tempering."
+],
+"commonly_served_with": ["coconut chutney", "sambar", "tomato chutney", "onion chutney"],
+"tags": ["rava idli", "suji idli", "instant idli", "no fermentation idli", "quick breakfast", "south indian tiffin"]
+}

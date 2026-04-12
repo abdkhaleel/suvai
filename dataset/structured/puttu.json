@@ -1,0 +1,42 @@
+{
+"name": "Puttu Recipe | Kerala Puttu",
+"tamil_name": "புட்டு",
+"transliteration": "Puttu",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegan"],
+"difficulty": "medium",
+"prep_time": 4,
+"cook_time": 16,
+"total_time": 20,
+"servings": 2,
+"ingredients": [
+{"name": "puttu flour", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "cup", "notes": "rice flour"},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "⅓", "unit": "cup", "notes": "or as required"},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "⅓", "unit": "teaspoon", "notes": "or as required"},
+{"name": "coconut", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": "freshly grated"},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "2 to 3", "unit": "cups", "notes": "for steaming"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Mix puttu flour with salt. Sprinkle water gradually and mix with fingertips to get crumbly texture.", "tip": "", "duration_mins": 0},
+{"step_no": 2, "instruction": "Break all lumps. Optionally grind in mixer using pulse.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Boil water in puttu kudam base.", "tip": "", "duration_mins": 0},
+{"step_no": 4, "instruction": "Layer coconut and puttu flour alternately in cylindrical vessel ending with coconut on top.", "tip": "", "duration_mins": 0},
+{"step_no": 5, "instruction": "Place on boiling water vessel and steam on medium flame till steam comes from top vents.", "tip": "", "duration_mins": 9},
+{"step_no": 6, "instruction": "Cool slightly, remove with skewer and serve hot.", "tip": "", "duration_mins": 4}
+],
+"tips": [
+"Water quantity depends on rice flour quality.",
+"Right texture: flour should form lump that crumbles when pressed.",
+"Steaming time varies with size of puttu maker.",
+"If no puttu maker, use idli pan with layers."
+],
+"variations": [
+"Add sweet or savory stuffing.",
+"Use bamboo logs for traditional aroma.",
+"Sprinkle sugar for sweet snack.",
+"Use red rice flour or wheat flour."
+],
+"commonly_served_with": ["kadala curry", "vegetable stew", "potato stew", "ripe bananas", "jaggery", "ghee"],
+"tags": ["puttu", "kerala puttu", "steamed rice flour", "kerala breakfast", "vegan", "gluten free"]
+}

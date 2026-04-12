@@ -1,0 +1,187 @@
+{
+"name": "Sweet Pongal Recipe | Sakkarai Pongal | Chakkara Pongal",
+"tamil_name": "சக்கரை பொங்கல்",
+"transliteration": "Sakkarai Pongal / Chakkara Pongal",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "medium",
+"prep_time": 5,
+"cook_time": 15,
+"total_time": 20,
+"servings": 4,
+"ingredients": [
+{
+"name": "rice",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "100 grams, short to medium grained"
+},
+{
+"name": "moong dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "⅓",
+"unit": "cup",
+"notes": "85 grams, husked and split mung lentils"
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "3",
+"unit": "cups",
+"notes": "for pressure cooking"
+},
+{
+"name": "jaggery",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "115 to 120 grams, chopped and tightly packed"
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "for jaggery syrup"
+},
+{
+"name": "edible camphor",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "pinch",
+"notes": "optional"
+},
+{
+"name": "green cardamoms",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "5",
+"unit": "",
+"notes": "or ½ teaspoon green cardamom powder"
+},
+{
+"name": "clove",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "",
+"notes": "optional"
+},
+{
+"name": "ghee",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "4 to 5",
+"unit": "tablespoons",
+"notes": ""
+},
+{
+"name": "cashews",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "15 to 18",
+"unit": "",
+"notes": ""
+},
+{
+"name": "golden raisins",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "tablespoon",
+"notes": ""
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Pick rice and moong dal to remove stones. Roast both together on low heat till aromatic.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Rinse roasted rice and moong dal a couple of times. Drain well.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 3,
+"instruction": "Add to pressure cooker with 3 cups water. Pressure cook for 8 to 9 whistles or 11 to 12 minutes on medium heat.",
+"tip": "",
+"duration_mins": 12
+},
+{
+"step_no": 4,
+"instruction": "Let pressure settle naturally. Open lid, check consistency. If separate like pulao, add ½ to 1 cup hot water. Mash slightly.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Crush seeds of 5 green cardamoms + 1 clove (or use ½ teaspoon cardamom powder).",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "In a pan, dissolve chopped jaggery in ½ cup water on low to medium heat.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Strain the syrup if needed and add to the cooked rice-lentil mixture.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 8,
+"instruction": "Add crushed cardamom powder and a pinch of edible camphor. Mix well.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 9,
+"instruction": "Heat 4 to 5 tablespoons ghee. Fry cashews till light golden, then add raisins and fry till plump.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 10,
+"instruction": "Add the fried cashews, raisins and ghee to the pongal. Mix thoroughly.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"Adjust water and whistles depending on quality of moong dal.",
+"Can be made on stove-top with 4 to 4.5 cups water.",
+"Pongal thickens as it cools. Add hot water or milk to adjust consistency.",
+"Store leftovers in fridge for 1-2 days."
+],
+"variations": [
+"Add milk instead of some water for richer taste.",
+"Replace jaggery with sugar, coconut sugar or palm sugar.",
+"Make with cracked wheat (dalia), millets or rolled oats."
+],
+"commonly_served_with": [
+"extra fried cashews and raisins"
+],
+"tags": [
+"sweet pongal",
+"sakkarai pongal",
+"chakkara pongal",
+"jaggery pongal",
+"south indian sweet",
+"pongal festival recipe"
+]
+}

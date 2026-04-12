@@ -1,0 +1,51 @@
+{
+"name": "Atta Dosa Recipe | Whole Wheat Dosa (Godhuma Dosa)",
+"tamil_name": "கோதுமை தோசை",
+"transliteration": "Godhuma Dosai",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegan"],
+"difficulty": "easy",
+"prep_time": 5,
+"cook_time": 20,
+"total_time": 25,
+"servings": 2,
+"ingredients": [
+{"name": "whole wheat flour", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "cup", "notes": "120 grams, atta"},
+{"name": "rice flour", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": ""},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "2.5", "unit": "cups", "notes": "or as required"},
+{"name": "curry leaves", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "teaspoon", "notes": "chopped"},
+{"name": "shallots", "tamil_name": "", "transliteration": "", "quantity": "4 to 5", "unit": "", "notes": "sliced or ¼ cup chopped onions"},
+{"name": "ginger", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": "finely chopped"},
+{"name": "asafoetida", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "pinch", "notes": "hing"},
+{"name": "cumin seeds", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": "jeera"},
+{"name": "lemon juice", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "teaspoon", "notes": ""},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "as required"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Mix whole wheat flour and rice flour in a bowl.", "tip": "", "duration_mins": 0},
+{"step_no": 2, "instruction": "Add sliced shallots/onions, curry leaves, ginger, cumin seeds, asafoetida and salt.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Add water gradually to make thin flowing batter. Break any lumps.", "tip": "", "duration_mins": 0},
+{"step_no": 4, "instruction": "Add lemon juice and mix well. Rest covered for 30 minutes.", "tip": "", "duration_mins": 30},
+{"step_no": 5, "instruction": "Mix batter again. Heat tawa, grease lightly.", "tip": "", "duration_mins": 0},
+{"step_no": 6, "instruction": "Pour batter from edges to center. Fill gaps if needed.", "tip": "", "duration_mins": 0},
+{"step_no": 7, "instruction": "Drizzle oil on top and sides. Cook on medium heat till base is golden and crisp.", "tip": "", "duration_mins": 0},
+{"step_no": 8, "instruction": "Flip and cook the other side till crisp with golden spots. Fold and serve hot.", "tip": "", "duration_mins": 0}
+],
+"tips": [
+"Make batter thin and flowing for crisp texture.",
+"Tawa must be hot before pouring.",
+"Pour from some height for net effect.",
+"Wheat dosa takes longer to cook than regular dosa.",
+"Stir batter well before each dosa as flours settle.",
+"Use well-seasoned cast iron tawa to prevent sticking."
+],
+"variations": [
+"Replace rice flour with gram flour (besan).",
+"Add grated coconut and chopped coriander leaves.",
+"Use buttermilk instead of water.",
+"Use onions instead of shallots."
+],
+"commonly_served_with": ["coconut chutney", "dosa podi", "onion chutney", "peanut chutney", "tomato chutney"],
+"tags": ["atta dosa", "godhuma dosa", "wheat dosa", "whole wheat dosa", "crispy dosa", "instant dosa", "south indian breakfast"]
+}

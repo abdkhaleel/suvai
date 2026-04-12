@@ -1,0 +1,52 @@
+{
+"name": "Rava Dosa Recipe | Crisp Rava Dosa (Suji Dosa)",
+"tamil_name": "ரவா தோசை",
+"transliteration": "Rava Dosai",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 5,
+"cook_time": 25,
+"total_time": 30,
+"servings": 10,
+"ingredients": [
+{"name": "rava", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": "fine textured, un-roasted"},
+{"name": "rice flour", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": ""},
+{"name": "all-purpose flour", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": "maida"},
+{"name": "green chillies", "tamil_name": "", "transliteration": "", "quantity": "½ to 1", "unit": "teaspoon", "notes": "finely chopped"},
+{"name": "onions", "tamil_name": "", "transliteration": "", "quantity": "⅓", "unit": "cup", "notes": "finely chopped"},
+{"name": "ginger", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": "finely chopped"},
+{"name": "curry leaves", "tamil_name": "", "transliteration": "", "quantity": "8 to 10", "unit": "", "notes": "chopped"},
+{"name": "coriander leaves", "tamil_name": "", "transliteration": "", "quantity": "1 to 2", "unit": "tablespoons", "notes": "chopped, optional"},
+{"name": "black pepper", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": "crushed"},
+{"name": "cumin seeds", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": ""},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "2.25 to 2.5", "unit": "cups", "notes": "or as required"},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "as required"},
+{"name": "oil", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "for cooking, as required"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Mix rava, rice flour and all-purpose flour in a bowl.", "tip": "", "duration_mins": 0},
+{"step_no": 2, "instruction": "Add chopped onions, green chillies, ginger, curry leaves, crushed black pepper, cumin seeds and salt.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Add water and whisk to make thin flowing batter without lumps.", "tip": "", "duration_mins": 0},
+{"step_no": 4, "instruction": "Cover and rest the batter for 20 to 30 minutes.", "tip": "", "duration_mins": 30},
+{"step_no": 5, "instruction": "Heat tawa, pour batter from edges to center. Fill gaps if any.", "tip": "", "duration_mins": 0},
+{"step_no": 6, "instruction": "Cook on medium-low flame. Drizzle oil on top and sides.", "tip": "", "duration_mins": 0},
+{"step_no": 7, "instruction": "Cook till base is golden and crisp. Flip and cook second side briefly.", "tip": "", "duration_mins": 0},
+{"step_no": 8, "instruction": "Fold and serve hot.", "tip": "", "duration_mins": 0}
+],
+"tips": [
+"Rest batter for 20-30 minutes.",
+"Batter must be thin and flowing.",
+"Tawa must be hot while pouring.",
+"Pour from height for netted effect.",
+"Mix batter well before each dosa.",
+"Use heavy bottomed tawa."
+],
+"variations": [
+"Make plain rava dosa without onions and spices.",
+"Add chopped cashews for extra crunch."
+],
+"commonly_served_with": ["coconut chutney", "sambar", "tomato chutney", "peanut chutney"],
+"tags": ["rava dosa", "suji dosa", "crisp rava dosa", "instant dosa", "south indian breakfast"]
+}

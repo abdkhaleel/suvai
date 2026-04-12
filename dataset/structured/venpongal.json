@@ -1,0 +1,173 @@
+{
+"name": "Ven Pongal Recipe | Khara Pongal | Ghee Pongal",
+"tamil_name": "வெண் பொங்கல்",
+"transliteration": "Ven Pongal",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 5,
+"cook_time": 20,
+"total_time": 25,
+"servings": 3,
+"ingredients": [
+{
+"name": "rice",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "100 grams"
+},
+{
+"name": "moong dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "cup",
+"notes": "60 grams"
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "lightly crushed"
+},
+{
+"name": "asafoetida",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "⅛",
+"unit": "teaspoon",
+"notes": "hing"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "inch",
+"notes": "chopped"
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "3 to 3.25",
+"unit": "cups",
+"notes": ""
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "for tempering"
+},
+{
+"name": "black peppercorns",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "whole or crushed"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "10 to 12",
+"unit": "",
+"notes": ""
+},
+{
+"name": "cashews",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "10 to 12",
+"unit": "",
+"notes": ""
+},
+{
+"name": "ghee",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2 to 3",
+"unit": "tablespoons",
+"notes": ""
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Roast moong dal on low heat till fragrant.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Rinse rice and roasted moong dal. Add to pressure cooker with cumin, asafoetida, ginger, salt and 3 to 3.25 cups water.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 3,
+"instruction": "Pressure cook for 7 to 8 whistles.",
+"tip": "",
+"duration_mins": 12
+},
+{
+"step_no": 4,
+"instruction": "Let pressure settle. Mash slightly if needed and adjust consistency with hot water.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Heat ghee for tempering. Fry cumin seeds, cashews, black pepper and curry leaves.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Pour tempering over pongal and mix well.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"Lightly crush cumin seeds for better aroma.",
+"Adjust water for soft porridge-like consistency.",
+"Best served fresh."
+],
+"variations": [
+"Add mixed vegetables like carrots, green peas.",
+"Add oats for healthy oats pongal.",
+"Make with millets or cracked wheat."
+],
+"commonly_served_with": [
+"coconut chutney",
+"sambar",
+"curd",
+"mango pickle"
+],
+"tags": [
+"ven pongal",
+"khara pongal",
+"ghee pongal",
+"south indian breakfast",
+"pongal recipe",
+"savory pongal"
+]
+}

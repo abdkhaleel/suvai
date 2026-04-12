@@ -1,0 +1,46 @@
+{
+"name": "Cheese Dosa Recipe (Street Style)",
+"tamil_name": "சீஸ் தோசை",
+"transliteration": "Cheese Dosai",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 5,
+"cook_time": 20,
+"total_time": 25,
+"servings": 3,
+"ingredients": [
+{"name": "idli or dosa batter", "tamil_name": "", "transliteration": "", "quantity": "1.25 to 1.5", "unit": "cups", "notes": ""},
+{"name": "onion", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "large", "notes": "finely chopped"},
+{"name": "tomato", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "large", "notes": "finely chopped"},
+{"name": "black pepper", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "teaspoon", "notes": "crushed or powder, optional"},
+{"name": "cheese", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": "grated, processed or mozzarella"},
+{"name": "basil leaves", "tamil_name": "", "transliteration": "", "quantity": "2 to 3", "unit": "", "notes": "chopped"},
+{"name": "dried oregano", "tamil_name": "", "transliteration": "", "quantity": "1 to 2", "unit": "teaspoon", "notes": "or as required"},
+{"name": "butter", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "as required, or oil"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Finely chop onion and tomato. Grate cheese. Stir the batter well (add few tablespoons water if using thick idli batter).", "tip": "", "duration_mins": 0},
+{"step_no": 2, "instruction": "Heat a well-seasoned tawa and grease with oil.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Pour a ladle of batter and spread gently on low heat.", "tip": "", "duration_mins": 0},
+{"step_no": 4, "instruction": "When top starts cooking, sprinkle chopped onions, then tomatoes.", "tip": "", "duration_mins": 0},
+{"step_no": 5, "instruction": "Add herbs, crushed black pepper and grated cheese all over.", "tip": "", "duration_mins": 0},
+{"step_no": 6, "instruction": "Spread butter or oil on sides and top. Cook on low heat till base is golden and cheese melts.", "tip": "", "duration_mins": 0},
+{"step_no": 7, "instruction": "Fold the dosa neatly and serve hot.", "tip": "", "duration_mins": 0}
+],
+"tips": [
+"Let refrigerated batter come to room temperature.",
+"Use a well-seasoned tawa to prevent sticking.",
+"Cook on low heat for best results.",
+"Serve immediately while hot.",
+"Recipe can be easily scaled."
+],
+"variations": [
+"Add your choice of veggies like capsicum, carrots.",
+"Use pizza sauce or schezwan sauce.",
+"Make with only cheese and herbs.",
+"Use processed or mozzarella cheese (avoid cheddar as it becomes greasy)."],
+"commonly_served_with": ["coconut chutney", "sambar", "tomato chutney", "onion chutney"],
+"tags": ["cheese dosa", "street style dosa", "leftover dosa batter", "kids snack", "mumbai street food"]
+}

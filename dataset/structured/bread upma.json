@@ -1,0 +1,210 @@
+{
+"name": "Bread Upma Recipe",
+"tamil_name": "பிரெட் உப்புமா",
+"transliteration": "Bread Uppuma",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 10,
+"cook_time": 20,
+"total_time": 30,
+"servings": 3,
+"ingredients": [
+{
+"name": "bread cubes",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "3",
+"unit": "cups",
+"notes": "or 5 to 6 bread slices chopped in cubes"
+},
+{
+"name": "oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": ""
+},
+{
+"name": "mustard seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "onions",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "⅓",
+"unit": "cup",
+"notes": "finely chopped onions"
+},
+{
+"name": "green chilies",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "finely chopped or 1 green chili"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "finely chopped or ¾ to 1 inch ginger"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "6 to 7",
+"unit": "",
+"notes": "chopped"
+},
+{
+"name": "tomatoes",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "finely chopped tomatoes"
+},
+{
+"name": "turmeric powder",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "red chili powder",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "asafoetida",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "pinch",
+"notes": "hing, optional"
+},
+{
+"name": "coriander leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "tablespoon",
+"notes": "chopped (cilantro)"
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Chop the bread slices in cubes. Finely chop the onions, green chilli, ginger, tomatoes, curry leaves and coriander leaves.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Heat oil in a pan. Add mustard seeds and let them crackle and pop.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 3,
+"instruction": "Then add cumin seeds. Stir and saute till the cumin seeds also crackle.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 4,
+"instruction": "Add chopped onions. Saute till they turn translucent.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Add finely chopped green chilies, finely chopped ginger and chopped curry leaves.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Then add finely chopped tomatoes. Add turmeric powder, red chili powder and a pinch of asafoetida (optional).",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Stir and saute this onion-tomato-spices mixture till the tomatoes soften and you see oil releasing from the sides.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 8,
+"instruction": "Add the bread cubes. Mix the bread well with the rest of the mixture.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 9,
+"instruction": "On a low to medium flame, saute the bread cubes for 4 to 5 minutes till they become slightly crisp from the edges.",
+"tip": "",
+"duration_mins": 5
+},
+{
+"step_no": 10,
+"instruction": "Then add chopped coriander leaves. Mix and serve bread upma hot.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"Use any variety of soft bread. Pav (dinner rolls) also works well.",
+"Better health option would be whole wheat bread, multi grain or ragi bread.",
+"Reduce or increase spices according to taste.",
+"Add some roasted cashews or roasted peanuts for crunch."
+],
+"variations": [
+"Make with pav (dinner rolls).",
+"Add other veggies like capsicum, carrots etc."
+],
+"commonly_served_with": [
+"lemon juice",
+"tea or coffee"
+],
+"tags": [
+"bread upma",
+"bread recipes",
+"quick breakfast",
+"tiffin",
+"vegetarian snack"
+]
+}

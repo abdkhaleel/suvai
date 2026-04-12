@@ -1,0 +1,261 @@
+{
+"name": "Oats Upma Recipe (Indian Savory Oats)",
+"tamil_name": "ஓட்ஸ் உப்புமா",
+"transliteration": "Oats Uppuma",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian", "vegan"],
+"difficulty": "easy",
+"prep_time": 10,
+"cook_time": 20,
+"total_time": 30,
+"servings": 3,
+"ingredients": [
+{
+"name": "quick cooking oats",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "cup",
+"notes": "100 grams"
+},
+{
+"name": "oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "for roasting oats, any neutral oil"
+},
+{
+"name": "onions",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "cup",
+"notes": "tightly packed, finely chopped"
+},
+{
+"name": "carrots",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "cup",
+"notes": "finely chopped"
+},
+{
+"name": "french beans",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "cup",
+"notes": "finely chopped"
+},
+{
+"name": "green peas",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "cup",
+"notes": "fresh or frozen"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "7 to 8",
+"unit": "",
+"notes": "large or 10 to 12 medium to small"
+},
+{
+"name": "mustard seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "chana dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "optional"
+},
+{
+"name": "urad dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "optional"
+},
+{
+"name": "cashews",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "8 to 10",
+"unit": "",
+"notes": "or roasted peanuts"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "finely chopped"
+},
+{
+"name": "green chillies",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 or 2",
+"unit": "",
+"notes": "chopped"
+},
+{
+"name": "coriander leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 to 2",
+"unit": "tablespoons",
+"notes": "chopped (cilantro)"
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1.25",
+"unit": "cups",
+"notes": "or add as required"
+},
+{
+"name": "oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": "any neutral oil or coconut oil"
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Heat ½ teaspoon oil in a pan. Add 1 cup quick cooking oats.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Stir and roast on a low heat until the oats become crisp. Keep stirring continuously so that the oats do not get browned.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 3,
+"instruction": "Remove oats in a plate or tray and set aside.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 4,
+"instruction": "In the same pan, heat 2 tablespoons oil. Add mustard seeds. Stir and fry until the mustard seeds crackle.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Then add cumin seeds, chana dal & urad dal (optional) and cashews. Stir and fry until the chana dal gets browned.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Add finely chopped onions. Stir and sauté until the onions soften and turn translucent.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Next add finely chopped ginger, chopped green chillies and curry leaves. Stir and sauté for half a minute.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 8,
+"instruction": "Next add finely chopped carrots, finely chopped french beans and green peas. Stir and sauté for 2 minutes.",
+"tip": "",
+"duration_mins": 2
+},
+{
+"step_no": 9,
+"instruction": "Add water. Cover the pan with its lid. On a medium heat simmer and cook until the veggies are almost done (about 8 to 9 minutes).",
+"tip": "",
+"duration_mins": 9
+},
+{
+"step_no": 10,
+"instruction": "Add the roasted oats. Stir and mix lightly. Add salt as required. Mix very well.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 11,
+"instruction": "Cover the pan again and on a low to medium-low heat, steam for 7 to 8 minutes.",
+"tip": "",
+"duration_mins": 8
+},
+{
+"step_no": 12,
+"instruction": "Once done, add chopped coriander leaves. Stir and serve oats upma drizzled with some lemon or lime juice.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"Use any type of oats, but adjust water and cooking time accordingly.",
+"Lightly roast oats before cooking to prevent stickiness.",
+"Add your choice of vegetables for better taste and nutrition.",
+"Cook in coconut oil, ghee, or any neutral oil.",
+"Recipe can be easily doubled or tripled."
+],
+"variations": [
+"Customize with vegetables like capsicum, cauliflower, broccoli, baby corn, cabbage, corn kernels etc.",
+"Skip urad dal or chana dal if you don’t have them.",
+"Skip cashews or use roasted peanuts instead.",
+"Skip green chilies and add black pepper or red chili flakes instead.",
+"Use rolled oats, steel-cut oats or instant oats (adjust water accordingly)."
+],
+"commonly_served_with": [
+"drizzled with some lemon or lime juice",
+"coconut chutney",
+"masala chai or filter coffee"
+],
+"tags": [
+"oats upma",
+"savory oats",
+"healthy breakfast",
+"oats recipe",
+"vegetable upma",
+"tiffin",
+"vegetarian"
+]
+}

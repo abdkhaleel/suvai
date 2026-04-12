@@ -1,0 +1,53 @@
+{
+"name": "Adai Recipe | Adai Dosa",
+"tamil_name": "அடை",
+"transliteration": "Adai",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegan"],
+"difficulty": "medium",
+"prep_time": 130,
+"cook_time": 30,
+"total_time": 160,
+"servings": 4,
+"ingredients": [
+{"name": "rice", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": "regular or idli rice"},
+{"name": "chana dal", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": ""},
+{"name": "urad dal", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": ""},
+{"name": "tuvar dal", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": "pigeon pea"},
+{"name": "dry red chilies", "tamil_name": "", "transliteration": "", "quantity": "2", "unit": "", "notes": "seeds removed"},
+{"name": "ginger", "tamil_name": "", "transliteration": "", "quantity": "1.5", "unit": "teaspoons", "notes": "chopped"},
+{"name": "asafoetida", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "pinch", "notes": "hing"},
+{"name": "green chili", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "", "notes": "optional"},
+{"name": "cumin seeds", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "teaspoon", "notes": "optional"},
+{"name": "onions", "tamil_name": "", "transliteration": "", "quantity": "⅓", "unit": "cup", "notes": "finely chopped"},
+{"name": "curry leaves", "tamil_name": "", "transliteration": "", "quantity": "2", "unit": "teaspoons", "notes": "chopped"},
+{"name": "coriander leaves", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": "chopped"},
+{"name": "coconut", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": "grated, optional"},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "as required"},
+{"name": "oil", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "as required"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Soak rice, chana dal, urad dal, tuvar dal and red chilies in water for 2-3 hours.", "tip": "", "duration_mins": 180},
+{"step_no": 2, "instruction": "Drain and grind with ginger, hing (and optional green chili & cumin) to semi-coarse batter.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Rest batter for 20 minutes to 2 hours.", "tip": "", "duration_mins": 20},
+{"step_no": 4, "instruction": "Add chopped onions, curry leaves, coriander leaves, grated coconut and salt. Mix well.", "tip": "", "duration_mins": 0},
+{"step_no": 5, "instruction": "Heat tawa, spread batter into thick circle, make a small hole in center.", "tip": "", "duration_mins": 0},
+{"step_no": 6, "instruction": "Drizzle oil and cook on medium-low till golden and crisp on both sides.", "tip": "", "duration_mins": 0}
+],
+"tips": [
+"Soak for 2-3 hours or overnight.",
+"Keep batter semi-coarse, not fine.",
+"You can ferment batter for 3-4 hours if desired.",
+"Do not omit any lentils or rice.",
+"Scale recipe as needed."
+],
+"variations": [
+"Add greens or vegetables.",
+"Add more herbs and spices as preferred.",
+"Ferment batter for 3-4 hours.",
+"Use foxtail millet instead of rice."
+],
+"commonly_served_with": ["white butter", "jaggery", "idli podi", "avial", "sambar", "coconut chutney", "tomato chutney"],
+"tags": ["adai", "adai dosa", "mixed lentil dosa", "protein rich", "south indian breakfast", "vegan"]
+}

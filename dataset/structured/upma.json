@@ -1,0 +1,234 @@
+{
+"name": "Upma Recipe | Rava Upma (Suji Upma)",
+"tamil_name": "உப்புமா",
+"transliteration": "Uppuma",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 15,
+"cook_time": 15,
+"total_time": 30,
+"servings": 3,
+"ingredients": [
+{
+"name": "rava",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "cup",
+"notes": "finer variety, sooji or cream of wheat or semolina"
+},
+{
+"name": "ghee or oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": ""
+},
+{
+"name": "mustard seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "chana dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "urad dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "cashews",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "10 to 12",
+"unit": "",
+"notes": "optional"
+},
+{
+"name": "onion",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "⅓",
+"unit": "cup",
+"notes": "finely chopped"
+},
+{
+"name": "green chilli",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "",
+"notes": "chopped"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "inch",
+"notes": "finely chopped"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "10 to 12",
+"unit": "",
+"notes": ""
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2.5",
+"unit": "cups",
+"notes": ""
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+},
+{
+"name": "sugar",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½ to 1",
+"unit": "teaspoon",
+"notes": "optional"
+},
+{
+"name": "coriander leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2 to 3",
+"unit": "tablespoons",
+"notes": "chopped"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Finely chop onion, green chillies, ginger and coriander leaves.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Heat a pan. Add rava and roast on low to medium-low heat, stirring often.",
+"tip": "",
+"duration_mins": 4
+},
+{
+"step_no": 3,
+"instruction": "Switch off the flame and transfer roasted rava to a plate.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 4,
+"instruction": "Heat ghee or oil in the pan. Add mustard seeds.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "When mustard seeds crackle, add cumin seeds, chana dal and urad dal.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Fry till lentils begin to brown. Add cashews and fry till golden.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Add finely chopped onions. Saute till translucent.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 8,
+"instruction": "Add chopped green chilli, ginger and curry leaves. Sauté for a few seconds.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 9,
+"instruction": "Add 2.5 cups water, sugar and salt. Let it come to a rolling boil.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 10,
+"instruction": "Lower the flame and add roasted rava in batches, stirring continuously.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 11,
+"instruction": "Cover and steam for 2 to 3 minutes on low heat.",
+"tip": "",
+"duration_mins": 3
+},
+{
+"step_no": 12,
+"instruction": "Switch off flame. Add chopped coriander leaves and mix.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"Roast the rava on low to medium-low heat, stirring often.",
+"Add the rava to hot boiling water in batches to avoid lumps.",
+"For soft texture use about 2½ to 3 cups water.",
+"You can make upma with either ghee or oil.",
+"Upma is best served hot or warm."
+],
+"variations": [
+"Add cashews or peanuts for crunch.",
+"Skip sugar."
+],
+"commonly_served_with": [
+"coconut chutney",
+"lemon wedges",
+"lemon pickle"
+],
+"tags": [
+"upma",
+"rava upma",
+"suji upma",
+"sooji upma",
+"south indian breakfast",
+"semolina upma",
+"tiffin recipe"
+]
+}

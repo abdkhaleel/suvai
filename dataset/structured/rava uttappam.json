@@ -1,0 +1,45 @@
+{
+"name": "Rava Uttapam Recipe | Suji Uttapam (Instant Veg Uttapam)",
+"tamil_name": "ரவா உத்தப்பம்",
+"transliteration": "Rava Uttapam",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 30,
+"cook_time": 15,
+"total_time": 45,
+"servings": 2,
+"ingredients": [
+{"name": "rava", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": "fine variety, 100 grams, not roasted"},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "½", "unit": "cup", "notes": ""},
+{"name": "lemon juice", "tamil_name": "", "transliteration": "", "quantity": "3", "unit": "teaspoons", "notes": ""},
+{"name": "baking soda", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "teaspoon", "notes": "or ⅛ teaspoon eno"},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "", "unit": "", "notes": "as per taste"},
+{"name": "onion", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "small", "notes": "chopped"},
+{"name": "tomato", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "small", "notes": "chopped"},
+{"name": "green chili", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "", "notes": "finely chopped"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Mix rava with ½ cup water. Rest for 20 to 30 minutes.", "tip": "", "duration_mins": 30},
+{"step_no": 2, "instruction": "Chop onion, tomato and green chili. Mix veggies and keep aside.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "After resting, adjust consistency if needed. Add lemon juice and salt. Mix well.", "tip": "", "duration_mins": 0},
+{"step_no": 4, "instruction": "Add baking soda or eno and mix gently.", "tip": "", "duration_mins": 0},
+{"step_no": 5, "instruction": "Heat tawa, grease with oil. Pour batter and spread gently.", "tip": "", "duration_mins": 0},
+{"step_no": 6, "instruction": "Top with mixed veggies while batter is still raw. Press lightly and drizzle oil.", "tip": "", "duration_mins": 0},
+{"step_no": 7, "instruction": "Cook till base is browned, flip and cook veggie side till golden.", "tip": "", "duration_mins": 0},
+{"step_no": 8, "instruction": "Serve hot.", "tip": "", "duration_mins": 0}
+],
+"tips": [
+"Use fine unroasted rava.",
+"Skip or reduce green chili for kids.",
+"Add chopped coriander, mint or ginger if desired.",
+"Add grated veggies like carrot, beetroot or capsicum.",
+"Recipe can be doubled or tripled."
+],
+"variations": [
+"Add grated carrots, beetroot, capsicum, coriander leaves etc."
+],
+"commonly_served_with": ["coconut chutney", "coriander chutney", "tomato ketchup"],
+"tags": ["rava uttapam", "suji uttapam", "instant uttapam", "south indian breakfast"]
+}

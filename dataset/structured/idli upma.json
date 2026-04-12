@@ -1,0 +1,200 @@
+{
+"name": "Idli Upma",
+"tamil_name": "இட்லி உப்புமா",
+"transliteration": "Idli Uppuma",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 5,
+"cook_time": 10,
+"total_time": 15,
+"servings": 2,
+"ingredients": [
+{
+"name": "Idli",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "5 to 6",
+"unit": "",
+"notes": "crumbled"
+},
+{
+"name": "oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "tablespoon",
+"notes": ""
+},
+{
+"name": "mustard seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "urad dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "split husked black gram"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "5 to 6",
+"unit": "",
+"notes": "chopped or kept whole"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "finely chopped"
+},
+{
+"name": "green chili",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "",
+"notes": "chopped or ½ to 1 teaspoon chopped"
+},
+{
+"name": "dry red chili",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "",
+"notes": "seeds removed"
+},
+{
+"name": "asafoetida",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "pinch",
+"notes": "hing, optional"
+},
+{
+"name": "onions",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "cup",
+"notes": "chopped or 1 small onion chopped"
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+},
+{
+"name": "coriander leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 to 2",
+"unit": "tablespoons",
+"notes": "chopped"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Crumble 5 to 6 idlis and keep aside.",
+"tip": "Use freshly made warm idli or leftover idli (bring refrigerated idli to room temperature).",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Heat 1 tablespoon oil in a pan. Add ½ teaspoon mustard seeds and let them crackle on low heat.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 3,
+"instruction": "When they start crackling, add ½ teaspoon urad dal and ½ teaspoon cumin seeds.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 4,
+"instruction": "Saute till the urad dal turns golden stirring often on low heat.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Then add 5 to 6 curry leaves, ½ teaspoon finely chopped ginger, 1 dry red chili (seeds removed) and 1 green chili (chopped). You can also add a pinch of asafoetida.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Stir and then add ¼ cup chopped onion. Saute till the onions turn translucent stirring often on low heat.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Then add the crumbled idli. Also add a bit of salt as per taste. Mix very well and saute for a minute or two.",
+"tip": "",
+"duration_mins": 2
+},
+{
+"step_no": 8,
+"instruction": "Then switch off the heat. Lastly add 1 to 2 tablespoons of chopped coriander leaves.",
+"tip": "You can also add some grated coconut.",
+"duration_mins": 0
+},
+{
+"step_no": 9,
+"instruction": "Mix again and serve idli upma hot.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"The recipe can be easily doubled or tripled.",
+"If using refrigerated idlis, bring them to room temperature first.",
+"You can vary the amount of spices as per your taste.",
+"Idli podi can also be added.",
+"To make it more nutritious, add some grated veggies, boiled peas, cashews or roasted peanuts."
+],
+"variations": [
+"Add some grated veggies, boiled peas, cashews or roasted peanuts.",
+"Add idli podi.",
+"For Mumbai style, sprinkle some sev and drizzle some lemon juice."
+],
+"commonly_served_with": [
+"coconut chutney",
+"lemon pickle",
+"lemon juice"
+],
+"tags": [
+"idli upma",
+"leftover idli recipes",
+"upma recipes",
+"breakfast",
+"tiffin",
+"quick snack"
+]
+}

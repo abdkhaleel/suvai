@@ -1,0 +1,287 @@
+{
+"name": "Tomato Upma",
+"tamil_name": "தக்காளி உப்புமா",
+"transliteration": "Thakkali Uppuma",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 10,
+"cook_time": 20,
+"total_time": 30,
+"servings": 3,
+"ingredients": [
+{
+"name": "fine rava",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "cup",
+"notes": "sooji or semolina or cream of wheat"
+},
+{
+"name": "ghee or oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": ""
+},
+{
+"name": "mustard seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "urad dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "husked split black gram"
+},
+{
+"name": "chana dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "husked split bengal gram"
+},
+{
+"name": "dry red chilies",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 or 2",
+"unit": "",
+"notes": "broken and deseeded"
+},
+{
+"name": "asafoetida",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "pinch",
+"notes": "hing"
+},
+{
+"name": "onion",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "⅓",
+"unit": "cup",
+"notes": "chopped onions"
+},
+{
+"name": "tomatoes",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¾",
+"unit": "cup",
+"notes": "chopped tomatoes"
+},
+{
+"name": "green chilies",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 or 2",
+"unit": "",
+"notes": "chopped"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "inch",
+"notes": "chopped or 1 teaspoon chopped ginger"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "6 to 7",
+"unit": "",
+"notes": "chopped"
+},
+{
+"name": "turmeric powder",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "red chilli powder",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼ to ½",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2.5",
+"unit": "cups",
+"notes": ""
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+},
+{
+"name": "ghee",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 to 2",
+"unit": "teaspoon",
+"notes": "for drizzling on top, optional"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Heat a pan or kadai first. Add 1 cup rava or cream of wheat.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "On a low heat, begin to roast the rava. Stir often while roasting the rava.",
+"tip": "",
+"duration_mins": 4
+},
+{
+"step_no": 3,
+"instruction": "Switch off the heat and then add the roasted rava to a plate and keep aside.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 4,
+"instruction": "In a pan, heat 2 tablespoons of ghee or oil on low to medium-low heat.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Add 1 teaspoon of mustard seeds. When you hear the crackling sound of mustard seeds, reduce the heat to a low.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Add 1 teaspoon cumin seeds, 1 teaspoon chana dal, 1 teaspoon urad dal. Stir and saute them on a low heat till both the urad dal and chana dal become golden.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Now add 1 or 2 dry red chilies and a pinch of asafoetida (hing).",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 8,
+"instruction": "Add ⅓ cup of chopped onions. Saute the onions till they turn translucent.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 9,
+"instruction": "Then add 1 or 2 green chilies (chopped), ½ inch ginger (chopped), 6 to 7 curry leaves (chopped).",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 10,
+"instruction": "Add ¾ cup of chopped tomatoes.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 11,
+"instruction": "Add ¼ teaspoon turmeric powder and ¼ to ½ teaspoon red chilli powder. Saute the tomatoes till they soften.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 12,
+"instruction": "Next add 2.5 cups of water. Add salt as per taste.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 13,
+"instruction": "On a medium to high heat, let it come to a rolling boil.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 14,
+"instruction": "When the water comes to a rolling boil, lower the flame to its lowest. Then add the rava in 4 to 5 batches.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 15,
+"instruction": "Cover and allow the tomato upma to steam for 2 to 3 minutes on low heat.",
+"tip": "",
+"duration_mins": 3
+},
+{
+"step_no": 16,
+"instruction": "Then switch off the heat. Lastly add about 2 tablespoons of chopped coriander leaves.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 17,
+"instruction": "Drizzle ½ teaspoon of ghee on each serving and serve tomato upma hot.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"Use good quality fresh rava. Use the fine textured rava like Bombay rava.",
+"Ensure that the rava is roasted well and evenly.",
+"For some crunch you can add cashews or roasted peanuts to the dish.",
+"Feel free to adjust the spices and seasonings as required.",
+"This recipe can be scaled as per your needs."
+],
+"variations": [
+"For a less spicy version, skip the red chilli powder.",
+"You can also add ¼ to ½ teaspoon vangi bath powder or bisi bele bath powder instead of red chilli powder."
+],
+"commonly_served_with": [
+"coconut chutney",
+"lemon pickle",
+"lemon wedges",
+"ghee on top"
+],
+"tags": [
+"tomato upma",
+"upma varieties",
+"breakfast",
+"tiffin",
+"vegetarian"
+]
+}

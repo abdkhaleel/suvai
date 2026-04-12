@@ -1,0 +1,43 @@
+{
+"name": "Idiyappam Recipe | Nool Puttu (String Hoppers)",
+"tamil_name": "இடியாப்பம் / நூல் புட்டு",
+"transliteration": "Idiyappam / Nool Puttu",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "medium",
+"prep_time": 10,
+"cook_time": 10,
+"total_time": 20,
+"servings": 12,
+"ingredients": [
+{"name": "rice flour", "tamil_name": "", "transliteration": "", "quantity": "1", "unit": "cup", "notes": "130 grams"},
+{"name": "hot water", "tamil_name": "", "transliteration": "", "quantity": "1.25 to 1.3", "unit": "cups", "notes": "for kneading"},
+{"name": "salt", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "teaspoon", "notes": "or as required"},
+{"name": "coconut", "tamil_name": "", "transliteration": "", "quantity": "¼", "unit": "cup", "notes": "freshly grated, optional"},
+{"name": "water", "tamil_name": "", "transliteration": "", "quantity": "2", "unit": "cups", "notes": "for steaming"}
+],
+"steps": [
+{"step_no": 1, "instruction": "Lightly roast rice flour on low heat for 4-5 minutes till steam appears. Cool slightly.", "tip": "", "duration_mins": 5},
+{"step_no": 2, "instruction": "Boil water with salt. Add hot water to roasted rice flour and mix.", "tip": "", "duration_mins": 0},
+{"step_no": 3, "instruction": "Knead to smooth soft dough while still warm. Adjust with warm water or flour if needed.", "tip": "", "duration_mins": 0},
+{"step_no": 4, "instruction": "Grease idli plates or banana leaves. Press dough using idiyappam press in concentric circles.", "tip": "", "duration_mins": 0},
+{"step_no": 5, "instruction": "Sprinkle grated coconut on top (optional). Steam for 9-10 minutes.", "tip": "", "duration_mins": 10},
+{"step_no": 6, "instruction": "Rest for 1-2 minutes, then remove carefully and serve.", "tip": "", "duration_mins": 2}
+],
+"tips": [
+"Use fine fresh rice flour.",
+"Knead dough while hot.",
+"Keep unused dough covered to prevent drying.",
+"Steam only 8-10 minutes to avoid dryness.",
+"Place in casserole if not serving immediately."
+],
+"variations": [
+"Use millet flours like ragi.",
+"Use whole wheat flour.",
+"Serve with sweetened coconut milk and jaggery for kids.",
+"Make Semiya Upma or Payasam with leftovers."
+],
+"commonly_served_with": ["vegetable kurma", "potato stew", "kadala curry", "coconut milk with jaggery"],
+"tags": ["idiyappam", "nool puttu", "string hoppers", "rice noodles", "south indian breakfast"]
+}

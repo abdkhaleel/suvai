@@ -1,0 +1,246 @@
+{
+"name": "Masala Dosa Recipe (Traditional)",
+"tamil_name": "மசாலா தோசை",
+"transliteration": "Masala Dosai",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian", "vegan", "gluten-free", "dairy-free"],
+"difficulty": "medium",
+"prep_time": 540,
+"cook_time": 30,
+"total_time": 570,
+"servings": 20,
+"ingredients": [
+{
+"name": "idli rice",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1.5",
+"unit": "cups",
+"notes": "330 grams, parboiled or regular rice"
+},
+{
+"name": "urad dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "125 grams, husked"
+},
+{
+"name": "thick poha",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "cup",
+"notes": "35 grams, flattened rice"
+},
+{
+"name": "chana dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "tablespoon",
+"notes": ""
+},
+{
+"name": "fenugreek seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "20",
+"unit": "",
+"notes": "methi seeds"
+},
+{
+"name": "potatoes",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "4",
+"unit": "medium",
+"notes": "300 grams, boiled"
+},
+{
+"name": "oil",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": "for potato masala"
+},
+{
+"name": "mustard seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "chana dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "tablespoon",
+"notes": "optional for filling"
+},
+{
+"name": "onions",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1.25",
+"unit": "cups",
+"notes": "thinly sliced"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "finely chopped"
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "8 to 10",
+"unit": "",
+"notes": ""
+},
+{
+"name": "green chillies",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1 to 2",
+"unit": "",
+"notes": "chopped"
+},
+{
+"name": "turmeric powder",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "¼",
+"unit": "teaspoon",
+"notes": ""
+},
+{
+"name": "asafoetida",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "pinch",
+"notes": "optional"
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "for potato masala"
+},
+{
+"name": "coriander leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "3",
+"unit": "tablespoons",
+"notes": "chopped"
+},
+{
+"name": "cashews",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "2",
+"unit": "tablespoons",
+"notes": "optional"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Rinse and soak urad dal, chana dal and fenugreek seeds in 1 cup water for 4-5 hours.",
+"tip": "",
+"duration_mins": 300
+},
+{
+"step_no": 2,
+"instruction": "Rinse rice and poha. Soak together in 2 cups water for 4-5 hours.",
+"tip": "",
+"duration_mins": 300
+},
+{
+"step_no": 3,
+"instruction": "Grind soaked lentils with ½ cup water to a fluffy batter.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 4,
+"instruction": "Grind soaked rice and poha with 1 cup water to fine grainy consistency.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Mix both batters, add salt and ferment for 8-9 hours or overnight.",
+"tip": "",
+"duration_mins": 540
+},
+{
+"step_no": 6,
+"instruction": "Prepare potato masala: Boil potatoes, peel and crumble.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Heat oil, fry mustard seeds, chana dal, onions, ginger, green chillies, curry leaves.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 8,
+"instruction": "Add turmeric, hing, water, potatoes, salt and cook till thickened.",
+"tip": "",
+"duration_mins": 5
+},
+{
+"step_no": 9,
+"instruction": "Heat tawa, spread dosa batter thinly, drizzle oil and cook till crisp.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 10,
+"instruction": "Place potato masala in center, fold and serve hot.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"The batter consistency should be medium thick.",
+"Fermentation time depends on weather.",
+"For extra crisp dosa use cast iron tawa.",
+"Leftover batter can be refrigerated for 1-2 days."
+],
+"variations": [
+"Add grated coconut or carrots to the filling.",
+"Make it spicier with more green chillies.",
+"Use ghee instead of oil."
+],
+"commonly_served_with": [
+"coconut chutney",
+"tomato chutney",
+"onion chutney",
+"sambar"
+],
+"tags": [
+"masala dosa",
+"dosa recipe",
+"south indian breakfast",
+"tiffin recipe",
+"fermented batter",
+"potato masala"
+]
+}

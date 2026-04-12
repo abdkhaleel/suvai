@@ -1,0 +1,170 @@
+{
+"name": "Rava Pongal",
+"tamil_name": "",
+"transliteration": "Rava Pongal",
+"category": "breakfast",
+"sub_category": "tiffin",
+"diet_type": ["vegetarian"],
+"difficulty": "easy",
+"prep_time": 15,
+"cook_time": 15,
+"total_time": 30,
+"servings": 3,
+"ingredients": [
+{
+"name": "moong dal",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "3",
+"unit": "tablespoons",
+"notes": ""
+},
+{
+"name": "rava",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "cup",
+"notes": "90 grams, sooji or cream of wheat"
+},
+{
+"name": "ghee",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "3",
+"unit": "tablespoons",
+"notes": ""
+},
+{
+"name": "cumin seeds",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "teaspoon",
+"notes": "whole or crushed"
+},
+{
+"name": "black pepper",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "½",
+"unit": "teaspoon",
+"notes": "slightly crushed"
+},
+{
+"name": "ginger",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1",
+"unit": "inch",
+"notes": "finely chopped"
+},
+{
+"name": "asafoetida",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "⅛",
+"unit": "teaspoon",
+"notes": "hing"
+},
+{
+"name": "cashews",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "12 to 15",
+"unit": "",
+"notes": ""
+},
+{
+"name": "curry leaves",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "10 to 12",
+"unit": "",
+"notes": ""
+},
+{
+"name": "water",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "1.5",
+"unit": "cups",
+"notes": ""
+},
+{
+"name": "salt",
+"tamil_name": "",
+"transliteration": "",
+"quantity": "",
+"unit": "",
+"notes": "as required"
+}
+],
+"steps": [
+{
+"step_no": 1,
+"instruction": "Roast moong dal on low heat till aromatic.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 2,
+"instruction": "Pressure cook roasted moong dal with ¾ cup water. Mash and keep aside.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 3,
+"instruction": "Roast ½ cup rava on low heat till fragrant.",
+"tip": "",
+"duration_mins": 8
+},
+{
+"step_no": 4,
+"instruction": "Heat 3 tablespoons ghee. Add cumin seeds, cashews, curry leaves, ginger and black pepper.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 5,
+"instruction": "Pour 1.5 cups water and bring to a rolling boil.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 6,
+"instruction": "Add roasted rava in batches, stirring continuously.",
+"tip": "",
+"duration_mins": 0
+},
+{
+"step_no": 7,
+"instruction": "Add mashed moong dal and salt. Simmer till thickened.",
+"tip": "",
+"duration_mins": 0
+}
+],
+"tips": [
+"Use finer textured rava.",
+"You can add grated vegetables or green peas.",
+"This is a no onion no garlic recipe.",
+"Stays soft even after cooling."
+],
+"variations": [
+"Add onions if you like.",
+"Substitute moong dal with masoor dal or skip lentils."
+],
+"commonly_served_with": [
+"coconut chutney",
+"mango pickle",
+"curd",
+"sambar"
+],
+"tags": [
+"rava pongal",
+"sooji pongal",
+"semolina pongal",
+"south indian breakfast",
+"quick pongal"
+]
+}
