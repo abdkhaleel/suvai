@@ -70,7 +70,7 @@ export default function CookPage() {
 
   return (
     <div style={{ minHeight: '100vh', backgroundColor: 'var(--cream)' }}>
-      <Navbar />
+      {/* <Navbar /> */}
 
       <main className="max-w-4xl mx-auto px-6 py-12">
 

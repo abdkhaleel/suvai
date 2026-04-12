@@ -124,7 +124,7 @@ function ChatContent() {
       display: 'flex',
       flexDirection: 'column',
     }}>
-      <Navbar />
+      {/* <Navbar /> */}
 
       {/* Recipe Header */}
       <div style={{

@@ -6,7 +6,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div style={{ minHeight: '100vh', backgroundColor: 'var(--cream)' }}>
-      <Navbar />
+      {/* <Navbar /> */}
 
       <main className="flex flex-col items-center px-6">
 
