@@ -3,7 +3,7 @@ import { searchByDish, searchByIngredients } from '@/lib/rag'
 
 export async function POST(request: NextRequest) {
   try {
-    const { mode, query, ingredients } = await request.json()
+    const { mode, query, ingredients, matchCount } = await request.json()
 
     if (mode === 'dish') {
       if (!query?.trim()) {
@@ -12,7 +12,7 @@ export async function POST(request: NextRequest) {
           { status: 400 }
         )
       }
-      const results = await searchByDish(query)
+      const results = await searchByDish(query, matchCount || 6)
       return Response.json({ results })
     }
 
@@ -23,7 +23,7 @@ export async function POST(request: NextRequest) {
           { status: 400 }
         )
       }
-      const results = await searchByIngredients(ingredients)
+      const results = await searchByIngredients(ingredients, matchCount || 6)
       return Response.json({ results })
     }
 

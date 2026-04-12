@@ -51,13 +51,26 @@ export default function ChoosePage() {
     setSearched(true)
     setLoading(true)
 
-    const searchQuery = cat === 'All' ? 'Tamil recipe' : `Tamil ${cat} recipe`
+    const categoryQueries: Record<string, string> = {
+      'All':      'Tamil South Indian recipe',
+      'Breakfast': 'Tamil breakfast tiffin morning dish idli dosa pongal upma',
+      'Rice':      'Tamil rice variety dish sambar curd lemon rice',
+      'Curry':     'Tamil kuzhambu curry gravy dish sambar rasam',
+      'Snacks':    'Tamil snack street food bajji murukku sundal',
+      'Sweets':    'Tamil sweet dessert payasam halwa pongal',
+    }
+
+    const searchQuery = categoryQueries[cat] || `Tamil ${cat} recipe`
 
     try {
       const res = await fetch('/api/rag', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ mode: 'dish', query: searchQuery }),
+        body: JSON.stringify({
+          mode: 'dish',
+          query: searchQuery,
+          matchCount: 9        
+        }),
       })
       const data = await res.json()
       setResults(data.results || [])
@@ -68,7 +81,6 @@ export default function ChoosePage() {
 
     setLoading(false)
   }
-
   return (
     <div style={{ minHeight: '100vh', backgroundColor: 'var(--cream)' }}>
       <Navbar />
@@ -246,6 +258,41 @@ export default function ChoosePage() {
             }}>
               Search a dish or pick a category above
             </p>
+          </div>
+        )}
+
+        {/* No Results */}
+        {!loading && searched && results.length === 0 && (
+          <div className="text-center py-16">
+            <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>🤔</div>
+            <h3 style={{
+              fontFamily: 'var(--font-playfair)',
+              fontSize: '1.4rem',
+              color: 'var(--dark)',
+              marginBottom: '0.5rem',
+            }}>
+              Hmm, I don't know that dish
+            </h3>
+            <p style={{
+              fontFamily: 'var(--font-dm-sans)',
+              color: 'var(--muted)',
+              fontSize: '0.9rem',
+              marginBottom: '1.5rem',
+            }}>
+              SuvAI specializes in Tamil cuisine 🍛<br />
+              Try searching for idli, dosa, pongal, sambar...
+            </p>
+            <button
+              onClick={() => {
+                setQuery('')
+                setSearched(false)
+                setResults([])
+              }}
+              className="btn-outline"
+              style={{ fontSize: '0.9rem', padding: '0.6rem 1.5rem' }}
+            >
+              Clear Search
+            </button>
           </div>
         )}
 
