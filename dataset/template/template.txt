@@ -1,0 +1,36 @@
+Name: [English name]
+Tamil Name: [Tamil script — இட்லி]
+Category: [breakfast / rice / curry / kootu-poriyal / chutney / snack / sweet / special]
+Sub Category: [tiffin / kuzhambu / thuvaiyal / street-food / festival / etc]
+Diet: [vegetarian / vegan / non-veg / gluten-free / dairy-free — comma separated]
+Difficulty: [easy / medium / hard]
+Prep Time: [number in minutes]
+Cook Time: [number in minutes]
+Servings: [number]
+
+Description:
+[2-3 lines about the dish, its origin, significance in Tamil cuisine]
+
+Ingredients:
+- [ingredient name] ([tamil name] - [tamil script]): [quantity] [unit]
+- [ingredient name] ([tamil name] - [tamil script]): [quantity] [unit]
+...
+
+Steps:
+1. [Clear single action instruction]
+2. [Clear single action instruction]
+...
+
+Tips:
+- [Practical tip that improves the dish]
+- [Common mistake to avoid]
+- [Storage or serving tip]
+
+Variations:
+[Variation 1], [Variation 2], [Variation 3]
+
+Commonly served with:
+[Dish 1], [Dish 2], [Dish 3]
+
+Tags:
+[tag1], [tag2], [tag3], [tag4], [tag5]
