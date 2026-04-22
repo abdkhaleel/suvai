@@ -1,0 +1,175 @@
+{
+  "name": "Senai Kizhangu Rice",
+  "tamil_name": "சேனைக்கிழங்கு சாதம்",
+  "transliteration": "Senai Kizhangu Sadam",
+  "category": "rice",
+  "sub_category": "variety rice",
+  "diet_type": ["vegetarian"],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 5,
+  "total_time": 10,
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "Rice",
+      "tamil_name": "அரிசி",
+      "transliteration": "அரிசி",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "boiled"
+    },
+    {
+      "name": "Senai kizhangu poriyal",
+      "tamil_name": "சேனைக்கிழங்கு பொரியல்",
+      "transliteration": "சேனைக்கிழங்கு பொரியல்",
+      "quantity": "1/2",
+      "unit": "cup",
+      "notes": "leftover"
+    },
+    {
+      "name": "Homemade chilli powder",
+      "tamil_name": "வீட்டு மிளகாய் தூள்",
+      "transliteration": "வீட்டு மிளகாய் தூள்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1/2",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Chana dal",
+      "tamil_name": "கடலை பருப்பு",
+      "transliteration": "கடலை பருப்பு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "1.5",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat oil in a pan; add mustard seeds, chana dal, and urad dal; fry till light brown.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add curry leaves, asafoetida, green chilli, turmeric powder, and chilli powder; sauté.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add leftover senai kizhangu poriyal and sauté for a minute.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add boiled rice and salt; mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Garnish with chopped coriander leaves and remove from heat.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use completely cooled leftover rice to prevent mushiness.",
+    "Adjust chilli powder according to the spice level of the poriyal.",
+    "Serve immediately with papad for crunch."
+  ],
+  "variations": [
+    "Raw banana rice",
+    "banana stem rice",
+    "colocasia rice"
+  ],
+  "commonly_served_with": [
+    "Appalam",
+    "papad"
+  ],
+  "tags": [
+    "rice",
+    "variety rice",
+    "leftover recipe",
+    "senai kizhangu",
+    "lunch",
+    "quick",
+    "vegetarian",
+    "tamil nadu"
+  ]
+}

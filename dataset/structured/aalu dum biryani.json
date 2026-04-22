@@ -1,0 +1,304 @@
+{
+  "name": "Aloo Dum Biryani",
+  "tamil_name": "ஆலூ டம் பிரியாணி",
+  "transliteration": "Aloo Dum Biryani",
+  "category": "rice",
+  "sub_category": "biryani",
+  "diet_type": ["vegetarian"],
+  "difficulty": "medium",
+  "prep_time": 40,
+  "cook_time": 45,
+  "total_time": 85,
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "tamil_name": "பாஸ்மதி அரிசி",
+      "transliteration": "பாஸ்மதி அரிசி",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Green cardamom",
+      "tamil_name": "ஏலக்காய்",
+      "transliteration": "ஏலக்காய்",
+      "quantity": "3 + 2",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "tamil_name": "பட்டை",
+      "transliteration": "பட்டை",
+      "quantity": "1 + 1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cloves",
+      "tamil_name": "கிராம்பு",
+      "transliteration": "கிராம்பு",
+      "quantity": "3",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "tamil_name": "பிரிஞ்சி இலை",
+      "transliteration": "பிரிஞ்சி இலை",
+      "quantity": "1 + 1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "4",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "tamil_name": "உருளைக்கிழங்கு",
+      "transliteration": "உருளைக்கிழங்கு",
+      "quantity": "3",
+      "unit": "",
+      "notes": "parboiled"
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Mint leaves",
+      "tamil_name": "புதினா இலை",
+      "transliteration": "புதினா இலை",
+      "quantity": "3",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Curd",
+      "tamil_name": "தயிர்",
+      "transliteration": "தயிர்",
+      "quantity": "1/4 cup + 3 tbsp",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "tamil_name": "சோம்பு",
+      "transliteration": "சோம்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "tamil_name": "கரம் மசாலா",
+      "transliteration": "கரம் மசாலா",
+      "quantity": "1/2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "1/2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "tamil_name": "வெண்ணெய்",
+      "transliteration": "வெண்ணெய்",
+      "quantity": "1 1/2",
+      "unit": "inch cube",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fried onion",
+      "tamil_name": "வறுத்த வெங்காயம்",
+      "transliteration": "வறுத்த வெங்காயம்",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Cashews & raisins",
+      "tamil_name": "முந்திரி & உலர்ந்த திராட்சை",
+      "transliteration": "முந்திரி & உலர்ந்த திராட்சை",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": "fried"
+    },
+    {
+      "name": "Saffron milk",
+      "tamil_name": "குங்குமப்பூ பால்",
+      "transliteration": "குங்குமப்பூ பால்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Edible food colour",
+      "tamil_name": "உணவு வண்ணம்",
+      "transliteration": "உணவு வண்ணம்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "tamil_name": "காரட்",
+      "transliteration": "காரட்",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": "sautéed"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Wash and soak basmati rice for 30 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Soak saffron in hot milk or water for 10 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Boil water with cinnamon, cloves, bay leaf, cardamom, salt, and ghee; add soaked rice and parboil, then drain.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Mix parboiled potato cubes with ginger-garlic paste, red chilli powder, turmeric, garam masala, and curd; marinate for 10 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Heat oil and butter in a pan; add green cardamom, fennel seeds, cinnamon, cloves, and bay leaves; sauté.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add marinated potatoes and cook for 5 minutes; reserve 1 cup of the potato masala.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Layer parboiled rice, fried onion, saffron milk, mint-coriander leaves, food colour, potato masala, and sautéed carrot in the pot.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Cover with aluminium foil, place on a hot iron dosa tawa, and cook on low flame for 25 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Remove from heat and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use fresh mint and coriander for maximum aroma in the dum process.",
+    "Avoid over-stirring the layers to keep the rice grains intact.",
+    "Serve immediately after dum cooking for the best texture and fragrance."
+  ],
+  "variations": [
+    "Vegetable dum biryani",
+    "paneer dum biryani",
+    "mushroom dum biryani"
+  ],
+  "commonly_served_with": [
+    "Raita",
+    "salna",
+    "kurma",
+    "pachadi"
+  ],
+  "tags": [
+    "biryani",
+    "rice",
+    "lunch",
+    "south indian",
+    "vegetarian",
+    "dum biryani",
+    "potato biryani"
+  ]
+}

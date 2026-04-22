@@ -1,0 +1,283 @@
+{
+  "name": "Chole Biryani",
+  "tamil_name": "கொண்டகடலை பிரியாணி",
+  "transliteration": "Kondakadalai Biryani",
+  "category": "rice",
+  "sub_category": "biryani",
+  "diet_type": ["vegetarian"],
+  "difficulty": "medium",
+  "prep_time": 30,
+  "cook_time": 20,
+  "total_time": 50,
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "tamil_name": "கொண்டகடலை",
+      "transliteration": "கொண்டகடலை",
+      "quantity": "1/2",
+      "unit": "cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Basmati rice",
+      "tamil_name": "பாஸ்மதி அரிசி",
+      "transliteration": "பாஸ்மதி அரிசி",
+      "quantity": "1 1/2",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "tamil_name": "தக்காளி",
+      "transliteration": "தக்காளி",
+      "quantity": "1",
+      "unit": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "slit"
+    },
+    {
+      "name": "Mint leaves & coriander leaves",
+      "tamil_name": "புதினா & கொத்தமல்லி இலை",
+      "transliteration": "புதினா & கொத்தமல்லி இலை",
+      "quantity": "1/2",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "tamil_name": "சோம்பு",
+      "transliteration": "சோம்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green cardamom",
+      "tamil_name": "ஏலக்காய்",
+      "transliteration": "ஏலக்காய்",
+      "quantity": "3",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "tamil_name": "பட்டை",
+      "transliteration": "பட்டை",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cloves",
+      "tamil_name": "கிராம்பு",
+      "transliteration": "கிராம்பு",
+      "quantity": "4",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "tamil_name": "பிரிஞ்சி இலை",
+      "transliteration": "பிரிஞ்சி இலை",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Star anise",
+      "tamil_name": "நட்சத்திர பூ",
+      "transliteration": "நட்சத்திர பூ",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Stone flower",
+      "tamil_name": "கல்பாசி",
+      "transliteration": "கல்பாசி",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "tamil_name": "கரம் மசாலா",
+      "transliteration": "கரம் மசாலா",
+      "quantity": "1/2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "1/2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2 1/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "tamil_name": "வெண்ணெய்",
+      "transliteration": "வெண்ணெய்",
+      "quantity": "1 1/2",
+      "unit": "inch cube",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Wash and soak basmati rice for 30 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Wash and soak chickpeas for 8 hours; boil with salt, turmeric, and red chilli powder till soft.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Grind mint leaves, coriander leaves, and green chilli coarsely.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat oil and butter in a pressure cooker; add whole spices and sauté.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add sliced onion and sauté till light brown.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add ginger-garlic paste and sauté.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add mint-coriander-green chilli mixture and sauté.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add chopped tomato and cook till soft.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add boiled chickpeas, garam masala, and red chilli powder; mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Add salt and water; bring to a boil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Add soaked rice, mix gently, cover, and cook for 3-4 whistles.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Sprinkle fresh mint leaves and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Soak chickpeas well for soft texture in the biryani.",
+    "Mix rice gently after adding to avoid breaking grains.",
+    "Use pineapple raita for a sweet contrast to the spicy biryani."
+  ],
+  "variations": [
+    "Kidney bean biryani",
+    "rajma biryani",
+    "mixed vegetable chole biryani"
+  ],
+  "commonly_served_with": [
+    "Kurma",
+    "raita",
+    "pachadi",
+    "pineapple raita"
+  ],
+  "tags": [
+    "biryani",
+    "chole biryani",
+    "kondakadalai biryani",
+    "one pot",
+    "lunch box",
+    "vegetarian",
+    "pressure cooker",
+    "south indian"
+  ]
+}

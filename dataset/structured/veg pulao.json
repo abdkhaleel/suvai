@@ -1,0 +1,318 @@
+{
+  "name": "Veg Pulao with Pomegranate Raita",
+  "tamil_name": "காய்கறி புலாவ்",
+  "transliteration": "Kaaykari Pulaav",
+  "category": "rice",
+  "sub_category": "pulao",
+  "diet_type": ["vegetarian"],
+  "difficulty": "easy",
+  "prep_time": 20,
+  "cook_time": 15,
+  "total_time": 35,
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "tamil_name": "பாஸ்மதி அரிசி",
+      "transliteration": "பாஸ்மதி அரிசி",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Mixed vegetables (carrot, potato, green peas)",
+      "tamil_name": "காய்கறிகள்",
+      "transliteration": "காய்கறிகள்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "tamil_name": "தக்காளி",
+      "transliteration": "தக்காளி",
+      "quantity": "2",
+      "unit": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fennel seeds",
+      "tamil_name": "சோம்பு",
+      "transliteration": "சோம்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green cardamom",
+      "tamil_name": "ஏலக்காய்",
+      "transliteration": "ஏலக்காய்",
+      "quantity": "3",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Marathi moggu",
+      "tamil_name": "மராத்தி மொக்கு",
+      "transliteration": "மராத்தி மொக்கு",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "tamil_name": "பட்டை",
+      "transliteration": "பட்டை",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cloves",
+      "tamil_name": "கிராம்பு",
+      "transliteration": "கிராம்பு",
+      "quantity": "4",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "tamil_name": "பிரிஞ்சி இலை",
+      "transliteration": "பிரிஞ்சி இலை",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Star anise",
+      "tamil_name": "நட்சத்திர பூ",
+      "transliteration": "நட்சத்திர பூ",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Mace",
+      "tamil_name": "ஜாதிபத்ரி",
+      "transliteration": "ஜாதிபத்ரி",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "tamil_name": "கரம் மசாலா",
+      "transliteration": "கரம் மசாலா",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "3",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "1",
+      "unit": "inch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "5",
+      "unit": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mint leaves",
+      "tamil_name": "புதினா இலை",
+      "transliteration": "புதினா இலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Curd",
+      "tamil_name": "தயிர்",
+      "transliteration": "தயிர்",
+      "quantity": "as needed",
+      "unit": "",
+      "notes": "for raita"
+    },
+    {
+      "name": "Pomegranate",
+      "tamil_name": "மாதுளை",
+      "transliteration": "மாதுளை",
+      "quantity": "as needed",
+      "unit": "",
+      "notes": "for raita"
+    },
+    {
+      "name": "Roasted cumin powder",
+      "tamil_name": "வறுத்த சீரக தூள்",
+      "transliteration": "வறுத்த சீரக தூள்",
+      "quantity": "as needed",
+      "unit": "",
+      "notes": "for raita"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Wash basmati rice 2-3 times and soak for 15 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Coarsely grind green chilli, ginger, garlic, mint, and coriander leaves.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Heat oil and ghee in a pressure cooker; add whole spices and sauté.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add sliced onion and sauté till light brown.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add ground paste, mixed vegetables, and sauté for 3 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add chopped tomato, garam masala, red chilli powder, and turmeric; sauté till soft.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add soaked rice, salt, and water; mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Cover and cook for 3-4 whistles (or 10 minutes in open pan).",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "For raita, mix curd with pomegranate arils, salt, ginger, green chilli, mint, roasted cumin, and red chilli powder.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Fluff the pulao and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Soak rice properly to get non-sticky grains.",
+    "Do not overcook vegetables to retain crunch.",
+    "Prepare raita fresh and chill before serving for best taste."
+  ],
+  "variations": [
+    "Mushroom pulao",
+    "paneer pulao",
+    "coconut milk pulao"
+  ],
+  "commonly_served_with": [
+    "Salna",
+    "kurma",
+    "raita",
+    "pachadi"
+  ],
+  "tags": [
+    "pulao",
+    "rice",
+    "lunch box",
+    "vegetarian",
+    "south indian",
+    "quick recipe",
+    "veg pulao"
+  ]
+}

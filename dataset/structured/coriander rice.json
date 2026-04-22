@@ -1,0 +1,149 @@
+{
+  "name": "Kongunadu Village Style Coriander Rice",
+  "tamil_name": "கோதமல்லி சாதம்",
+  "transliteration": "Kothamalli Sadam",
+  "category": "rice",
+  "sub_category": "variety rice",
+  "diet_type": ["vegetarian"],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 5,
+  "total_time": 15,
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "Rice",
+      "tamil_name": "அரிசி",
+      "transliteration": "அரிசி",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "boiled"
+    },
+    {
+      "name": "Carom seeds",
+      "tamil_name": "ஓமம்",
+      "transliteration": "ஓமம்",
+      "quantity": "1 1/2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dry red chilli",
+      "tamil_name": "காய்ந்த மிளகாய்",
+      "transliteration": "காய்ந்த மிளகாய்",
+      "quantity": "2",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Peppercorns",
+      "tamil_name": "மிளகு",
+      "transliteration": "மிளகு",
+      "quantity": "4",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "2",
+      "unit": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "a pinch",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Gingelly oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "1 1/2",
+      "unit": "tbsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Dry roast carom seeds, dry red chilli, and peppercorns one by one and let them cool.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Coarsely grind the roasted ingredients without water using a mixer or mortar-pestle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Heat gingelly oil in a pan; add curry leaves, garlic, and asafoetida; sauté.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add the freshly ground powder mixture and sauté briefly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add boiled rice and salt; mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Pour 1 tbsp gingelly oil, mix thoroughly, and remove from heat.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Roast spices on low flame to prevent burning and retain flavour.",
+    "Use leftover cooled rice for better grain separation.",
+    "Serve hot with papad for a complete simple meal."
+  ],
+  "variations": [
+    "Lemon coriander rice",
+    "mint coriander rice",
+    "coconut coriander rice"
+  ],
+  "commonly_served_with": [
+    "Appalam",
+    "papad"
+  ],
+  "tags": [
+    "rice",
+    "kothamalli sadam",
+    "kongunadu",
+    "variety rice",
+    "lunch",
+    "medicinal",
+    "vegetarian",
+    "quick recipe"
+  ]
+}
