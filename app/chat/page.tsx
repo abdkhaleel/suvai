@@ -3,18 +3,29 @@
 import { Suspense } from 'react'
 import { useState, useEffect, useRef } from 'react'
 import { useSearchParams } from 'next/navigation'
-import Navbar from '@/components/Navbar'
 import ReactMarkdown from 'react-markdown'
 import Link from 'next/link'
+import Navbar from '@/components/Navbar'
+import {
+  CookingPot,
+  Loader2,
+  ChefHat,
+  Clock,
+  ArrowLeft,
+  Send,
+} from 'lucide-react'
 
 interface Message {
   role: 'user' | 'assistant'
   text: string
 }
 
-// ─────────────────────────────────────────
-// Separate component that uses useSearchParams
-// ─────────────────────────────────────────
+// ─── Helper: unescape literal \n from API response ───
+function unescapeText(text: string) {
+  return text.replace(/\\n/g, '\n').replace(/\\t/g, '\t')
+}
+
+// ─── Chat Content (uses useSearchParams) ───
 function ChatContent() {
   const searchParams = useSearchParams()
   const recipeId = searchParams.get('id')
@@ -35,16 +46,27 @@ function ChatContent() {
         const res = await fetch(`/api/recipe?id=${recipeId}`)
         const data = await res.json()
         setRecipe(data.recipe)
-        setMessages([{
-          role: 'assistant',
-          text: `வணக்கம்! 🙏 I'm your SuvAI chef, and I'm excited to help you make **${data.recipe?.name?.split('|')[0].split('Recipe')[0].trim() || recipeName}** today!\n\nThis is a beautiful Tamil dish. Are you ready to start cooking? Just say **"Let's start"** and I'll guide you step by step! 🍳`
-        }])
+        setMessages([
+          {
+            role: 'assistant',
+            text: unescapeText(
+              `வணக்கம்! I'm your SuvAI chef, and I'm excited to help you make **${
+                data.recipe?.name?.split('|')[0].split('Recipe')[0].trim() ||
+                recipeName
+              }** today!\n\nThis is a beautiful Tamil dish. Are you ready to start cooking? Just say **"Let's start"** and I'll guide you step by step!`
+            ),
+          },
+        ])
       } catch (err) {
         console.error(err)
-        setMessages([{
-          role: 'assistant',
-          text: `வணக்கம்! 🙏 I'm your SuvAI chef! I'm here to help you cook today. What would you like to know? 🍳`
-        }])
+        setMessages([
+          {
+            role: 'assistant',
+            text: unescapeText(
+              `வணக்கம்! I'm your SuvAI chef! I'm here to help you cook today. What would you like to know?`
+            ),
+          },
+        ])
       }
       setRecipeLoading(false)
     }
@@ -62,9 +84,9 @@ function ChatContent() {
     const userMessage = input.trim()
     setInput('')
 
-    setMessages(prev => [...prev, { role: 'user', text: userMessage }])
+    setMessages((prev) => [...prev, { role: 'user', text: userMessage }])
     setLoading(true)
-    setMessages(prev => [...prev, { role: 'assistant', text: '' }])
+    setMessages((prev) => [...prev, { role: 'assistant', text: '' }])
 
     try {
       const res = await fetch('/api/gemma', {
@@ -73,7 +95,7 @@ function ChatContent() {
         body: JSON.stringify({
           message: userMessage,
           recipeContext: recipe,
-          history: messages.map(m => ({
+          history: messages.map((m) => ({
             role: m.role,
             text: m.text,
           })),
@@ -87,7 +109,7 @@ function ChatContent() {
         const { done, value } = await reader.read()
         if (done) break
         const chunk = decoder.decode(value)
-        setMessages(prev => {
+        setMessages((prev) => {
           const updated = [...prev]
           updated[updated.length - 1] = {
             role: 'assistant',
@@ -97,11 +119,11 @@ function ChatContent() {
         })
       }
     } catch (err) {
-      setMessages(prev => {
+      setMessages((prev) => {
         const updated = [...prev]
         updated[updated.length - 1] = {
           role: 'assistant',
-          text: "Oops! Something went wrong in the kitchen 😅 Please try again.",
+          text: 'Oops! Something went wrong in the kitchen. Please try again.',
         }
         return updated
       })
@@ -111,97 +133,67 @@ function ChatContent() {
   }
 
   const quickReplies = [
-    "Let's start! 🍳",
-    "What ingredients do I need?",
-    "Any tips for beginners?",
-    "What can I substitute?",
+    "Let's start!",
+    'What ingredients do I need?',
+    'Any tips for beginners?',
+    'What can I substitute?',
   ]
 
   return (
-    <div style={{
-      minHeight: '100vh',
-      backgroundColor: 'var(--cream)',
-      display: 'flex',
-      flexDirection: 'column',
-    }}>
-      {/* <Navbar /> */}
+    <div
+      className="min-h-screen flex flex-col"
+      style={{ backgroundColor: 'var(--cream)' }}
+    >
+      <Navbar />
 
       {/* Recipe Header */}
-      <div style={{
-        backgroundColor: 'white',
-        borderBottom: '1px solid var(--border)',
-        padding: '0.75rem 1rem',
-      }}>
-        <div style={{
-          maxWidth: '768px',
-          margin: '0 auto',
-        }}>
-          {/* Top row */}
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'space-between',
-            flexWrap: 'wrap',
-            gap: '0.5rem',
-          }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+      <div className="bg-white border-b border-[var(--border)]">
+        <div className="max-w-3xl mx-auto px-4 py-3">
+          <div className="flex items-center justify-between flex-wrap gap-2">
+            <div className="flex items-center gap-2 min-w-0">
               <Link
                 href="/choose"
-                style={{
-                  color: 'var(--muted)',
-                  fontFamily: 'var(--font-dm-sans)',
-                  fontSize: '0.85rem',
-                  textDecoration: 'none',
-                  whiteSpace: 'nowrap',
-                }}
+                className="inline-flex items-center gap-1 text-sm text-[var(--muted)] no-underline whitespace-nowrap hover:text-[var(--burnt-orange)] transition-colors duration-200"
+                style={{ fontFamily: 'var(--font-dm-sans)' }}
               >
-                ← Back
+                <ArrowLeft size={16} strokeWidth={2} />
+                Back
               </Link>
-              <span style={{ color: 'var(--border)' }}>|</span>
-              <h2 style={{
-                fontFamily: 'var(--font-playfair)',
-                fontSize: '1rem',
-                fontWeight: 700,
-                color: 'var(--dark)',
-                whiteSpace: 'nowrap',
-                overflow: 'hidden',
-                textOverflow: 'ellipsis',
-                maxWidth: '180px',
-              }}>
-                {recipe?.name?.split('|')[0].split('Recipe')[0].trim()
-                  || recipeName?.split('|')[0].split('Recipe')[0].trim()
-                  || 'Chef Chat'}
+              <span className="text-[var(--border)]">|</span>
+              <h2
+                className="text-base font-bold text-[var(--dark)] truncate max-w-[200px]"
+                style={{ fontFamily: 'var(--font-playfair)' }}
+              >
+                {recipe?.name?.split('|')[0].split('Recipe')[0].trim() ||
+                  recipeName?.split('|')[0].split('Recipe')[0].trim() ||
+                  'Chef Chat'}
               </h2>
             </div>
 
             {/* Pills */}
             {recipe && (
-              <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap' }}>
+              <div className="flex gap-2 flex-wrap">
                 {recipe.difficulty && (
-                  <span style={{
-                    backgroundColor: 'var(--cream)',
-                    border: '1px solid var(--border)',
-                    borderRadius: '100px',
-                    padding: '0.2rem 0.6rem',
-                    fontSize: '0.7rem',
-                    fontFamily: 'var(--font-dm-sans)',
-                    color: 'var(--muted)',
-                    textTransform: 'capitalize',
-                  }}>
+                  <span
+                    className="px-2.5 py-0.5 rounded-full text-[0.7rem] capitalize border border-[var(--border)] text-[var(--muted)]"
+                    style={{
+                      fontFamily: 'var(--font-dm-sans)',
+                      backgroundColor: 'var(--cream)',
+                    }}
+                  >
                     {recipe.difficulty}
                   </span>
                 )}
                 {recipe.cook_time && (
-                  <span style={{
-                    backgroundColor: 'var(--cream)',
-                    border: '1px solid var(--border)',
-                    borderRadius: '100px',
-                    padding: '0.2rem 0.6rem',
-                    fontSize: '0.7rem',
-                    fontFamily: 'var(--font-dm-sans)',
-                    color: 'var(--muted)',
-                  }}>
-                    ⏱ {recipe.cook_time}m
+                  <span
+                    className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[0.7rem] border border-[var(--border)] text-[var(--muted)]"
+                    style={{
+                      fontFamily: 'var(--font-dm-sans)',
+                      backgroundColor: 'var(--cream)',
+                    }}
+                  >
+                    <Clock size={12} strokeWidth={2} />
+                    {recipe.cook_time}m
                   </span>
                 )}
               </div>
@@ -210,12 +202,10 @@ function ChatContent() {
 
           {/* Tamil name */}
           {recipe?.tamil_name && (
-            <p style={{
-              fontFamily: 'var(--font-dm-sans)',
-              fontSize: '0.8rem',
-              color: 'var(--burnt-orange)',
-              marginTop: '0.2rem',
-            }}>
+            <p
+              className="mt-1 text-xs text-[var(--burnt-orange)]"
+              style={{ fontFamily: 'var(--font-dm-sans)' }}
+            >
               {recipe.tamil_name.split('/')[0].trim()}
             </p>
           )}
@@ -223,94 +213,111 @@ function ChatContent() {
       </div>
 
       {/* Chat Messages */}
-      <div style={{ flex: 1, overflowY: 'auto', padding: '1.5rem 1rem' }}>
+      <div className="flex-1 overflow-y-auto px-4 py-6">
         <div className="max-w-3xl mx-auto flex flex-col gap-4">
-
           {recipeLoading && (
             <div className="flex justify-center py-8">
-              <div style={{ fontSize: '2rem', animation: 'spin 1s linear infinite' }}>
-                🍳
-              </div>
+              <CookingPot
+                size={32}
+                className="text-[var(--burnt-orange)] animate-spin"
+                strokeWidth={1.5}
+              />
             </div>
           )}
 
           {messages.map((msg, i) => (
             <div
               key={i}
-              className="animate-fade-up"
+              className="animate-fade-up flex"
               style={{
-                display: 'flex',
-                justifyContent: msg.role === 'user' ? 'flex-end' : 'flex-start',
+                justifyContent:
+                  msg.role === 'user' ? 'flex-end' : 'flex-start',
                 opacity: 0,
               }}
             >
               {msg.role === 'assistant' && (
-                <div style={{
-                  width: '36px',
-                  height: '36px',
-                  borderRadius: '50%',
-                  backgroundColor: 'var(--burnt-orange)',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  fontSize: '1.1rem',
-                  flexShrink: 0,
-                  marginRight: '0.75rem',
-                  marginTop: '0.25rem',
-                }}>
-                  👨‍🍳
+                <div className="w-9 h-9 rounded-full bg-[var(--burnt-orange)] flex items-center justify-center shrink-0 mr-3 mt-1">
+                  <ChefHat size={20} className="text-white" strokeWidth={2} />
                 </div>
               )}
 
-              <div style={{
-                maxWidth: '75%',
-                backgroundColor: msg.role === 'user'
-                  ? 'var(--burnt-orange)'
-                  : 'white',
-                color: msg.role === 'user' ? 'white' : 'var(--dark)',
-                borderRadius: msg.role === 'user'
-                  ? '20px 20px 4px 20px'
-                  : '20px 20px 20px 4px',
-                padding: '0.875rem 1.1rem',
-                border: msg.role === 'assistant'
-                  ? '1px solid var(--border)'
-                  : 'none',
-                fontFamily: 'var(--font-dm-sans)',
-                fontSize: '0.95rem',
-                lineHeight: 1.6,
-                boxShadow: '0 2px 8px rgba(0,0,0,0.06)',
-              }}>
+              <div
+                className="max-w-[75%] px-4 py-3.5 text-[0.95rem] leading-relaxed shadow-sm"
+                style={{
+                  fontFamily: 'var(--font-dm-sans)',
+                  backgroundColor:
+                    msg.role === 'user' ? 'var(--burnt-orange)' : 'white',
+                  color: msg.role === 'user' ? 'white' : 'var(--dark)',
+                  borderRadius:
+                    msg.role === 'user'
+                      ? '20px 20px 4px 20px'
+                      : '20px 20px 20px 4px',
+                  border:
+                    msg.role === 'assistant'
+                      ? '1px solid var(--border)'
+                      : 'none',
+                }}
+              >
                 {msg.role === 'assistant' ? (
                   <>
                     <ReactMarkdown
                       components={{
-                        h1: ({ ...props }) => <h1 style={{ fontFamily: 'var(--font-playfair)', fontSize: '1.3rem', fontWeight: 700, marginBottom: '0.5rem' }} {...props} />,
-                        h2: ({ ...props }) => <h2 style={{ fontFamily: 'var(--font-playfair)', fontSize: '1.1rem', fontWeight: 700, marginBottom: '0.4rem', marginTop: '0.75rem' }} {...props} />,
-                        h3: ({ ...props }) => <h3 style={{ fontFamily: 'var(--font-playfair)', fontSize: '1rem', fontWeight: 600, marginBottom: '0.3rem' }} {...props} />,
-                        p: ({ ...props }) => <p style={{ marginBottom: '0.5rem' }} {...props} />,
-                        ul: ({ ...props }) => <ul style={{ paddingLeft: '1.2rem', marginBottom: '0.5rem' }} {...props} />,
-                        ol: ({ ...props }) => <ol style={{ paddingLeft: '1.2rem', marginBottom: '0.5rem' }} {...props} />,
-                        li: ({ ...props }) => <li style={{ marginBottom: '0.25rem' }} {...props} />,
-                        strong: ({ ...props }) => <strong style={{ color: 'var(--burnt-orange)', fontWeight: 600 }} {...props} />,
-                        code: ({ ...props }) => <code style={{ backgroundColor: 'var(--cream)', padding: '0.1rem 0.3rem', borderRadius: '4px', fontSize: '0.85rem' }} {...props} />,
+                        h1: (props) => (
+                          <h1
+                            className="text-xl font-bold mb-2"
+                            style={{ fontFamily: 'var(--font-playfair)' }}
+                            {...props}
+                          />
+                        ),
+                        h2: (props) => (
+                          <h2
+                            className="text-lg font-bold mb-2 mt-3"
+                            style={{ fontFamily: 'var(--font-playfair)' }}
+                            {...props}
+                          />
+                        ),
+                        h3: (props) => (
+                          <h3
+                            className="text-base font-semibold mb-1"
+                            style={{ fontFamily: 'var(--font-playfair)' }}
+                            {...props}
+                          />
+                        ),
+                        p: (props) => (
+                          <p className="mb-2 last:mb-0" {...props} />
+                        ),
+                        ul: (props) => (
+                          <ul className="pl-5 mb-2 list-disc" {...props} />
+                        ),
+                        ol: (props) => (
+                          <ol className="pl-5 mb-2 list-decimal" {...props} />
+                        ),
+                        li: (props) => (
+                          <li className="mb-1" {...props} />
+                        ),
+                        strong: (props) => (
+                          <strong
+                            className="font-semibold text-[var(--burnt-orange)]"
+                            {...props}
+                          />
+                        ),
+                        code: (props) => (
+                          <code
+                            className="px-1 py-0.5 rounded text-sm"
+                            style={{ backgroundColor: 'var(--cream)' }}
+                            {...props}
+                          />
+                        ),
                       }}
                     >
-                      {msg.text}
+                      {unescapeText(msg.text)}
                     </ReactMarkdown>
                     {loading && i === messages.length - 1 && (
-                      <span style={{
-                        display: 'inline-block',
-                        width: '2px',
-                        height: '1em',
-                        backgroundColor: 'var(--burnt-orange)',
-                        marginLeft: '2px',
-                        animation: 'blink 1s step-end infinite',
-                        verticalAlign: 'text-bottom',
-                      }} />
+                      <span className="inline-block w-0.5 h-4 bg-[var(--burnt-orange)] ml-0.5 align-text-bottom animate-pulse" />
                     )}
                   </>
                 ) : (
-                  msg.text
+                  unescapeText(msg.text)
                 )}
               </div>
             </div>
@@ -322,35 +329,17 @@ function ChatContent() {
 
       {/* Quick Replies */}
       {messages.length <= 1 && !loading && (
-        <div style={{ padding: '0 1rem 0.5rem' }}>
+        <div className="px-4 pb-2">
           <div className="max-w-3xl mx-auto flex flex-wrap gap-2">
-            {quickReplies.map(reply => (
+            {quickReplies.map((reply) => (
               <button
                 key={reply}
                 onClick={() => {
                   setInput(reply)
                   setTimeout(() => sendMessage(), 100)
                 }}
-                style={{
-                  backgroundColor: 'white',
-                  border: '1.5px solid var(--border)',
-                  borderRadius: '100px',
-                  padding: '0.4rem 1rem',
-                  fontFamily: 'var(--font-dm-sans)',
-                  fontSize: '0.82rem',
-                  color: 'var(--charcoal)',
-                  cursor: 'pointer',
-                  transition: 'all 0.2s ease',
-                  fontWeight: 500,
-                }}
-                onMouseEnter={e => {
-                  e.currentTarget.style.borderColor = 'var(--burnt-orange)'
-                  e.currentTarget.style.color = 'var(--burnt-orange)'
-                }}
-                onMouseLeave={e => {
-                  e.currentTarget.style.borderColor = 'var(--border)'
-                  e.currentTarget.style.color = 'var(--charcoal)'
-                }}
+                className="px-4 py-2 rounded-full text-sm font-medium border border-[var(--border)] bg-white text-[var(--charcoal)] cursor-pointer transition-all duration-200 hover:border-[var(--burnt-orange)] hover:text-[var(--burnt-orange)]"
+                style={{ fontFamily: 'var(--font-dm-sans)' }}
               >
                 {reply}
               </button>
@@ -360,110 +349,66 @@ function ChatContent() {
       )}
 
       {/* Input Area */}
-      <div style={{
-        backgroundColor: 'white',
-        borderTop: '1px solid var(--border)',
-        padding: '0.75rem 1rem',
-        paddingBottom: 'calc(0.75rem + env(safe-area-inset-bottom))',
-      }}>
+      <div className="bg-white border-t border-[var(--border)] px-4 py-3">
         <form
           onSubmit={sendMessage}
-          style={{
-            maxWidth: '768px',
-            margin: '0 auto',
-            display: 'flex',
-            gap: '0.5rem',
-            alignItems: 'center',
-          }}
+          className="max-w-3xl mx-auto flex gap-2 items-center"
         >
           <input
             type="text"
             value={input}
-            onChange={e => setInput(e.target.value)}
+            onChange={(e) => setInput(e.target.value)}
             placeholder="Ask your chef..."
             disabled={loading}
-            style={{
-              flex: 1,
-              padding: '0.75rem 1rem',
-              borderRadius: '100px',
-              border: '2px solid var(--border)',
-              backgroundColor: 'var(--cream)',
-              fontFamily: 'var(--font-dm-sans)',
-              fontSize: '0.95rem',
-              color: 'var(--dark)',
-              outline: 'none',
-              minWidth: 0,        // ← important for mobile flex
-              transition: 'border-color 0.2s ease',
-            }}
-            onFocus={e => (e.target.style.borderColor = 'var(--burnt-orange)')}
-            onBlur={e => (e.target.style.borderColor = 'var(--border)')}
+            className="flex-1 min-w-0 px-4 py-3 rounded-full border-2 border-[var(--border)] bg-[var(--cream)] text-[var(--dark)] text-[0.95rem] outline-none transition-colors duration-200 focus:border-[var(--burnt-orange)] disabled:opacity-60"
+            style={{ fontFamily: 'var(--font-dm-sans)' }}
           />
           <button
             type="submit"
             disabled={loading || !input.trim()}
+            className="w-11 h-11 rounded-full flex items-center justify-center shrink-0 text-white transition-all duration-200 disabled:cursor-not-allowed disabled:bg-[var(--border)]"
             style={{
-              backgroundColor: loading || !input.trim()
-                ? 'var(--border)'
-                : 'var(--burnt-orange)',
-              color: 'white',
-              border: 'none',
-              borderRadius: '50%',
-              width: '44px',
-              height: '44px',
-              fontSize: '1.1rem',
-              cursor: loading || !input.trim() ? 'not-allowed' : 'pointer',
-              transition: 'all 0.2s ease',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              flexShrink: 0,
+              backgroundColor:
+                loading || !input.trim()
+                  ? 'var(--border)'
+                  : 'var(--burnt-orange)',
             }}
           >
-            {loading ? '⏳' : '↑'}
+            {loading ? (
+              <Loader2 size={20} className="animate-spin" />
+            ) : (
+              <Send size={20} strokeWidth={2} />
+            )}
           </button>
         </form>
       </div>
-
-      <style jsx>{`
-        @keyframes spin {
-          from { transform: rotate(0deg); }
-          to { transform: rotate(360deg); }
-        }
-        @keyframes blink {
-          0%, 100% { opacity: 1; }
-          50% { opacity: 0; }
-        }
-      `}</style>
     </div>
   )
 }
 
-// ─────────────────────────────────────────
-// Main export — wraps ChatContent in Suspense
-// ─────────────────────────────────────────
+// ─── Main Export with Suspense ───
 export default function ChatPage() {
   return (
-    <Suspense fallback={
-      <div style={{
-        minHeight: '100vh',
-        backgroundColor: 'var(--cream)',
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        flexDirection: 'column',
-        gap: '1rem',
-      }}>
-        <div style={{ fontSize: '3rem', animation: 'spin 1s linear infinite' }}>
-          🍳
+    <Suspense
+      fallback={
+        <div
+          className="min-h-screen flex flex-col items-center justify-center gap-4"
+          style={{ backgroundColor: 'var(--cream)' }}
+        >
+          <CookingPot
+            size={48}
+            className="text-[var(--burnt-orange)] animate-spin"
+            strokeWidth={1.5}
+          />
+          <p
+            className="text-sm text-[var(--muted)]"
+            style={{ fontFamily: 'var(--font-dm-sans)' }}
+          >
+            Loading your chef...
+          </p>
         </div>
-        <p style={{
-          fontFamily: 'var(--font-dm-sans)',
-          color: 'var(--muted)',
-        }}>
-          Loading your chef...
-        </p>
-      </div>
-    }>
+      }
+    >
       <ChatContent />
     </Suspense>
   )

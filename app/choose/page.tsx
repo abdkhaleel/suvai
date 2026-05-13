@@ -1,8 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import Navbar from '@/components/Navbar'
 import Link from 'next/link'
+import Navbar from '@/components/Navbar'
+import { Search, Loader2, Frown, Soup, ArrowRight, CookingPot } from 'lucide-react'
 
 interface Recipe {
   id: string
@@ -15,6 +16,15 @@ interface Recipe {
 }
 
 const CATEGORIES = ['All', 'Breakfast', 'Rice', 'Curry', 'Snacks', 'Sweets']
+
+const CATEGORY_QUERIES: Record<string, string> = {
+  All: 'Tamil South Indian recipe',
+  Breakfast: 'Tamil breakfast tiffin morning dish idli dosa pongal upma',
+  Rice: 'Tamil rice variety dish sambar curd lemon rice',
+  Curry: 'Tamil kuzhambu curry gravy dish sambar rasam',
+  Snacks: 'Tamil snack street food bajji murukku sundal',
+  Sweets: 'Tamil sweet dessert payasam halwa pongal',
+}
 
 export default function ChoosePage() {
   const [query, setQuery] = useState('')
@@ -51,25 +61,14 @@ export default function ChoosePage() {
     setSearched(true)
     setLoading(true)
 
-    const categoryQueries: Record<string, string> = {
-      'All':      'Tamil South Indian recipe',
-      'Breakfast': 'Tamil breakfast tiffin morning dish idli dosa pongal upma',
-      'Rice':      'Tamil rice variety dish sambar curd lemon rice',
-      'Curry':     'Tamil kuzhambu curry gravy dish sambar rasam',
-      'Snacks':    'Tamil snack street food bajji murukku sundal',
-      'Sweets':    'Tamil sweet dessert payasam halwa pongal',
-    }
-
-    const searchQuery = categoryQueries[cat] || `Tamil ${cat} recipe`
-
     try {
       const res = await fetch('/api/rag', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           mode: 'dish',
-          query: searchQuery,
-          matchCount: 9        
+          query: CATEGORY_QUERIES[cat] || `Tamil ${cat} recipe`,
+          matchCount: 9,
         }),
       })
       const data = await res.json()
@@ -81,118 +80,93 @@ export default function ChoosePage() {
 
     setLoading(false)
   }
+
   return (
-    <div style={{ minHeight: '100vh', backgroundColor: 'var(--cream)' }}>
+    <div className="min-h-screen" style={{ backgroundColor: 'var(--cream)' }}>
       <Navbar />
 
-      <main className="max-w-4xl mx-auto px-6 py-12">
-
+      <main className="w-full max-w-5xl mx-auto px-6 py-16">
         {/* Header */}
-        <div className="animate-fade-up" style={{ opacity: 0, marginBottom: '2.5rem' }}>
-          <p style={{
-            fontSize: '0.8rem',
-            letterSpacing: '0.15em',
-            color: 'var(--burnt-orange)',
-            textTransform: 'uppercase',
-            fontWeight: 600,
-            marginBottom: '0.75rem',
-          }}>
+        <div className="animate-fade-up mb-10" style={{ opacity: 0 }}>
+          <p
+            className="uppercase tracking-[0.15em] text-xs font-semibold mb-3 text-[var(--burnt-orange)]"
+            style={{ fontFamily: 'var(--font-dm-sans)' }}
+          >
             Browse Recipes
           </p>
-          <h1 style={{
-            fontFamily: 'var(--font-playfair)',
-            fontSize: 'clamp(2rem, 4vw, 3rem)',
-            fontWeight: 700,
-            color: 'var(--dark)',
-            lineHeight: 1.2,
-          }}>
-            What would you like<br />
-            <span style={{ color: 'var(--burnt-orange)' }}>to cook today?</span>
+          <h1
+            className="font-bold leading-tight text-[var(--dark)]"
+            style={{
+              fontFamily: 'var(--font-playfair)',
+              fontSize: 'clamp(2rem, 4vw, 3rem)',
+            }}
+          >
+            What would you like
+            <br />
+            <span className="text-[var(--burnt-orange)]">to cook today?</span>
           </h1>
         </div>
 
         {/* Search Bar */}
         <form
           onSubmit={handleSearch}
-          className="animate-fade-up delay-1"
-          style={{ opacity: 0, marginBottom: '1.5rem' }}
+          className="animate-fade-up delay-1 mb-6"
+          style={{ opacity: 0 }}
         >
-          <div style={{
-            display: 'flex',
-            flexDirection: 'column',
-            gap: '0.75rem',
-            maxWidth: '600px',
-          }}>
+          <div className="flex flex-col sm:flex-row gap-3 max-w-xl">
             <input
               type="text"
               value={query}
-              onChange={e => setQuery(e.target.value)}
+              onChange={(e) => setQuery(e.target.value)}
               placeholder="Search — try 'idli', 'spicy dosa'..."
-              style={{
-                width: '100%',
-                padding: '0.9rem 1.25rem',
-                borderRadius: '100px',
-                border: '2px solid var(--border)',
-                backgroundColor: 'white',
-                fontFamily: 'var(--font-dm-sans)',
-                fontSize: '1rem',
-                color: 'var(--dark)',
-                outline: 'none',
-                transition: 'border-color 0.2s ease',
-              }}
-              onFocus={e => (e.target.style.borderColor = 'var(--burnt-orange)')}
-              onBlur={e => (e.target.style.borderColor = 'var(--border)')}
+              className="flex-1 px-5 py-3.5 rounded-full border-2 border-[var(--border)] bg-white text-[var(--dark)] text-base outline-none transition-colors duration-200 focus:border-[var(--burnt-orange)]"
+              style={{ fontFamily: 'var(--font-dm-sans)' }}
             />
             <button
               type="submit"
               disabled={loading || !query.trim()}
+              className="btn-primary inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full font-semibold text-white transition-all duration-200 disabled:opacity-60 disabled:cursor-not-allowed"
               style={{
-                backgroundColor: 'var(--burnt-orange)',
-                color: 'white',
-                border: 'none',
-                borderRadius: '100px',
-                padding: '0.875rem',
                 fontFamily: 'var(--font-dm-sans)',
-                fontWeight: 600,
-                fontSize: '1rem',
-                cursor: loading ? 'not-allowed' : 'pointer',
-                opacity: loading ? 0.7 : 1,
-                transition: 'all 0.2s ease',
-                width: '100%',
+                backgroundColor: 'var(--burnt-orange)',
               }}
             >
-              {loading ? 'Searching...' : '🔍 Search'}
+              {loading ? (
+                <>
+                  <Loader2 size={18} className="animate-spin" />
+                  Searching...
+                </>
+              ) : (
+                <>
+                  <Search size={18} strokeWidth={2.5} />
+                  Search
+                </>
+              )}
             </button>
           </div>
         </form>
 
         {/* Category Filters */}
         <div
-          className="animate-fade-up delay-2 flex flex-wrap gap-2"
-          style={{ opacity: 0, marginBottom: '2.5rem' }}
+          className="animate-fade-up delay-2 flex flex-wrap gap-2 mb-10"
+          style={{ opacity: 0 }}
         >
-          {CATEGORIES.map(cat => (
+          {CATEGORIES.map((cat) => (
             <button
               key={cat}
               onClick={() => handleCategory(cat)}
+              className={`
+                px-5 py-2 rounded-full text-sm font-medium transition-all duration-200 cursor-pointer
+                ${
+                  activeCategory === cat
+                    ? 'text-white'
+                    : 'bg-white text-[var(--muted)] border border-[var(--border)] hover:border-[var(--burnt-orange)] hover:text-[var(--burnt-orange)]'
+                }
+              `}
               style={{
-                padding: '0.4rem 1.1rem',
-                borderRadius: '100px',
-                border: '1.5px solid',
-                borderColor: activeCategory === cat
-                  ? 'var(--burnt-orange)'
-                  : 'var(--border)',
-                backgroundColor: activeCategory === cat
-                  ? 'var(--burnt-orange)'
-                  : 'white',
-                color: activeCategory === cat
-                  ? 'white'
-                  : 'var(--muted)',
                 fontFamily: 'var(--font-dm-sans)',
-                fontSize: '0.85rem',
-                fontWeight: 500,
-                cursor: 'pointer',
-                transition: 'all 0.2s ease',
+                backgroundColor:
+                  activeCategory === cat ? 'var(--burnt-orange)' : undefined,
               }}
             >
               {cat}
@@ -202,61 +176,33 @@ export default function ChoosePage() {
 
         {/* Loading State */}
         {loading && (
-          <div className="flex justify-center py-16">
-            <div style={{
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              gap: '1rem',
-            }}>
-              <div style={{
-                fontSize: '2.5rem',
-                animation: 'spin 1s linear infinite',
-              }}>
-                🍳
-              </div>
-              <p style={{
-                fontFamily: 'var(--font-dm-sans)',
-                color: 'var(--muted)',
-                fontSize: '0.9rem',
-              }}>
-                Chef is searching the cookbook...
-              </p>
-            </div>
-          </div>
-        )}
-
-        {/* No Results */}
-        {!loading && searched && results.length === 0 && (
-          <div className="text-center py-16">
-            <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>🤔</div>
-            <h3 style={{
-              fontFamily: 'var(--font-playfair)',
-              fontSize: '1.4rem',
-              color: 'var(--dark)',
-              marginBottom: '0.5rem',
-            }}>
-              No recipes found
-            </h3>
-            <p style={{
-              fontFamily: 'var(--font-dm-sans)',
-              color: 'var(--muted)',
-              fontSize: '0.9rem',
-            }}>
-              Try searching for idli, dosa, pongal, upma...
+          <div className="flex flex-col items-center gap-4 py-20">
+            <CookingPot
+              size={48}
+              className="text-[var(--burnt-orange)] animate-spin"
+              strokeWidth={1.5}
+            />
+            <p
+              className="text-sm text-[var(--muted)]"
+              style={{ fontFamily: 'var(--font-dm-sans)' }}
+            >
+              Chef is searching the cookbook...
             </p>
           </div>
         )}
 
         {/* Default State */}
         {!loading && !searched && (
-          <div className="text-center py-16">
-            <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>🍛</div>
-            <p style={{
-              fontFamily: 'var(--font-playfair)',
-              fontSize: '1.2rem',
-              color: 'var(--muted)',
-            }}>
+          <div className="flex flex-col items-center gap-4 py-20 text-center">
+            <Soup
+              size={48}
+              className="text-[var(--burnt-orange)]"
+              strokeWidth={1.5}
+            />
+            <p
+              className="text-lg text-[var(--muted)]"
+              style={{ fontFamily: 'var(--font-playfair)' }}
+            >
               Search a dish or pick a category above
             </p>
           </div>
@@ -264,23 +210,24 @@ export default function ChoosePage() {
 
         {/* No Results */}
         {!loading && searched && results.length === 0 && (
-          <div className="text-center py-16">
-            <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>🤔</div>
-            <h3 style={{
-              fontFamily: 'var(--font-playfair)',
-              fontSize: '1.4rem',
-              color: 'var(--dark)',
-              marginBottom: '0.5rem',
-            }}>
+          <div className="flex flex-col items-center gap-4 py-20 text-center">
+            <Frown
+              size={48}
+              className="text-[var(--muted)]"
+              strokeWidth={1.5}
+            />
+            <h3
+              className="text-xl font-bold text-[var(--dark)]"
+              style={{ fontFamily: 'var(--font-playfair)' }}
+            >
               Hmm, I don't know that dish
             </h3>
-            <p style={{
-              fontFamily: 'var(--font-dm-sans)',
-              color: 'var(--muted)',
-              fontSize: '0.9rem',
-              marginBottom: '1.5rem',
-            }}>
-              SuvAI specializes in Tamil cuisine 🍛<br />
+            <p
+              className="text-sm text-[var(--muted)] max-w-md"
+              style={{ fontFamily: 'var(--font-dm-sans)' }}
+            >
+              SuvAI specializes in Tamil cuisine.
+              <br />
               Try searching for idli, dosa, pongal, sambar...
             </p>
             <button
@@ -289,8 +236,7 @@ export default function ChoosePage() {
                 setSearched(false)
                 setResults([])
               }}
-              className="btn-outline"
-              style={{ fontSize: '0.9rem', padding: '0.6rem 1.5rem' }}
+              className="btn-outline mt-2 text-sm px-6 py-2.5"
             >
               Clear Search
             </button>
@@ -304,71 +250,52 @@ export default function ChoosePage() {
               <Link
                 key={recipe.id}
                 href={`/chat?id=${recipe.id}&name=${encodeURIComponent(recipe.name)}`}
-                style={{ textDecoration: 'none' }}
+                className="group block"
               >
                 <div
-                  className="animate-fade-up feature-card"
-                  style={{
-                    opacity: 0,
-                    animationDelay: `${i * 0.1}s`,
-                    cursor: 'pointer',
-                    height: '100%',
-                  }}
+                  className="animate-fade-up h-full p-6 rounded-2xl border border-[var(--border)] bg-[var(--card-bg)] transition-all duration-300 hover:border-[var(--burnt-orange)] hover:-translate-y-1 hover:shadow-lg"
+                  style={{ animationDelay: `${i * 0.1}s`, opacity: 0 }}
                 >
                   {/* Category Badge */}
-                  <div style={{ marginBottom: '1rem' }}>
-                    <span style={{
-                      backgroundColor: 'var(--cream)',
-                      border: '1px solid var(--border)',
-                      borderRadius: '100px',
-                      padding: '0.25rem 0.75rem',
-                      fontSize: '0.75rem',
+                  <span
+                    className="inline-block mb-4 px-3 py-1 rounded-full text-xs capitalize border border-[var(--border)] text-[var(--muted)]"
+                    style={{
                       fontFamily: 'var(--font-dm-sans)',
-                      color: 'var(--muted)',
-                      textTransform: 'capitalize',
-                    }}>
-                      {recipe.category || 'Tamil Recipe'}
-                    </span>
-                  </div>
+                      backgroundColor: 'var(--cream)',
+                    }}
+                  >
+                    {recipe.category || 'Tamil Recipe'}
+                  </span>
 
                   {/* Recipe Name */}
-                  <h3 style={{
-                    fontFamily: 'var(--font-playfair)',
-                    fontSize: '1.2rem',
-                    fontWeight: 700,
-                    color: 'var(--dark)',
-                    marginBottom: '0.3rem',
-                    lineHeight: 1.3,
-                  }}>
+                  <h3
+                    className="text-lg font-bold text-[var(--dark)] mb-1 leading-snug"
+                    style={{ fontFamily: 'var(--font-playfair)' }}
+                  >
                     {recipe.name.split('|')[0].split('Recipe')[0].trim()}
                   </h3>
 
                   {/* Tamil Name */}
                   {recipe.tamil_name && (
-                    <p style={{
-                      fontFamily: 'var(--font-dm-sans)',
-                      fontSize: '0.95rem',
-                      color: 'var(--burnt-orange)',
-                      marginBottom: '1rem',
-                    }}>
+                    <p
+                      className="text-sm text-[var(--burnt-orange)] mb-4"
+                      style={{ fontFamily: 'var(--font-dm-sans)' }}
+                    >
                       {recipe.tamil_name.split('/')[0].trim()}
                     </p>
                   )}
 
                   {/* Tags */}
                   {recipe.tags?.length > 0 && (
-                    <div className="flex flex-wrap gap-1" style={{ marginBottom: '1rem' }}>
-                      {recipe.tags.slice(0, 3).map(tag => (
+                    <div className="flex flex-wrap gap-1.5 mb-4">
+                      {recipe.tags.slice(0, 3).map((tag) => (
                         <span
                           key={tag}
+                          className="px-2.5 py-1 rounded-full text-[0.7rem] font-medium"
                           style={{
+                            fontFamily: 'var(--font-dm-sans)',
                             backgroundColor: '#FEF3E2',
                             color: 'var(--burnt-orange)',
-                            borderRadius: '100px',
-                            padding: '0.2rem 0.6rem',
-                            fontSize: '0.7rem',
-                            fontFamily: 'var(--font-dm-sans)',
-                            fontWeight: 500,
                           }}
                         >
                           {tag}
@@ -379,44 +306,26 @@ export default function ChoosePage() {
 
                   {/* Served With */}
                   {recipe.commonly_served_with?.length > 0 && (
-                    <p style={{
-                      fontFamily: 'var(--font-dm-sans)',
-                      fontSize: '0.78rem',
-                      color: 'var(--muted)',
-                      borderTop: '1px solid var(--border)',
-                      paddingTop: '0.75rem',
-                    }}>
-                      Served with: {recipe.commonly_served_with.slice(0, 2).join(', ')}
+                    <p
+                      className="text-xs text-[var(--muted)] border-t border-[var(--border)] pt-3"
+                      style={{ fontFamily: 'var(--font-dm-sans)' }}
+                    >
+                      Served with:{' '}
+                      {recipe.commonly_served_with.slice(0, 2).join(', ')}
                     </p>
                   )}
 
                   {/* Cook CTA */}
-                  <div style={{
-                    marginTop: '1rem',
-                    color: 'var(--burnt-orange)',
-                    fontFamily: 'var(--font-dm-sans)',
-                    fontSize: '0.85rem',
-                    fontWeight: 600,
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '0.3rem',
-                  }}>
-                    Start Cooking →
+                  <div className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-[var(--burnt-orange)] transition-all duration-200 group-hover:gap-2.5">
+                    Start Cooking
+                    <ArrowRight size={16} strokeWidth={2.5} />
                   </div>
                 </div>
               </Link>
             ))}
           </div>
         )}
-
       </main>
-
-      <style jsx>{`
-        @keyframes spin {
-          from { transform: rotate(0deg); }
-          to   { transform: rotate(360deg); }
-        }
-      `}</style>
     </div>
   )
 }

@@ -11,20 +11,19 @@
   --border: #E8D5B7;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* REMOVE THIS - Tailwind preflight handles it better */
+/* * { margin: 0; padding: 0; box-sizing: border-box; } */
 
 body {
   font-family: var(--font-dm-sans), sans-serif;
   background-color: var(--cream);
   color: var(--dark);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3 {
-  font-family: var(--font-playfair), serif;
+  fontFamily: var(--font-playfair), serif;
 }
 
 /* Grain texture overlay */
@@ -34,7 +33,7 @@ body::before {
   inset: 0;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
   pointer-events: none;
-  z-index: 999;
+  z-index: 9999;
   opacity: 0.4;
 }
 
@@ -44,17 +43,8 @@ body::before {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
-}
-
 .animate-fade-up {
   animation: fadeUp 0.6s ease forwards;
-}
-
-.animate-fade-in {
-  animation: fadeIn 0.4s ease forwards;
 }
 
 .delay-1 { animation-delay: 0.1s; }
@@ -62,16 +52,53 @@ body::before {
 .delay-3 { animation-delay: 0.3s; }
 .delay-4 { animation-delay: 0.4s; }
 
+/* Buttons */
+.btn-primary,
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-family: var(--font-dm-sans), sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.875rem 2rem;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.btn-primary {
+  background-color: var(--burnt-orange);
+  color: white;
+  border: 2px solid var(--burnt-orange);
+}
+
+.btn-primary:hover {
+  background-color: var(--dark);
+  border-color: var(--dark);
+  transform: translateY(-1px);
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: var(--dark);
+  border: 2px solid var(--border);
+}
+
+.btn-outline:hover {
+  border-color: var(--burnt-orange);
+  color: var(--burnt-orange);
+  transform: translateY(-1px);
+}
+
 @keyframes spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
 
-@media (max-width: 640px) {
-  .btn-primary, .btn-outline {
-    width: 100%;
-    text-align: center;
-    padding: 0.875rem 1.5rem;
-  }
+.animate-spin {
+  animation: spin 1s linear infinite;
 }
-
