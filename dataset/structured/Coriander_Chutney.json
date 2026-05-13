@@ -1,0 +1,209 @@
+{
+  "name": "Coriander Chutney",
+  "tamil_name": "கொத்தமல்லி சட்னி",
+  "transliteration": "Kothamalli Chutney",
+  "category": "chutney",
+  "sub_category": "chutney",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 5,
+  "total_time": 10,
+  "servings": 3,
+  "description": "Coriander Coconut Chutney or Kothamalli Chutney is a vibrant green South Indian chutney made with fresh coriander leaves, coconut, ginger and green chillies. It is aromatic, mildly spiced and pairs beautifully with idli, dosa, vada, upma and pongal. The fresh herb flavour of coriander makes this chutney a refreshing alternative to plain coconut chutney.",
+  "ingredients": [
+    {
+      "name": "Coriander leaves (Cilantro)",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "loosely packed, hard stems removed, tender stems okay"
+    },
+    {
+      "name": "Fresh grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "125 grams"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "½",
+      "unit": "inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "tamil_name": "எலுமிச்சை சாறு",
+      "transliteration": "எலுமிச்சை சாறு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "optional, for tang"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "¾ to 1",
+      "unit": "cup",
+      "notes": "as needed for grinding"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "2",
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "5 to 6",
+      "unit": "leaves",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse coriander leaves thoroughly. Remove hard stems — thin tender stems are fine to use.",
+      "tip": "Remove hard stems of coriander as they can make the chutney bitter. Use leaves and thin tender stems only.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "To a blender add grated coconut, coriander leaves, ginger, green chilli and salt.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add ¾ to 1 cup water and blend to a smooth consistency.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Transfer the chutney to a bowl. Add lemon juice if desired and mix.",
+      "tip": "Add a pinch of tamarind for a slight tang if you prefer.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "For tempering, heat 2 tsp oil in a small pan on medium heat.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add mustard seeds and let them pop. Then add urad dal and cook until it begins to change colour.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add asafoetida and curry leaves. Stir and turn off heat.",
+      "tip": "Use a gluten-free asafoetida to make the chutney fully gluten-free, or skip it.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Pour the tempering over the chutney and mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Serve chilled or at room temperature with idli, dosa, vada, upma or pongal.",
+      "tip": "This chutney keeps well in the refrigerator for 5 to 7 days.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Remove hard stems of coriander as they can make the chutney bitter. Use leaves and thin tender stems only.",
+    "Use a gluten-free asafoetida to make the chutney fully gluten-free, or skip it.",
+    "For a spicier chutney, add more green chillies.",
+    "This chutney keeps well in the refrigerator for 5 to 7 days.",
+    "Frozen grated coconut works perfectly — thaw to room temperature before using.",
+    "Add a pinch of tamarind for a slight tang if you prefer."
+  ],
+  "variations": [
+    "Coriander Mint Chutney",
+    "Coriander Peanut Chutney",
+    "Coriander Coconut Chutney with Garlic",
+    "Green Chutney"
+  ],
+  "commonly_served_with": [
+    "Idli",
+    "Dosa",
+    "Vada",
+    "Uttapam",
+    "Upma",
+    "Pongal",
+    "Parathas",
+    "Chapati"
+  ],
+  "tags": [
+    "coriander chutney",
+    "kothamalli chutney",
+    "cilantro chutney",
+    "south indian chutney",
+    "idli chutney",
+    "dosa chutney",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "breakfast side dish",
+    "green chutney"
+  ]
+}

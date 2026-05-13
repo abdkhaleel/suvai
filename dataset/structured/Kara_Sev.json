@@ -1,0 +1,244 @@
+{
+  "name": "Kara Sev",
+  "tamil_name": "கார சேவ்",
+  "transliteration": "Kara Sev",
+  "category": "snacks",
+  "sub_category": "sev",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 15,
+  "cook_time": 25,
+  "total_time": 40,
+  "servings": 2,
+  "description": "Kara Sev is a traditional South Indian spicy snack made from gram flour (besan), rice flour and a blend of spices including crushed black pepper, cumin and garlic. It is crunchy, light and aromatic with a unique flavour that sets it apart from murukku and ribbon pakoda. Kara Sev is a Diwali essential and can be eaten plain or added to South Indian mixture. The garlic and ajwain flavour gets enhanced the day after making.",
+  "ingredients": [
+    {
+      "name": "Gram flour (Besan)",
+      "tamil_name": "கடலை மாவு",
+      "transliteration": "கடலை மாவு",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fried gram flour (Pottukadalai flour)",
+      "tamil_name": "வறுத்த கடலை மாவு",
+      "transliteration": "வறுத்த கடலை மாவு",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Hot oil",
+      "tamil_name": "காய்ந்த எண்ணெய்",
+      "transliteration": "காய்ந்த எண்ணெய்",
+      "quantity": "1½",
+      "unit": "tbsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "¾",
+      "unit": "tsp",
+      "notes": "or 1 tsp crushed pepper"
+    },
+    {
+      "name": "Garlic paste",
+      "tamil_name": "பூண்டு விழுது",
+      "transliteration": "பூண்டு விழுது",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ajwain (Carom seeds)",
+      "tamil_name": "ஓமம்",
+      "transliteration": "ஓமம்",
+      "quantity": "1 to 1½",
+      "unit": "tsp",
+      "notes": "or cumin seeds"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Baking soda (Cooking soda)",
+      "tamil_name": "சமையல் சோடா",
+      "transliteration": "சமையல் சோடா",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed (for dough)"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Powder 2 tbsp roasted gram (pottukadalai) to a fine powder in a mixer.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Sieve together gram flour, rice flour, fried gram flour and a pinch of baking soda into a large mixing bowl.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add red chilli powder, ajwain, asafoetida, salt and garlic paste.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add 1½ tbsp hot oil to the flour mixture. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Pour water little by little and make a stiff dough. It should not be sticky or too crumbly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Sticky dough makes oily kara sev; too stiff and crumbly makes hard kara sev.",
+      "tip": "The dough should be stiff but smooth — sticky dough makes oily sev; crumbly dough makes hard sev.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Choose a murukku plate with thick holes for making kara sev.",
+      "tip": "Use the plate with medium-thick holes — larger holes take longer to fry.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Grease the murukku mould and transfer half the dough into it.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Heat oil in a kadai on medium heat. Test by dropping a small piece of dough — it should rise without browning quickly.",
+      "tip": "Fry on medium heat — high heat will brown the outside while leaving the inside raw.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Hold the murukku maker 2 to 3 inches above the oil surface. Press gently and squeeze the sev across the pan.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "When the sev is about 3 inches long, use a spoon to gently break it. The light dough breaks easily and falls into the oil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Do not add too much at once — overcrowding reduces oil temperature and makes the sev absorb oil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Fry on medium heat until golden and crisp, stirring often.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "Drain on a steel colander or kitchen tissues.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 15,
+      "instruction": "Cool kara sev completely before transferring to an airtight steel or glass jar.",
+      "tip": "The garlic flavour gets enhanced the next day, so kara sev tastes even better after resting.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The dough should be stiff but smooth — sticky dough makes oily sev; crumbly dough makes hard sev.",
+    "Adding fried gram flour gives kara sev a light, airy texture.",
+    "Only a pinch of baking soda is needed — too much will make the sev puffy and oily.",
+    "Use the plate with medium-thick holes — larger holes take longer to fry.",
+    "Fry on medium heat — high heat will brown the outside while leaving the inside raw.",
+    "The garlic flavour gets enhanced the next day, so kara sev tastes even better after resting.",
+    "For more crunch, increase rice flour up to 5 tbsp.",
+    "Kara sev stays crisp for about 2 weeks in an airtight container."
+  ],
+  "variations": [
+    "Pepper Kara Sev",
+    "Garlic Kara Sev",
+    "Omapodi (plain sev)",
+    "Mixture Kara Sev"
+  ],
+  "commonly_served_with": [
+    "Tea",
+    "Coffee",
+    "Filter Coffee",
+    "South Indian Mixture",
+    "Chaat Toppings"
+  ],
+  "tags": [
+    "kara sev",
+    "besan sev",
+    "karasev",
+    "south indian snack",
+    "diwali snack",
+    "festival snack",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crispy snack",
+    "tea time snack"
+  ]
+}

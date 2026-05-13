@@ -1,0 +1,216 @@
+{
+  "name": "Adhirasam",
+  "tamil_name": "அதிரசம்",
+  "transliteration": "Adhirasam",
+  "category": "sweets",
+  "sub_category": "adhirasam",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "hard",
+  "prep_time": 180,
+  "cook_time": 30,
+  "total_time": 210,
+  "servings": 20,
+  "description": "Adhirasam is a traditional deep-fried South Indian sweet made from raw rice flour and jaggery syrup, flavoured with cardamom and dry ginger. It has a unique texture — crispy on the edges and pillowy soft inside. A Diwali essential in Tamil Nadu, making perfect adhirasam requires patience and practice, especially in getting the jaggery syrup consistency and rice flour moisture right. The dough is rested for a day before frying, which develops its characteristic flavour and texture.",
+  "ingredients": [
+    {
+      "name": "Raw rice (Maavu pacharisi)",
+      "tamil_name": "அரிசி",
+      "transliteration": "அரிசி",
+      "quantity": "1½",
+      "unit": "cups",
+      "notes": "IR20 or IR64 variety preferred"
+    },
+    {
+      "name": "Jaggery (Paagu vellam)",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "powdered"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "for syrup"
+    },
+    {
+      "name": "Dry ginger powder (Sukku)",
+      "tamil_name": "சுக்கு பொடி",
+      "transliteration": "சுக்கு பொடி",
+      "quantity": "⅛",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom powder",
+      "tamil_name": "ஏலக்காய் பொடி",
+      "transliteration": "ஏலக்காய் பொடி",
+      "quantity": "⅛",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "tamil_name": "எள்",
+      "transliteration": "எள்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "for greasing"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Wash raw rice and soak in water for 3 hours.",
+      "tip": "",
+      "duration_mins": 180
+    },
+    {
+      "step_no": 2,
+      "instruction": "Drain and spread the rice on a clean white cotton cloth for 30 minutes. The rice should still have moisture — when pressed, a few grains should stick to your hand. Do not let it dry completely.",
+      "tip": "Completely dry rice gives rubbery adhirasam.",
+      "duration_mins": 30
+    },
+    {
+      "step_no": 3,
+      "instruction": "Grind the rice in a mixer in 2 batches to a semi-fine powder. It should be slightly coarse, not as fine as store-bought flour.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Sieve the flour. Return coarse remains to the mixer and grind again with the next batch.",
+      "tip": "Do not use a very fine sieve — slightly bigger holes give the right coarse flour texture.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add sesame seeds, dry ginger powder and cardamom powder to the flour. Mix well, cover with a moist cloth and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Crush jaggery, add ½ cup water and heat until dissolved. Strain to remove impurities.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Heat the strained jaggery syrup again on medium flame, stirring occasionally. Keep checking consistency by pouring drops into a bowl of water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "At the correct stage, the syrup will not dissolve in water. You will be able to gather it with your fingers and form a loose, jelly-like soft ball that slides easily from your hand. This is soft ball consistency — switch off immediately.",
+      "tip": "Jaggery syrup consistency is the most critical step. Do not let it pass soft ball stage.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add the rice flour to the hot syrup little by little, mixing continuously without lumps. The dough will be slightly loose.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Transfer to an airtight container and rest at room temperature for 1 day. The dough will thicken and become firm.",
+      "tip": "Resting the dough for at least 1 day is mandatory — it ferments slightly and develops flavour.",
+      "duration_mins": 1440
+    },
+    {
+      "step_no": 11,
+      "instruction": "The next day, add 1 tsp ghee and knead the dough once. Pinch and roll into lemon-sized balls.",
+      "tip": "If dough is too tight, sprinkle a little hot water and knead. If too loose, add 1 to 2 tbsp idiyappam flour.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Grease a banana leaf or zip-lock cover with ghee. Pat each ball into a slightly thick round disc.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Heat oil on low-medium heat. Slide the patted adhirasam into the oil.",
+      "tip": "Fry on low-medium heat so the inside cooks through while the outside turns crisp.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "Let it rise up, then pour hot oil over it so it puffs up. Flip and pour oil again.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 15,
+      "instruction": "Fry until deep red in colour. Use two ladles to gently squeeze out excess oil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 16,
+      "instruction": "Drain on 2 to 3 layers of kitchen tissues. Cool and store.",
+      "tip": "Adhirasam stays good for 2 to 3 days at room temperature. For longer storage, refrigerate and steam lightly before serving.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Choosing the correct raw rice (maavu pacharisi) and jaggery (paagu vellam) is the first key to authentic adhirasam.",
+    "The rice must have some moisture after drying — completely dry rice gives rubbery adhirasam.",
+    "Do not use a very fine sieve — slightly bigger holes give the right coarse flour texture.",
+    "Jaggery syrup consistency is the most critical step. Do not let it pass soft ball stage.",
+    "Resting the dough for at least 1 day is mandatory — it ferments slightly and develops flavour.",
+    "Fry on low-medium heat so the inside cooks through while the outside turns crisp.",
+    "If dough is too tight, sprinkle a little hot water and knead. If too loose, add 1 to 2 tbsp idiyappam flour.",
+    "Adhirasam stays good for 2 to 3 days at room temperature. For longer storage, refrigerate and steam lightly before serving."
+  ],
+  "variations": [
+    "Sugar Adhirasam (with white sugar)",
+    "Karupatti Adhirasam (with palm jaggery)",
+    "Coconut Adhirasam"
+  ],
+  "commonly_served_with": [
+    "Diwali Sweet Platter",
+    "Festival Prasad",
+    "Tea",
+    "Coffee"
+  ],
+  "tags": [
+    "adhirasam",
+    "athirasam",
+    "adirasam",
+    "south indian sweet",
+    "diwali sweet",
+    "festival sweet",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "traditional sweet",
+    "deep fried sweet"
+  ]
+}

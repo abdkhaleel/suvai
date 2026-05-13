@@ -1,0 +1,211 @@
+{
+  "name": "Kozhukattai",
+  "tamil_name": "கொழுக்கட்டை",
+  "transliteration": "Kozhukattai",
+  "category": "sweets",
+  "sub_category": "kozhukattai",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "medium",
+  "prep_time": 30,
+  "cook_time": 30,
+  "total_time": 60,
+  "servings": 12,
+  "ingredients": [
+    {
+      "name": "Rice flour / Idiyappam flour",
+      "tamil_name": "அரிசி மாவு / இடியப்பம் மாவு",
+      "transliteration": "அரிசி மாவு / இடியப்பம் மாவு",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "¾",
+      "unit": "cup",
+      "notes": "powdered"
+    },
+    {
+      "name": "Cardamom",
+      "tamil_name": "ஏலக்காய்",
+      "transliteration": "ஏலக்காய்",
+      "quantity": "2",
+      "unit": "",
+      "notes": "powdered"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "for filling"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "For the dough, bring water to a boil with 1 tsp sesame oil and a pinch of salt. Let it boil for a minute.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add the boiling water little by little to the rice flour. Use a spatula to mix. You may need lots of water — boil enough.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Once it becomes warm, knead to a smooth, soft dough. Keep covered with a wet cloth.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Divide into equal-sized balls and keep covered.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "For thenga pooranam, place grated coconut, jaggery and cardamom powder in a pan with 2 tbsp water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Mix on medium flame for 5 minutes. When it starts leaving the sides of the pan, switch off. Do not overcook or it will become hard.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 7,
+      "instruction": "Take one dough ball. Knead again with moist or oiled hands to prevent cracks.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Shape into a small cup with your fingers — thin walls, thicker base.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Fill with 1 to 1½ tsp of coconut pooranam.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Pinch the edges together and shape into a modak form (pointed top) or round ball.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Repeat and finish all kozhukattais. Keep covered until steaming.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Boil water in a steamer (idli pot). Grease the steaming plate lightly with oil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Arrange the kozhukattais on the plate with some space between them.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "Steam for 5 minutes or until the outer layer turns slightly shiny and cooked through.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 15,
+      "instruction": "Remove carefully and serve warm.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Using processed idiyappam flour gives the best results — better than store-bought 'kozhukattai flour.'",
+    "Keep the dough covered at all times with a wet cloth to prevent drying and cracking.",
+    "Before shaping each kozhukattai, knead briefly with wet hands. If too dry, wet hands and knead again.",
+    "Do not shape and keep for long — steam immediately after shaping to prevent cracking.",
+    "The pooranam should not be overcooked — switch off as soon as it leaves the sides of the pan.",
+    "You can reduce jaggery quantity to suit your taste.",
+    "If the dough cracks while shaping, it needs more moisture — add a few drops of hot water and knead.",
+    "Kozhukattais are best eaten fresh on the same day."
+  ],
+  "variations": [
+    "Ulundu Kozhukattai (with urad dal filling)",
+    "Ammini Kozhukattai (tiny, no filling)",
+    "Kara Kozhukattai (savoury)",
+    "Paal Kozhukattai (in sweet milk)"
+  ],
+  "commonly_served_with": [
+    "Ganesh Chaturthi Prasad",
+    "Festival Offerings",
+    "Neivedyam",
+    "Breakfast"
+  ],
+  "tags": [
+    "kozhukattai",
+    "mothagam",
+    "vella kozhukattai",
+    "modak",
+    "ganesh chaturthi",
+    "south indian sweet",
+    "festival sweet",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "steamed sweet",
+    "traditional sweet"
+  ]
+}

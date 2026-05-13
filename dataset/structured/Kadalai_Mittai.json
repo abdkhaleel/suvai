@@ -1,0 +1,163 @@
+{
+  "name": "Kadalai Mittai",
+  "tamil_name": "கடலை மிட்டாய்",
+  "transliteration": "Kadalai Mittai",
+  "category": "sweets",
+  "sub_category": "mittai",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "medium",
+  "prep_time": 15,
+  "cook_time": 20,
+  "total_time": 35,
+  "servings": 12,
+  "ingredients": [
+    {
+      "name": "Peanuts / Groundnuts / Verkadalai",
+      "tamil_name": "வேர்க்கடலை",
+      "transliteration": "வேர்க்கடலை",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "raw or unsalted roasted"
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "¼",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "for greasing hands, or coconut oil for vegan"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "If using raw peanuts, roast them until aromatic and golden. You can roast in oven (350°F for 15-20 mins), air fryer (325°F for 5-7 mins) or on stovetop (low flame, shaking pan constantly).",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Let peanuts cool completely. Rub between your palms or in a kitchen towel to remove skins.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Blow away the skins and keep skinned peanuts in a bowl. You can crush them slightly into halves if preferred.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat jaggery and ¼ cup water in a pan. Let the jaggery melt completely.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Strain to remove impurities, then heat the syrup again on medium flame.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Keep checking consistency by dropping a little syrup into a bowl of cold water. At the correct stage, you can gather it with your fingers and form a hard ball that holds its shape without disintegrating. The ball should make a noise when dropped on a plate.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Immediately switch off the flame. Add the roasted peanuts to the hot syrup.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix quickly and thoroughly using a wooden spoon until all peanuts are evenly coated.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Let it cool slightly until you can handle it. Grease your palms with ghee.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Take small portions and roll into tight balls while still hot. Work quickly — once cooled, the mixture becomes too hard to shape.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Place the balls on a plate in a single layer to prevent sticking. Let them cool completely.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Once completely dry and cool, store in an airtight container.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use roasted and skinless peanuts for best results. Smaller Spanish peanuts work very well.",
+    "Use fresh, good-quality peanuts — old peanuts have a stale flavour.",
+    "Getting the jaggery syrup to hard ball stage takes practice. Use a candy thermometer (300°F / 149°C) if available.",
+    "Work quickly when shaping — the mixture hardens as it cools. If it becomes too hard, slightly heat the plate to soften.",
+    "Keep mixing the peanuts in the syrup while cooling to ensure even coating — otherwise jaggery settles at the bottom.",
+    "If the kadalai mittai turns out soft and chewy, the syrup was not cooked to hard ball stage.",
+    "Let the balls air dry completely before storing — overnight drying is ideal.",
+    "Kadalai mittai stays well at room temperature for a long time in an airtight container."
+  ],
+  "variations": [
+    "Kadalai Chikki (bar form)",
+    "Mixed Nut Brittle",
+    "Sesame Peanut Balls",
+    "Karupatti Kadalai Mittai"
+  ],
+  "commonly_served_with": [
+    "Karthigai Deepam Prasad",
+    "Tea",
+    "Coffee",
+    "Festival Snack",
+    "Street-side Treat"
+  ],
+  "tags": [
+    "kadalai mittai",
+    "kadalai urundai",
+    "verkadalai urundai",
+    "peanut candy",
+    "peanut balls",
+    "south indian sweet",
+    "traditional sweet",
+    "karthigai deepam",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crunchy sweet",
+    "nostalgic sweet"
+  ]
+}

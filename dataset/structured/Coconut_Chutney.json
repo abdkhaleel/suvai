@@ -1,0 +1,210 @@
+{
+  "name": "Coconut Chutney",
+  "tamil_name": "தேங்காய் சட்னி",
+  "transliteration": "Thengai Chutney",
+  "category": "chutney",
+  "sub_category": "chutney",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 5,
+  "total_time": 10,
+  "servings": 3,
+  "description": "Coconut Chutney is a classic South Indian condiment made from freshly grated coconut blended with roasted chana dal, green chillies and ginger, tempered with whole spices, urad dal, curry leaves, dried red chillies and asafoetida. It is a creamy, flavorful accompaniment to traditional dishes like Idli, Dosa, Uttapam, Medu Vada and other South Indian delicacies.",
+  "ingredients": [
+    {
+      "name": "Fresh grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "tightly packed"
+    },
+    {
+      "name": "Roasted chana dal (Pottukadalai)",
+      "tamil_name": "வறுத்த கடலை பருப்பு",
+      "transliteration": "வறுத்த கடலை பருப்பு",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1 to 2",
+      "unit": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "½",
+      "unit": "inch piece",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "3 to 4",
+      "unit": "tbsp",
+      "notes": "for grinding"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "½",
+      "unit": "tbsp",
+      "notes": "sesame / coconut / sunflower, for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Dried red chilli",
+      "tamil_name": "வற்றல் மிளகாய்",
+      "transliteration": "வற்றல் மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "broken, seeds removed"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": "9 to 10 leaves"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Add freshly grated coconut, green chillies, ginger, roasted chana dal and salt to a chutney grinder jar.",
+      "tip": "Use freshly broken and scraped coconut for best tasting chutney. Avoid dried up coconut.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add 3 to 4 tablespoons water and grind to a fine and smooth consistency. Add more water if needed.",
+      "tip": "If using desiccated coconut, use warm water while grinding to get the right consistency.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Remove the chutney into a heat-proof bowl. Check taste and add more salt if needed.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat oil in a small tadka pan over low heat. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add urad dal and cumin seeds. Fry till urad dal turns golden and cumin crackles.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add dried red chilli, curry leaves and asafoetida. Fry for a few seconds till curry leaves become crisp.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Switch off the flame and immediately pour the entire tempering over the chutney.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix very well and serve fresh with idli, dosa, vada, pongal or pakoda.",
+      "tip": "Coconut chutney is best consumed fresh. Refrigerate if needed and consume within a day.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use freshly broken and scraped coconut for best tasting chutney. Avoid dried up coconut.",
+    "If the coconut is a little tender, the chutney will taste even better.",
+    "Roasted chana dal adds a lovely nutty taste. Skip if unavailable — the chutney will still be delicious.",
+    "For a tangier chutney, add ½ to 1 tsp tamarind or 2 to 3 tbsp fresh curd before tempering.",
+    "If using desiccated coconut, use warm water while grinding to get the right consistency.",
+    "Coconut chutney is best consumed fresh. Refrigerate if needed and consume within a day."
+  ],
+  "variations": [
+    "White Coconut Chutney",
+    "Mint Coconut Chutney",
+    "Coriander Coconut Chutney",
+    "Garlic Coconut Chutney",
+    "Tomato Coconut Chutney"
+  ],
+  "commonly_served_with": [
+    "Idli",
+    "Dosa",
+    "Uttapam",
+    "Medu Vada",
+    "Pongal",
+    "Upma",
+    "Mysore Bonda",
+    "Onion Pakoda"
+  ],
+  "tags": [
+    "coconut chutney",
+    "thengai chutney",
+    "south indian chutney",
+    "idli chutney",
+    "dosa chutney",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "breakfast side dish"
+  ]
+}

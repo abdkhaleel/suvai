@@ -1,0 +1,193 @@
+{
+  "name": "Murukku",
+  "tamil_name": "முறுக்கு",
+  "transliteration": "Murukku",
+  "category": "snacks",
+  "sub_category": "murukku",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "medium",
+  "prep_time": 15,
+  "cook_time": 30,
+  "total_time": 45,
+  "servings": 4,
+  "description": "Murukku is a traditional South Indian deep-fried snack made from rice flour and urad dal flour, shaped into spirals using a murukku press. It is crispy, crunchy and mildly spiced with cumin and asafoetida. A must-have during festivals like Diwali and Gokulashtami, murukku is enjoyed as a tea-time snack and stays fresh for weeks when stored properly.",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": "roasted, sieved"
+    },
+    {
+      "name": "Urad dal flour",
+      "tamil_name": "உளுந்து மாவு",
+      "transliteration": "உளுந்து மாவு",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": "roasted, sieved"
+    },
+    {
+      "name": "Butter",
+      "tamil_name": "வெண்ணெய்",
+      "transliteration": "வெண்ணெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "softened, at room temperature"
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "tamil_name": "எள்",
+      "transliteration": "எள்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Dry roast rice flour in a kadai for 2 minutes on medium flame without changing colour. Sieve and set aside.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 2,
+      "instruction": "Dry roast urad dal flour for 1 minute until light golden. Sieve and add to the rice flour.",
+      "tip": "",
+      "duration_mins": 1
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add cumin seeds, sesame seeds, asafoetida, salt and softened butter to the flour mixture.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Rub the butter into the flour with your fingers until the mixture resembles breadcrumbs.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add water little by little and knead into a smooth, stiff dough. It should not be too soft or too hard.",
+      "tip": "The dough should be stiff but smooth — too soft and murukku will absorb oil; too hard and it will break while pressing.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Grease the murukku press with oil and fit the star-shaped plate.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Fill the press with a portion of dough.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Heat oil in a wide kadai on medium heat. Test by dropping a small piece of dough — it should sizzle and rise steadily.",
+      "tip": "Always use a wide kadai so the murukku has space to spread.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Press the murukku directly into the hot oil in circular motions to form spirals. Do not overcrowd.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Fry on medium heat, turning occasionally, until golden and crisp. The sizzling sound will subside when done.",
+      "tip": "Fry on medium heat — high heat will brown the outside while leaving the inside raw.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Drain on paper towels. Cool completely before storing in an airtight container.",
+      "tip": "Murukku stays crisp for 2 to 3 weeks in an airtight container.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The dough should be stiff but smooth — too soft and murukku will absorb oil; too hard and it will break while pressing.",
+    "Always use a wide kadai so the murukku has space to spread.",
+    "Fry on medium heat — high heat will brown the outside while leaving the inside raw.",
+    "Store-bought rice flour works, but homemade idiyappam flour gives the best results.",
+    "Murukku stays crisp for 2 to 3 weeks in an airtight container.",
+    "You can add 1 tsp red chilli powder for a spicier version."
+  ],
+  "variations": [
+    "Butter Murukku",
+    "Thenkuzhal Murukku",
+    "Mullu Murukku",
+    "Potato Murukku",
+    "Rava Murukku"
+  ],
+  "commonly_served_with": [
+    "Tea",
+    "Coffee",
+    "Filter Coffee",
+    "South Indian Mixture"
+  ],
+  "tags": [
+    "murukku",
+    "chakli",
+    "south indian snack",
+    "diwali snack",
+    "festival snack",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crispy snack",
+    "tea time snack"
+  ]
+}

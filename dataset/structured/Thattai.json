@@ -1,0 +1,232 @@
+{
+  "name": "Thattai",
+  "tamil_name": "தட்டை",
+  "transliteration": "Thattai",
+  "category": "snacks",
+  "sub_category": "thattai",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "medium",
+  "prep_time": 30,
+  "cook_time": 30,
+  "total_time": 60,
+  "servings": 35,
+  "description": "Thattai, also known as Thattai Murukku or Thattu Vadai, is a crispy, crunchy South Indian deep-fried snack made from rice flour dough flattened into thin discs. Flavoured with soaked chana dal, urad dal, sesame seeds and curry leaves, these flat crackers are a festival favourite during Diwali and Gokulashtami. Each thattai is individually pressed and fried to golden perfection.",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": "roasted, sieved"
+    },
+    {
+      "name": "Urad dal flour",
+      "tamil_name": "உளுந்து மாவு",
+      "transliteration": "உளுந்து மாவு",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": "roasted, sieved"
+    },
+    {
+      "name": "Fried gram dal flour (Pottukadalai flour)",
+      "tamil_name": "வறுத்த கடலை மாவு",
+      "transliteration": "வறுத்த கடலை மாவு",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chana dal",
+      "tamil_name": "கடலை பருப்பு",
+      "transliteration": "கடலை பருப்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "soaked for 1 hour"
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "soaked for 1 hour, optional"
+    },
+    {
+      "name": "Butter",
+      "tamil_name": "வெண்ணெய்",
+      "transliteration": "வெண்ணெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "tamil_name": "எள்",
+      "transliteration": "எள்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Soak chana dal and urad dal in water for 1 hour. Drain and set aside.",
+      "tip": "",
+      "duration_mins": 60
+    },
+    {
+      "step_no": 2,
+      "instruction": "Dry roast rice flour for 2 minutes on medium flame without changing colour. Sieve into a mixing bowl.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add urad dal flour, fried gram dal flour, soaked chana dal, sesame seeds, red chilli powder, asafoetida, chopped curry leaves, salt and softened butter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Mix everything well first. Then add water little by little to form a smooth, soft dough.",
+      "tip": "The dough should be slightly loose, not too dry, or it will crack while pressing.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Pinch small portions and roll into gooseberry-sized balls. Keep covered to prevent drying.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Grease a butter paper or zip-lock cover with oil. Place a ball and fold the sheet over.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Using a flat-bottomed bowl or your fingers, press gently into a thin, even disc.",
+      "tip": "Press the thattai as thin and even as possible — the thinner, the crispier.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Prick the disc with a fork to prevent puffing while frying.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Heat oil on medium heat. Carefully slide the thattai into the hot oil.",
+      "tip": "Oil temperature is crucial — too low and thattai will be soggy; too high and it will brown too quickly.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Fry 3 to 4 at a time on medium-low flame. Flip and fry until golden on both sides.",
+      "tip": "Do not make too many layers in the oil — 2 circles per thattai is enough.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Continue frying until the bubbling sound completely ceases, then cook 1 more minute for extra crispiness.",
+      "tip": "",
+      "duration_mins": 1
+    },
+    {
+      "step_no": 12,
+      "instruction": "Drain on paper towels. Cool and store in an airtight container.",
+      "tip": "Thattai stays crisp for 2 to 3 weeks in an airtight container.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Press the thattai as thin and even as possible — the thinner, the crispier.",
+    "The dough should be slightly loose, not too dry, or it will crack while pressing.",
+    "Chop curry leaves very finely so they don't interrupt while pressing.",
+    "Oil temperature is crucial — too low and thattai will be soggy; too high and it will brown too quickly.",
+    "Do not make too many layers in the oil — 2 circles per thattai is enough.",
+    "You can add roasted peanuts for extra crunch and flavour.",
+    "Thattai stays crisp for 2 to 3 weeks in an airtight container."
+  ],
+  "variations": [
+    "Pepper Thattai",
+    "Peanut Thattai",
+    "Grated Coconut Thattai",
+    "Garlic Thattai"
+  ],
+  "commonly_served_with": [
+    "Tea",
+    "Coffee",
+    "Filter Coffee",
+    "South Indian Mixture"
+  ],
+  "tags": [
+    "thattai",
+    "thattai murukku",
+    "thattu vadai",
+    "south indian snack",
+    "diwali snack",
+    "festival snack",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crispy snack",
+    "tea time snack"
+  ]
+}

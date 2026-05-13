@@ -1,0 +1,219 @@
+{
+  "name": "Sakkarai Pongal",
+  "tamil_name": "சக்கரை பொங்கல்",
+  "transliteration": "Sakkarai Pongal",
+  "category": "sweets",
+  "sub_category": "pongal",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 30,
+  "total_time": 40,
+  "servings": 4,
+  "description": "Sakkarai Pongal, also known as Sweet Pongal or Chakkara Pongali, is a traditional South Indian sweet dish made with rice, moong dal, jaggery, ghee and aromatic spices. It is the star dish of the Thai Pongal harvest festival and is also offered as prasadam in temples, especially in Vaishnavite temples like Srirangam. Creamy, aromatic and mildly sweet, it is a heartwarming treat that symbolizes abundance and prosperity.",
+  "ingredients": [
+    {
+      "name": "Raw rice (Pacharisi)",
+      "tamil_name": "அரிசி",
+      "transliteration": "அரிசி",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Moong dal (Pasi paruppu)",
+      "tamil_name": "பாசிப்பருப்பு",
+      "transliteration": "பாசிப்பருப்பு",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Jaggery (Paagu vellam)",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "¾ to 1",
+      "unit": "cup",
+      "notes": "powdered"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2½",
+      "unit": "cups",
+      "notes": "for pressure cooking"
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "tamil_name": "ஏலக்காய்",
+      "transliteration": "ஏலக்காய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "powdered"
+    },
+    {
+      "name": "Edible camphor (Pachai karpooram)",
+      "tamil_name": "பச்சை கற்பூரம்",
+      "transliteration": "பச்சை கற்பூரம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": "mustard seed sized"
+    },
+    {
+      "name": "Clove",
+      "tamil_name": "கிராம்பு",
+      "transliteration": "கிராம்பு",
+      "quantity": "1",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg powder",
+      "tamil_name": "ஜாதிக்காய் பொடி",
+      "transliteration": "ஜாதிக்காய் பொடி",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Cashews",
+      "tamil_name": "முந்திரி பருப்பு",
+      "transliteration": "முந்திரி பருப்பு",
+      "quantity": "6 to 8",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "tamil_name": "திராட்சை",
+      "transliteration": "திராட்சை",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat ¼ tsp ghee in a pressure cooker. Add moong dal and roast until fragrant and golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add washed rice, 2½ cups water and a pinch of salt. Pressure cook for 4 to 5 whistles on medium flame.",
+      "tip": "Use new harvest raw rice (pacharisi) for soft, quick-cooking results.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Once pressure releases, open and mash the rice-dal mixture well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Meanwhile, powder jaggery and heat it with just enough water to immerse it. Bring to a boil until completely dissolved.",
+      "tip": "Use paagu vellam (soft, dark reddish-orange jaggery) for the best colour and flavour.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Filter the jaggery syrup through a metal strainer to remove impurities. Add the filtered syrup to the mashed rice in the cooker.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "In a separate pan, heat 1 tsp ghee. Fry cashews until golden, then add raisins and fry until they fluff up. Remove and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "In the same pan, add 1 clove and switch off the stove. Add nutmeg powder and give a quick stir.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add powdered cardamom, edible camphor, cloves and nutmeg to the pongal.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Mix well and cook on medium flame for 5 minutes. Add ¼ cup water or milk if it gets too dry.",
+      "tip": "For a watery texture instead of firm, use up to 4 cups water while cooking the rice.",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 10,
+      "instruction": "Drizzle ghee little by little while cooking. The pongal is done when it bubbles well and has a shine from the jaggery coating the rice.",
+      "tip": "Do not add too much ghee — it can spoil the taste when the pongal cools down.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Lastly, add the fried cashews and raisins. Mix well and serve hot.",
+      "tip": "Heat and serve hot for the best taste and texture; it thickens on cooling.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use new harvest raw rice (pacharisi) for soft, quick-cooking results.",
+    "Use paagu vellam (soft, dark reddish-orange jaggery) for the best colour and flavour.",
+    "The colour of pongal depends on the jaggery quality — paagu vellam gives a beautiful golden hue.",
+    "Adding a pinch of salt prevents the pongal from tasting flat.",
+    "Do not add too much ghee — it can spoil the taste when the pongal cools down.",
+    "Heat and serve hot for the best taste and texture; it thickens on cooling.",
+    "For a watery texture instead of firm, use up to 4 cups water while cooking the rice.",
+    "You can boil the jaggery syrup until half-string consistency for a shinier pongal."
+  ],
+  "variations": [
+    "Aval Sakkarai Pongal (with flattened rice)",
+    "Rice Cooker Sakkarai Pongal",
+    "Pot Method Pongal (Vengala Panai)",
+    "Temple Style Sakkarai Pongal"
+  ],
+  "commonly_served_with": [
+    "Pongal Festival Meal",
+    "Temple Prasad",
+    "Ven Pongal",
+    "Medu Vada",
+    "Coconut Chutney",
+    "Sambar"
+  ],
+  "tags": [
+    "sakkarai pongal",
+    "sweet pongal",
+    "chakkara pongali",
+    "pongal festival",
+    "harvest festival",
+    "temple prasad",
+    "south indian sweet",
+    "vegetarian",
+    "gluten-free",
+    "festival sweet"
+  ]
+}

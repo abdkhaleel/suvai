@@ -1,0 +1,222 @@
+{
+  "name": "Therattipal",
+  "tamil_name": "திரட்டிப்பால்",
+  "transliteration": "Therattipal",
+  "category": "sweets",
+  "sub_category": "therattipal",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 240,
+  "total_time": 245,
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Whole milk / Full fat milk",
+      "tamil_name": "முழு பால்",
+      "transliteration": "முழு பால்",
+      "quantity": "8",
+      "unit": "cups",
+      "notes": "2 litres, traditional method"
+    },
+    {
+      "name": "Sugar",
+      "tamil_name": "சர்க்கரை",
+      "transliteration": "சர்க்கரை",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "traditional method"
+    },
+    {
+      "name": "Cardamom powder",
+      "tamil_name": "ஏலக்காய் பொடி",
+      "transliteration": "ஏலக்காய் பொடி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "traditional method"
+    },
+    {
+      "name": "Condensed milk",
+      "tamil_name": "கண்டென்ஸ்டு பால்",
+      "transliteration": "கண்டென்ஸ்டு பால்",
+      "quantity": "1",
+      "unit": "tin",
+      "notes": "400g, quick method"
+    },
+    {
+      "name": "Milk",
+      "tamil_name": "பால்",
+      "transliteration": "பால்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "quick method"
+    },
+    {
+      "name": "Curd / Yogurt",
+      "tamil_name": "தயிர்",
+      "transliteration": "தயிர்",
+      "quantity": "¼",
+      "unit": "cup",
+      "notes": "fresh, not sour, quick method"
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "1 to 2",
+      "unit": "tbsp",
+      "notes": "quick method"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Pour 8 cups milk into a wide, heavy-bottomed vessel. Heat on medium flame.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Let the milk come to a boil, then reduce to a simmer.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "To prevent milk from boiling over, place a small stainless steel plate inside the vessel.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Let the milk reduce slowly, stirring frequently (every 5 minutes) to prevent sticking.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "After 2 to 3 hours, the milk will reduce to a mud-like consistency — about ¼ of the original volume.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add 1 cup sugar and stir well. The mixture will liquefy slightly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Continue cooking until it comes to a semi-solid, thick consistency.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Switch off when still slightly runny — it will solidify as it cools.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add cardamom powder, mix well and let cool.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "To a kadai, add 1 tin condensed milk and ½ cup milk. Keep flame on low.",
+      "tip": "Quick Method",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Mix well until blended. Let it start to boil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Once boiling, add ¼ cup fresh curd. The mixture will start to curdle, giving a grainy texture.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Cook on low flame, stirring continuously to avoid burning.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "As it thickens, add 1 tbsp ghee. Keep scraping milk solids from the sides.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 15,
+      "instruction": "Add another tbsp ghee if needed. Cook until the colour turns golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 16,
+      "instruction": "The mixture will leave the sides of the kadai and come together like a mass.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 17,
+      "instruction": "Switch off when thick but still slightly flowing — it thickens further on cooling.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 18,
+      "instruction": "Cool for a few minutes and serve.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use a wide, heavy-bottomed pan for the traditional method to prevent burning and sticking.",
+    "Whole milk gives the richest flavour, but 2% milk also works — it just takes longer to reduce.",
+    "Raw sugar gives a more golden colour compared to white sugar.",
+    "Do not let the mixture dry out completely — switch off when still slightly goey.",
+    "For the quick method, use fresh curd that is not sour, or the sweet will taste tangy.",
+    "Ghee adds richness and prevents the therattipal from sticking to the pan.",
+    "You can slightly grease the pan with water before starting to prevent sticking.",
+    "Therattipal stays good for 3 to 4 days at room temperature and up to a week refrigerated."
+  ],
+  "variations": [
+    "Palkova (plain version)",
+    "Milk Peda",
+    "Doodh Peda",
+    "Kalakand",
+    "Milk Cake"
+  ],
+  "commonly_served_with": [
+    "Krishna Jayanthi Prasad",
+    "Diwali Sweets",
+    "Festival Offerings",
+    "Tea",
+    "Coffee"
+  ],
+  "tags": [
+    "therattipal",
+    "palkova",
+    "thirattipaal",
+    "south indian sweet",
+    "milk sweet",
+    "festival sweet",
+    "krishna jayanthi",
+    "diwali sweet",
+    "vegetarian",
+    "gluten-free",
+    "traditional sweet",
+    "slow cooked sweet"
+  ]
+}

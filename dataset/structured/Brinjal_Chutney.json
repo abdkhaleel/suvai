@@ -1,0 +1,242 @@
+{
+  "name": "Brinjal Chutney",
+  "tamil_name": "கத்திரிக்காய் சட்னி",
+  "transliteration": "Kathirikai Chutney",
+  "category": "chutney",
+  "sub_category": "chutney",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 20,
+  "total_time": 30,
+  "servings": 4,
+  "description": "Brinjal Chutney or Kathirikai Chutney is a creamy and flavourful South Indian side dish made with roasted or sautéed brinjal, coconut, mustard, red chillies and tamarind. The smoky flavour from roasting the brinjal directly over flame gives this chutney a unique depth. It is a treat for brinjal lovers and pairs beautifully with idli and dosa.",
+  "ingredients": [
+    {
+      "name": "Brinjal (Eggplant)",
+      "tamil_name": "கத்திரிக்காய்",
+      "transliteration": "கத்திரிக்காய்",
+      "quantity": "1",
+      "unit": "large",
+      "notes": "or 1 big round aubergine"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "1 tsp + 3 tbsp",
+      "unit": "",
+      "notes": "for roasting brinjal and tempering"
+    },
+    {
+      "name": "White urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dry red chillies",
+      "tamil_name": "வற்றல் மிளகாய்",
+      "transliteration": "வற்றல் மிளகாய்",
+      "quantity": "4",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "4",
+      "unit": "cloves",
+      "notes": "peeled"
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind pulp",
+      "tamil_name": "புளி கரைசல்",
+      "transliteration": "புளி கரைசல்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "or as needed"
+    },
+    {
+      "name": "Gingelly oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Split urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat 1 tsp oil in a pan. Add urad dal, dry red chillies and garlic. Fry for a minute until fragrant.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Transfer to a blender, add some water and grind to a smooth paste. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "In the same pan, add chopped brinjal. Sauté well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add salt and turmeric powder. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add water and tamarind pulp. Cook until the brinjal is completely done and soft.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Transfer the cooked brinjal to a blender. Add jaggery and the ground dal-chilli-garlic paste.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Puree everything together until smooth. Transfer to a bowl.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "For tempering, heat 3 tbsp gingelly oil in the same pan. Add mustard seeds and let them splutter.",
+      "tip": "Use gingelly oil for the most authentic flavour.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add split urad dal, asafoetida and curry leaves. Fry until dal is golden and leaves are crisp.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Add the ground chutney to the tempering and mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Serve hot with idli, dosa or rice.",
+      "tip": "This chutney is best consumed fresh and may not store well for more than a day.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "You can use any variety of brinjal or eggplant. Green brinjal works very well.",
+    "Use gingelly oil for the most authentic flavour.",
+    "Instead of tamarind pulp, you can use a small piece of tamarind while grinding.",
+    "Adjust dry red chillies as per your spice level.",
+    "The smoky version (roasting brinjal over direct flame) gives a unique flavour but is optional.",
+    "This chutney is best consumed fresh and may not store well for more than a day."
+  ],
+  "variations": [
+    "Sutta Kathirikai Chutney (smoky roasted)",
+    "Brinjal Coconut Chutney",
+    "Brinjal Tomato Chutney",
+    "Baingan Bharta (North Indian style)"
+  ],
+  "commonly_served_with": [
+    "Idli",
+    "Dosa",
+    "Rice",
+    "Chapati",
+    "Parathas"
+  ],
+  "tags": [
+    "brinjal chutney",
+    "kathirikai chutney",
+    "baingan chutney",
+    "south indian chutney",
+    "idli chutney",
+    "dosa chutney",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "breakfast side dish",
+    "smoky chutney"
+  ]
+}

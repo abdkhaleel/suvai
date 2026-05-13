@@ -1,0 +1,222 @@
+{
+  "name": "Kesari",
+  "tamil_name": "கேசரி",
+  "transliteration": "Kesari",
+  "category": "sweets",
+  "sub_category": "kesari",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 15,
+  "total_time": 20,
+  "servings": 3,
+  "description": "Kesari, also known as Rava Kesari or Sheera, is a beloved South Indian sweet dish made from roasted semolina (rava), sugar, ghee and flavoured with cardamom and saffron. It is soft, aromatic and has a beautiful golden-yellow hue. Kesari is a staple at temples, weddings, festivals and special occasions, often served as prasadam. It can be made plain or with variations like pineapple, banana or carrot.",
+  "ingredients": [
+    {
+      "name": "Rava (Semolina / Sooji)",
+      "tamil_name": "ரவா",
+      "transliteration": "ரவா",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "tamil_name": "சர்க்கரை",
+      "transliteration": "சர்க்கரை",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1½",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "¼",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "optional, for softness"
+    },
+    {
+      "name": "Cardamom powder",
+      "tamil_name": "ஏலக்காய் பொடி",
+      "transliteration": "ஏலக்காய் பொடி",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Saffron strands",
+      "tamil_name": "குங்குமப்பூ",
+      "transliteration": "குங்குமப்பூ",
+      "quantity": "5 to 6",
+      "unit": "strands",
+      "notes": ""
+    },
+    {
+      "name": "Food colour",
+      "tamil_name": "உணவு வண்ணம்",
+      "transliteration": "உணவு வண்ணம்",
+      "quantity": "1 tiny",
+      "unit": "pinch",
+      "notes": "kesari colour, optional"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "⅛",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cashew nuts",
+      "tamil_name": "முந்திரி பருப்பு",
+      "transliteration": "முந்திரி பருப்பு",
+      "quantity": "15",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "tamil_name": "திராட்சை",
+      "transliteration": "திராட்சை",
+      "quantity": "10",
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat ¼ cup ghee in a thick-bottomed kadai. Add cashews and fry until golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add raisins and fry until they puff up and turn golden. Remove both and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "In the same ghee, add rava in a sprinkled manner. Roast on low flame for 3 to 5 minutes until aromatic and slightly golden. Do not brown.",
+      "tip": "If you are a beginner, cook the entire process on low flame to avoid burning.",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 4,
+      "instruction": "Meanwhile, in another pan, heat 1½ cups water with salt, saffron strands and a pinch of food colour. Bring to a rolling boil.",
+      "tip": "You can skip food colour and use only saffron for a natural light yellow hue.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add the boiling water to the roasted rava. Stir continuously on medium flame to avoid lumps.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "The mixture will become porridge-like. Cook covered on low flame for 5 to 7 minutes, stirring in between.",
+      "tip": "",
+      "duration_mins": 7
+    },
+    {
+      "step_no": 7,
+      "instruction": "After 6 minutes, the rava should be fully cooked and soft. Give it a quick stir.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add 1 cup sugar. Stir well to break any lumps that form. The mixture will loosen and become watery.",
+      "tip": "Always add sugar only after the rava is fully cooked, or the texture will be affected.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Keep stirring on medium flame until it starts to thicken again.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Cook partially covered for 2 minutes, then stir until the mixture starts to leave the sides of the pan.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 11,
+      "instruction": "Add cardamom powder, fried cashews, raisins and 1 tbsp oil (optional). Oil helps keep kesari soft even after cooling.",
+      "tip": "Adding a tablespoon of oil at the end keeps kesari soft for hours without hardening.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Give a quick mix and switch off. The kesari should still be slightly flowing in consistency — it will set as it cools.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Serve warm with a dollop of ghee.",
+      "tip": "Do not compromise on ghee — it is the main ingredient that makes kesari tasty and aromatic.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Do not compromise on ghee — it is the main ingredient that makes kesari tasty and aromatic.",
+    "Always add sugar only after the rava is fully cooked, or the texture will be affected.",
+    "Adding a tablespoon of oil at the end keeps kesari soft for hours without hardening.",
+    "If you are a beginner, cook the entire process on low flame to avoid burning.",
+    "Use a thick-bottomed kadai or non-stick pan for best results.",
+    "For a more gooey kesari, add 3¼ to 3½ cups water instead of 3 cups.",
+    "You can skip food colour and use only saffron for a natural light yellow hue."
+  ],
+  "variations": [
+    "Pineapple Kesari",
+    "Banana Kesari",
+    "Carrot Kesari",
+    "Milk Kesari",
+    "Mango Kesari",
+    "Rava Kesari with Coconut"
+  ],
+  "commonly_served_with": [
+    "Breakfast (Idli, Dosa, Pongal)",
+    "Temple Prasad",
+    "Wedding Feasts",
+    "Festival Offerings"
+  ],
+  "tags": [
+    "kesari",
+    "rava kesari",
+    "sheera",
+    "south indian sweet",
+    "temple prasad",
+    "festival sweet",
+    "vegetarian",
+    "gluten-free",
+    "breakfast sweet",
+    "quick sweet"
+  ]
+}

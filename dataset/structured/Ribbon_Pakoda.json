@@ -1,0 +1,194 @@
+{
+  "name": "Ribbon Pakoda",
+  "tamil_name": "ரிப்பன் பக்கோடா",
+  "transliteration": "Ribbon Pakoda",
+  "category": "snacks",
+  "sub_category": "pakoda",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 20,
+  "total_time": 30,
+  "servings": 4,
+  "description": "Ribbon Pakoda, also known as Seeval or Ola Pakoda, is a crunchy, spicy South Indian snack made from a dough of gram flour and rice flour, pressed into ribbon-like strands and deep-fried. It is a festival favourite during Diwali, easy to make and stays crisp for over 10 days when stored properly. The combination of besan and rice flour gives it a unique texture and addictive crunch.",
+  "ingredients": [
+    {
+      "name": "Gram flour (Besan)",
+      "tamil_name": "கடலை மாவு",
+      "transliteration": "கடலை மாவு",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Butter / Ghee / Vanaspati",
+      "tamil_name": "வெண்ணெய் / நெய்",
+      "transliteration": "வெண்ணெய் / நெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Take gram flour, rice flour, cumin seeds, red chilli powder, salt, asafoetida and butter in a large mixing bowl.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Mix well so the butter is evenly incorporated into the flours.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add water slowly and knead into a soft, slightly sticky dough.",
+      "tip": "The dough should be soft and slightly sticky — too dry and it will be hard to press; too wet and it will absorb oil.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat oil in a kadai for deep frying on medium-high heat.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Take the ribbon pakoda mould and fit it into an idiyappam press or murukku maker.",
+      "tip": "Use the ribbon plate (slotted plate with long rectangular holes) for the correct shape.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Fill the mould with a portion of dough.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Press the dough directly into the hot oil in a circular motion, forming ribbon-like strands.",
+      "tip": "Press directly into the oil while moving in a circular motion to avoid clumping.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Fry on medium-high heat until the sizzling sound subsides and the pakoda turns golden.",
+      "tip": "Fry until the \"shhh\" sound from the oil stops — this indicates the moisture has evaporated and the pakoda is crisp.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Flip if needed and fry until evenly crisp.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Drain on paper towels.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Cool completely and store in an airtight container for more than 10 days.",
+      "tip": "Ribbon Pakoda stays crisp for 2 to 3 weeks in an airtight container.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The dough should be soft and slightly sticky — too dry and it will be hard to press; too wet and it will absorb oil.",
+    "Use the ribbon plate (slotted plate with long rectangular holes) for the correct shape.",
+    "Press directly into the oil while moving in a circular motion to avoid clumping.",
+    "Fry until the \"shhh\" sound from the oil stops — this indicates the moisture has evaporated and the pakoda is crisp.",
+    "Do not overcrowd the kadai — fry in batches.",
+    "For a peppery version, replace chilli powder with 1 tbsp crushed black pepper.",
+    "Ribbon Pakoda stays crisp for 2 to 3 weeks in an airtight container."
+  ],
+  "variations": [
+    "Pepper Ribbon Pakoda",
+    "Garlic Ribbon Pakoda",
+    "Spinach Ribbon Pakoda",
+    "Spicy Ribbon Pakoda"
+  ],
+  "commonly_served_with": [
+    "Tea",
+    "Coffee",
+    "Filter Coffee",
+    "South Indian Mixture"
+  ],
+  "tags": [
+    "ribbon pakoda",
+    "seeval",
+    "ola pakoda",
+    "south indian snack",
+    "diwali snack",
+    "festival snack",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crispy snack",
+    "tea time snack"
+  ]
+}

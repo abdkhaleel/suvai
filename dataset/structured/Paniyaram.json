@@ -1,0 +1,254 @@
+{
+  "name": "Paniyaram",
+  "tamil_name": "குழி பணியாரம்",
+  "transliteration": "Kuzhi Paniyaram",
+  "category": "snacks",
+  "sub_category": "paniyaram",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 15,
+  "cook_time": 15,
+  "total_time": 30,
+  "servings": 18,
+  "description": "Kuzhi Paniyaram is a popular South Indian breakfast and snack made from fermented rice and urad dal batter, seasoned with tempered onions, chillies, ginger and curry leaves, then cooked in a special paniyaram pan with half-round moulds. It has a crispy golden exterior and a soft, spongy interior. Known as Paddu in Karnataka and Guliyappa in Andhra, it is a great way to use leftover idli-dosa batter.",
+  "ingredients": [
+    {
+      "name": "Idli dosa batter",
+      "tamil_name": "இட்லி தோசை மாவு",
+      "transliteration": "இட்லி தோசை மாவு",
+      "quantity": "2 heaped",
+      "unit": "cups",
+      "notes": "fermented"
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed (to adjust batter consistency)"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "2 tsp + as needed",
+      "unit": "",
+      "notes": "for pan"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "split"
+    },
+    {
+      "name": "Chana dal",
+      "tamil_name": "கடலை பருப்பு",
+      "transliteration": "கடலை பருப்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat 2 tsp oil in a pan. Add mustard seeds and let them splutter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add urad dal and chana dal. Fry till golden brown.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add green chilli, ginger, curry leaves and asafoetida. Sauté for a few seconds.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add chopped onion and required salt. Sauté until onions turn transparent.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add this tempering to 2 cups of idli dosa batter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add chopped coriander leaves. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add water if needed — the batter should be semi-thick, not too runny.",
+      "tip": "The batter should be semi-thick — too thin and paniyarams will be sticky inside; too thick and they will be dense.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Heat a paniyaram pan (appe pan) on medium heat. Add ¼ tsp oil in each hole.",
+      "tip": "A cast iron paniyaram pan gives the best crispy exterior.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Swirl the pan so oil coats all sides of each cavity evenly.",
+      "tip": "Swirl the pan after adding oil so all cavities are evenly coated — this prevents sticking.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Fill each hole with batter up to ¾th — the paniyarams will rise while cooking.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Cook covered on low-medium heat for 3 to 5 minutes until the top looks cooked.",
+      "tip": "Cook covered first so the top steams and cooks through before flipping.",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 12,
+      "instruction": "Open the lid. When the top looks set and no longer wet, flip each paniyaram using a paniyaram turner or spoon.",
+      "tip": "Use a toothpick to check doneness — it should come out clean without batter sticking.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Cook the other side for 2 minutes until golden brown.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 14,
+      "instruction": "Remove and transfer to a plate. Repeat with the remaining batter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 15,
+      "instruction": "Serve hot with coconut chutney, tomato chutney or sambar.",
+      "tip": "Paniyarams are best eaten hot. Leftover batter can be refrigerated and used later.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The batter should be semi-thick — too thin and paniyarams will be sticky inside; too thick and they will be dense.",
+    "Swirl the pan after adding oil so all cavities are evenly coated — this prevents sticking.",
+    "Cook covered first so the top steams and cooks through before flipping.",
+    "Use a toothpick to check doneness — it should come out clean without batter sticking.",
+    "A cast iron paniyaram pan gives the best crispy exterior.",
+    "You can add finely chopped carrots, capsicum or grated coconut to the batter for variation.",
+    "For sweet paniyaram, add jaggery syrup, cardamom and coconut to the batter instead of the savoury tempering.",
+    "Paniyarams are best eaten hot. Leftover batter can be refrigerated and used later."
+  ],
+  "variations": [
+    "Masala Paniyaram",
+    "Sweet Paniyaram (Vella Paniyaram)",
+    "Karupatti Paniyaram",
+    "Oats Paniyaram",
+    "Rava Paniyaram (Instant)"
+  ],
+  "commonly_served_with": [
+    "Coconut Chutney",
+    "Tomato Chutney",
+    "Garlic Chutney",
+    "Sambar",
+    "Onion Chutney"
+  ],
+  "tags": [
+    "paniyaram",
+    "kuzhi paniyaram",
+    "paddu",
+    "guliyappa",
+    "appe",
+    "south indian snack",
+    "breakfast",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crispy snack",
+    "fermented snack"
+  ]
+}

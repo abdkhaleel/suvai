@@ -1,0 +1,219 @@
+{
+  "name": "Bonda",
+  "tamil_name": "போண்டா",
+  "transliteration": "Bonda",
+  "category": "snacks",
+  "sub_category": "bonda",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 15,
+  "cook_time": 15,
+  "total_time": 30,
+  "servings": 20,
+  "description": "Mysore Bonda, also known as Ulundu Bonda, is a popular South Indian snack made from urad dal batter, chopped coconut, black pepper and fresh herbs. These round, fluffy fritters are crispy on the outside and soft on the inside. A favourite in Tamil Nadu, Karnataka and Andhra Pradesh, they are traditionally served with coconut chutney and make a perfect evening snack with coffee or tea.",
+  "ingredients": [
+    {
+      "name": "Urad dal (White whole urad dal)",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh coconut bits",
+      "tamil_name": "தேங்காய் துண்டுகள்",
+      "transliteration": "தேங்காய் துண்டுகள்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Black peppercorns",
+      "tamil_name": "மிளகு",
+      "transliteration": "மிளகு",
+      "quantity": "2",
+      "unit": "tsp",
+      "notes": "crushed coarsely"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "optional, chopped"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "½",
+      "unit": "inch piece",
+      "notes": "finely chopped, optional"
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse urad dal well and soak in water for 2 to 3 hours (or overnight for best results).",
+      "tip": "",
+      "duration_mins": 180
+    },
+    {
+      "step_no": 2,
+      "instruction": "Drain all water completely. Transfer soaked dal to a blender or grinder.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add 4 to 5 tbsp water in parts and grind to a smooth, fluffy and thick batter. Scrape sides as needed.",
+      "tip": "Grind the batter with very little water and use ice water for the best fluffy texture.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Transfer the batter to a large mixing bowl. Whisk briskly with a spoon for 2 to 3 minutes to aerate the batter.",
+      "tip": "",
+      "duration_mins": 3
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add rice flour, crushed black pepper, chopped ginger, green chilli, asafoetida, chopped coriander leaves, curry leaves, chopped coconut bits, cumin seeds and salt.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Mix everything very well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Heat oil in a kadai on medium heat. Test by dropping a pinch of batter — it should rise steadily.",
+      "tip": "Fry on medium heat — too hot and the outside will brown while the inside stays raw; too low and they will absorb oil.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Grease your hand with water. Take a small portion of batter and shape into a smooth ball.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Carefully drop the ball into the hot oil. Lower the flame and cook slowly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Fry until golden on all sides, turning occasionally. The inside must cook through.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Drain on paper towels. Serve hot with coconut chutney.",
+      "tip": "Bondas are best eaten hot or warm. Store in an airtight container for a few hours on the same day.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use fresh urad dal, not aged or old — old dal takes longer to grind and won't yield fluffy bondas.",
+    "Grind the batter with very little water and use ice water for the best fluffy texture.",
+    "Keep the batter thick and flowing — thin batter makes flat bondas that absorb too much oil.",
+    "Adding rice flour or fine rava helps make the bonda crispier.",
+    "If the batter is too loose, refrigerate for 1 hour before frying.",
+    "Fry on medium heat — too hot and the outside will brown while the inside stays raw; too low and they will absorb oil.",
+    "Bondas are best eaten hot or warm. Store in an airtight container for a few hours on the same day."
+  ],
+  "variations": [
+    "Aloo Bonda (Potato-filled)",
+    "Goli Baje (Maida version)",
+    "Egg Bonda",
+    "Masala Bonda"
+  ],
+  "commonly_served_with": [
+    "Coconut Chutney",
+    "Tomato Chutney",
+    "Garlic Chutney",
+    "Tea",
+    "Coffee",
+    "Filter Coffee"
+  ],
+  "tags": [
+    "bonda",
+    "mysore bonda",
+    "ulundu bonda",
+    "south indian snack",
+    "tea time snack",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "fritter",
+    "evening snack"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "name": "Red Chilli Chutney",
+  "tamil_name": "சிவப்பு மிளகாய் சட்னி",
+  "transliteration": "Sivappu Milagai Chutney",
+  "category": "chutney",
+  "sub_category": "chutney",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 5,
+  "total_time": 15,
+  "servings": 3,
+  "description": "Red Chilli Chutney is a Tamil Nadu style spicy condiment made with dry red chillies, coconut, roasted chana dal, ginger, garlic and tamarind. The tamarind adds a pleasant sourness that balances the heat from the chillies. Finished with a cracking tempering of mustard, cumin and curry leaves, this chutney is perfect with idli, dosa, uttapam, medu vada and bonda.",
+  "ingredients": [
+    {
+      "name": "Fresh grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted chana dal",
+      "tamil_name": "வறுத்த கடலை பருப்பு",
+      "transliteration": "வறுத்த கடலை பருப்பு",
+      "quantity": "¼",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Dry red chillies",
+      "tamil_name": "வற்றல் மிளகாய்",
+      "transliteration": "வற்றல் மிளகாய்",
+      "quantity": "1 to 2",
+      "unit": "",
+      "notes": "broken, seeds removed"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "2 to 3",
+      "unit": "small cloves",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tamarind",
+      "tamil_name": "புளி",
+      "transliteration": "புளி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "for grinding, or as needed"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": "10 to 12 leaves"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Take grated coconut, roasted chana dal, dried red chillies, chopped ginger, garlic, tamarind and salt in a grinder jar.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add ½ cup water and blend to a smooth and fine consistency.",
+      "tip": "Adjust the consistency by adding less or more water. Be mindful of salt when changing consistency.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Transfer the chutney to a heat-proof bowl.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat oil in a small pan on low flame. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add cumin seeds and fry till they splutter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add asafoetida and curry leaves. Fry for a few seconds until curry leaves become crisp.",
+      "tip": "Skip asafoetida to make this chutney fully gluten-free.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Switch off heat and pour the entire tempering over the chutney.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix well and serve with idli, dosa, uttapam, medu vada, bonda or pakoda.",
+      "tip": "This chutney is best consumed immediately after preparing.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use Kashmiri or Byadgi red chillies for a milder, brighter coloured chutney.",
+    "If using hot and pungent red chillies, reduce the quantity.",
+    "Skip asafoetida to make this chutney fully gluten-free.",
+    "Adjust the consistency by adding less or more water. Be mindful of salt when changing consistency.",
+    "You can add a few curry leaves while grinding for a unique taste.",
+    "Adding sambar onions/shallots while grinding gives an extra layer of flavour.",
+    "This chutney is best consumed immediately after preparing."
+  ],
+  "variations": [
+    "Red Coconut Chutney",
+    "Kara Chutney",
+    "Spicy Red Chutney",
+    "Red Chilli Garlic Chutney"
+  ],
+  "commonly_served_with": [
+    "Idli",
+    "Dosa",
+    "Uttapam",
+    "Medu Vada",
+    "Mysore Bonda",
+    "Pakoda",
+    "Rava Idli",
+    "Masala Dosa"
+  ],
+  "tags": [
+    "red chilli chutney",
+    "red coconut chutney",
+    "kara chutney",
+    "south indian chutney",
+    "idli chutney",
+    "dosa chutney",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "breakfast side dish",
+    "spicy chutney"
+  ]
+}

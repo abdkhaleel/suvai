@@ -1,0 +1,180 @@
+{
+  "name": "Mysore Pak",
+  "tamil_name": "மைசூர் பாக்",
+  "transliteration": "Mysore Pak",
+  "category": "sweets",
+  "sub_category": "barfi",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "medium",
+  "prep_time": 10,
+  "cook_time": 30,
+  "total_time": 40,
+  "servings": 12,
+  "description": "Mysore Pak is a legendary South Indian melt-in-the-mouth sweet made with just three main ingredients — gram flour (besan), sugar and ghee. Originating from the royal kitchens of Mysore, this fudgy, soft barfi has a rich golden colour and an irresistible aroma of roasted besan and pure ghee. It is a must-make during Diwali and special occasions, and though it looks simple, getting the perfect soft texture requires attention to sugar syrup consistency and timing.",
+  "ingredients": [
+    {
+      "name": "Gram flour (Besan)",
+      "tamil_name": "கடலை மாவு",
+      "transliteration": "கடலை மாவு",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "tamil_name": "சர்க்கரை",
+      "transliteration": "சர்க்கரை",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "¼",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "¾",
+      "unit": "cup",
+      "notes": "optional, mixed with ghee for softer texture"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Grease a square or rectangular plate generously with ghee and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Heat 1 tsp ghee in a non-stick pan. Add besan flour and roast on low-medium flame for 3 to 4 minutes until a nice aroma comes. Do not brown.",
+      "tip": "",
+      "duration_mins": 4
+    },
+    {
+      "step_no": 3,
+      "instruction": "Sieve the roasted besan once to remove lumps and ensure fine texture.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "In a bowl, mix ¾ cup ghee with the roasted besan to form a smooth, slightly pouring consistency mixture. Set aside for 15 minutes.",
+      "tip": "",
+      "duration_mins": 15
+    },
+    {
+      "step_no": 5,
+      "instruction": "In a non-stick pan, add 1 cup sugar and ¼ cup water. Heat on medium flame, stirring until sugar dissolves.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Bring to a boil and cook until one-string consistency is reached — when you take the syrup between thumb and index finger, a single string should form.",
+      "tip": "The two critical steps are: checking one-string consistency of sugar syrup and the final Mysore Pak consistency.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add the besan-ghee mixture to the sugar syrup. Mix well until combined.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add the remaining ¼ cup ghee in intervals, stirring continuously. Keep the flame on low.",
+      "tip": "Add ghee in portions, not all at once — the mixture absorbs ghee quickly.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "The mixture will first stick to the pan while scraping with the ladle. Keep stirring and adding ghee little by little.",
+      "tip": "Keep the flame on low after adding besan to prevent burning.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "At one stage, the mixture will come together as a ball without sticking at all. It will not be sticky anymore. This is the perfect stage — switch off immediately.",
+      "tip": "Switch off at the exact moment the mixture leaves the pan and forms a non-sticky ball — even a minute late will make it hard.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Pour the mixture into the greased plate. Do not flatten — it will spread beautifully by itself.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "While still hot, cut into squares or diamonds using a greased knife.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Let it cool completely. The ghee that oozes out will be fully absorbed as it cools.",
+      "tip": "Ghee may ooze out slightly at the final stage — this is normal and will be absorbed on cooling.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "Remove pieces gently and store in an airtight container.",
+      "tip": "Mysore Pak stays well at room temperature for 5 days and in the fridge for 2 weeks.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The two critical steps are: checking one-string consistency of sugar syrup and the final Mysore Pak consistency.",
+    "Switch off at the exact moment the mixture leaves the pan and forms a non-sticky ball — even a minute late will make it hard.",
+    "Keep the flame on low after adding besan to prevent burning.",
+    "The colour of Mysore Pak depends on the besan flour — deeper yellow besan gives a richer colour.",
+    "Ghee may ooze out slightly at the final stage — this is normal and will be absorbed on cooling.",
+    "Add ghee in portions, not all at once — the mixture absorbs ghee quickly.",
+    "Use a non-stick pan for easier handling and to prevent sticking.",
+    "Mysore Pak stays well at room temperature for 5 days and in the fridge for 2 weeks."
+  ],
+  "variations": [
+    "Ghee Mysore Pak",
+    "Milk Mysore Pak",
+    "Hard Mysore Pak (Crispy version)",
+    "Chocolate Mysore Pak",
+    "Kesar Mysore Pak"
+  ],
+  "commonly_served_with": [
+    "Diwali Sweets Platter",
+    "Tea",
+    "Coffee",
+    "Festival Gift Boxes"
+  ],
+  "tags": [
+    "mysore pak",
+    "mysore pa",
+    "ghee mysore pak",
+    "south indian sweet",
+    "diwali sweet",
+    "festival sweet",
+    "vegetarian",
+    "gluten-free",
+    "melt in mouth sweet",
+    "royal sweet"
+  ]
+}

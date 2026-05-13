@@ -1,0 +1,211 @@
+{
+  "name": "Masala Vadai",
+  "tamil_name": "மசாலா வடை",
+  "transliteration": "Masala Vadai",
+  "category": "snacks",
+  "sub_category": "vadai",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 15,
+  "cook_time": 20,
+  "total_time": 35,
+  "servings": 12,
+  "description": "Masala Vadai, also known as Paruppu Vadai or Dal Vada, is a crispy and flavourful South Indian fritter made from coarsely ground chana dal mixed with onions, herbs and spices. Unlike Medu Vada, which uses urad dal, Masala Vadai uses chana dal (split Bengal gram) giving it a distinctly crunchy texture and nutty flavour. It is a popular tea-time snack and street food across Tamil Nadu.",
+  "ingredients": [
+    {
+      "name": "Chana dal (Split Bengal gram)",
+      "tamil_name": "கடலை பருப்பு",
+      "transliteration": "கடலை பருப்பு",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "⅓",
+      "unit": "cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "½",
+      "unit": "inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "4",
+      "unit": "big cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "tamil_name": "சோம்பு",
+      "transliteration": "சோம்பு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried red chillies",
+      "tamil_name": "வற்றல் மிளகாய்",
+      "transliteration": "வற்றல் மிளகாய்",
+      "quantity": "4",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse chana dal well and soak in water for 2 to 3 hours. Keep covered.",
+      "tip": "",
+      "duration_mins": 180
+    },
+    {
+      "step_no": 2,
+      "instruction": "Drain the water completely and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "To a mixer jar, add ginger, garlic, fennel seeds and dried red chillies.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Grind to a coarse paste.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add half of the soaked chana dal to the jar. Grind to a coarse mixture — it should be thick, not watery. A few whole dal pieces here and there give a crisp texture.",
+      "tip": "Do not add water while grinding the chana dal — the mixture must be thick and coarse.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Transfer to a bowl. Grind the remaining chana dal the same way and add to the bowl.",
+      "tip": "A few whole dal pieces in the mixture are desirable as they give the vadai its signature crisp texture.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add chopped onion, coriander leaves, salt and a pinch of asafoetida.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix everything well. The masala vadai dough is now ready.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Take a small portion and shape into a ball. Slightly flatten it between your palms to form a thick disc.",
+      "tip": "Flatten the vadais slightly thick so the inside cooks through while the outside turns crisp.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Heat oil in a kadai. Check if ready by adding a pinch — it should rise immediately.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Add a few vadais at a time. Deep fry till golden brown, turning both sides.",
+      "tip": "Do not overcrowd the oil — fry in small batches for even cooking.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Drain on paper towels. Serve hot with tea or coffee.",
+      "tip": "Masala Vadai is best served hot. It can be refrigerated and reheated in an oven or air fryer.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Do not add water while grinding the chana dal — the mixture must be thick and coarse.",
+    "A few whole dal pieces in the mixture are desirable as they give the vadai its signature crisp texture.",
+    "Flatten the vadais slightly thick so the inside cooks through while the outside turns crisp.",
+    "Do not overcrowd the oil — fry in small batches for even cooking.",
+    "You can add 1 to 2 green chillies while grinding for extra heat.",
+    "Adding a little rice flour (1 tbsp) can make the vadai extra crispy.",
+    "Masala Vadai is best served hot. It can be refrigerated and reheated in an oven or air fryer."
+  ],
+  "variations": [
+    "Aama Vadai (with whole chana dal)",
+    "Keerai Vadai (with greens)",
+    "Masala Vadai with Mint",
+    "Vadai Curry (in gravy)"
+  ],
+  "commonly_served_with": [
+    "Tea",
+    "Coffee",
+    "Filter Coffee",
+    "Coconut Chutney",
+    "Tomato Chutney",
+    "Sambar"
+  ],
+  "tags": [
+    "masala vadai",
+    "paruppu vadai",
+    "dal vada",
+    "chana dal vada",
+    "south indian snack",
+    "tea time snack",
+    "street food",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crispy snack",
+    "evening snack"
+  ]
+}

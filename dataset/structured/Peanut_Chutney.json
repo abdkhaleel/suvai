@@ -1,0 +1,217 @@
+{
+  "name": "Peanut Chutney",
+  "tamil_name": "வேர்க்கடலை சட்னி",
+  "transliteration": "Verkadalai Chutney",
+  "category": "chutney",
+  "sub_category": "chutney",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 5,
+  "total_time": 10,
+  "servings": 3,
+  "description": "Peanut Chutney, also known as Groundnut Chutney, Verkadalai Chutney or Palli Chutney, is a flavourful nut-based side dish from Andhra and other Southern parts of India. Roasted peanuts are ground with onions, garlic, chillies, tamarind and jaggery to create a creamy, nutty and spicy chutney. It is quick to make and tastes amazing with idli, dosa, punugulu or vada.",
+  "ingredients": [
+    {
+      "name": "Roasted peanuts (Groundnuts)",
+      "tamil_name": "வேர்க்கடலை",
+      "transliteration": "வேர்க்கடலை",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "unsalted, skinned"
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "1",
+      "unit": "small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "3 to 4",
+      "unit": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dry red chillies",
+      "tamil_name": "வற்றல் மிளகாய்",
+      "transliteration": "வற்றல் மிளகாய்",
+      "quantity": "4 to 5",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind",
+      "tamil_name": "புளி",
+      "transliteration": "புளி",
+      "quantity": "1",
+      "unit": "small piece",
+      "notes": "or 1 tsp tamarind pulp"
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "¼ to ½",
+      "unit": "cup",
+      "notes": "for grinding"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "If using raw peanuts, dry roast them on low flame for 4 to 5 minutes until aromatic and golden. Remove skins if needed.",
+      "tip": "Always use roasted peanuts for this chutney. Raw peanuts will not give the right flavour or texture.",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add roasted peanuts, onion, garlic, dry red chillies, tamarind, jaggery and salt to a blender jar.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add ¼ cup water and grind to a smooth or slightly coarse paste. Add more water as needed for consistency.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Transfer the peanut chutney to a serving bowl.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "For tempering, heat oil in a small pan. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add urad dal and fry until golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add curry leaves and asafoetida. Fry for a few seconds until leaves are crisp.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Pour the tempering over the chutney and mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Serve with idli, dosa, vada, paniyaram or punugulu.",
+      "tip": "This chutney stays good in the refrigerator for 2 to 3 days.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Always use roasted peanuts for this chutney. Raw peanuts will not give the right flavour or texture.",
+    "If using store-bought roasted peanuts, check that they do not contain corn syrup or additives.",
+    "Adjust the number of red chillies based on your spice preference.",
+    "The chutney has a creamy yet nutty mouthfeel — similar to a spicy peanut sauce.",
+    "You can skip onion and garlic for a simpler version, or add grated coconut for extra richness.",
+    "This chutney stays good in the refrigerator for 2 to 3 days."
+  ],
+  "variations": [
+    "Tomato Peanut Chutney",
+    "Coconut Peanut Chutney",
+    "Spicy Peanut Chutney",
+    "Mint Peanut Chutney"
+  ],
+  "commonly_served_with": [
+    "Idli",
+    "Dosa",
+    "Vada",
+    "Paniyaram",
+    "Punugulu",
+    "Upma",
+    "Pongal",
+    "Parathas"
+  ],
+  "tags": [
+    "peanut chutney",
+    "groundnut chutney",
+    "verkadalai chutney",
+    "palli chutney",
+    "south indian chutney",
+    "idli chutney",
+    "dosa chutney",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "breakfast side dish"
+  ]
+}

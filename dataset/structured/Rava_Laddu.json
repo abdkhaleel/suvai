@@ -1,0 +1,184 @@
+{
+  "name": "Rava Laddu",
+  "tamil_name": "ரவா லட்டு",
+  "transliteration": "Rava Laddu",
+  "category": "sweets",
+  "sub_category": "laddu",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 25,
+  "total_time": 30,
+  "servings": 18,
+  "ingredients": [
+    {
+      "name": "Rava / Sooji / Semolina",
+      "tamil_name": "ரவா",
+      "transliteration": "ரவா",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": "coarse"
+    },
+    {
+      "name": "Desiccated coconut",
+      "tamil_name": "காய்ந்த தேங்காய் துருவல்",
+      "transliteration": "காய்ந்த தேங்காய் துருவல்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "tamil_name": "சர்க்கரை",
+      "transliteration": "சர்க்கரை",
+      "quantity": "1¾",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "¼",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Cashews",
+      "tamil_name": "முந்திரி பருப்பு",
+      "transliteration": "முந்திரி பருப்பு",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "tamil_name": "திராட்சை",
+      "transliteration": "திராட்சை",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom powder",
+      "tamil_name": "ஏலக்காய் பொடி",
+      "transliteration": "ஏலக்காய் பொடி",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat ¼ cup ghee in a kadai. Add cashews and raisins. Roast until nuts turn golden brown. Remove and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "In the same ghee, add 2 cups rava. Roast on low flame until aromatic and slightly golden in colour. Do not brown.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add 1 cup desiccated coconut and roast for another 2 minutes until aromatic.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 4,
+      "instruction": "Transfer the roasted rava and coconut to a large plate and cool slightly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "In the same kadai, take 1¾ cups sugar and ½ cup water. Stir and boil until one-string sugar syrup consistency is reached.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add the roasted rava and coconut to the syrup. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Cook until the mixture just comes to a boil. Do not overcook or the laddus will turn hard.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Transfer the mixture to the large plate and cool slightly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Once the mixture cools, it will be moist and easy to shape. Add roasted nuts and ½ tsp cardamom powder. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Shape into laddus of your desired size while the mixture is still warm. If too dry, add 2 tbsp milk and mix.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Cool completely and store in an airtight container.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use coarse rava for a nice texture. Fine rava can also be used but gives a different mouthfeel.",
+    "Roast rava on low flame to prevent browning — it should turn light golden, not brown.",
+    "Remove roasted rava promptly into a cool bowl to stop the cooking process.",
+    "The sugar syrup should reach one-string consistency — too thin and laddus won't hold; too thick and they become hard.",
+    "Do not let the mixture cool completely before shaping — it hardens and won't bind.",
+    "Adding coconut enhances flavour and keeps the laddus moist.",
+    "If using fresh grated coconut, reduce the quantity and finish the laddus within a day.",
+    "Rava Laddu stays good for up to a month in an airtight container."
+  ],
+  "variations": [
+    "Suji Coconut Laddu",
+    "Rava Laddu with Khoya",
+    "Rava Laddu with Condensed Milk",
+    "Dry Fruit Rava Laddu"
+  ],
+  "commonly_served_with": [
+    "Diwali Sweets Platter",
+    "Festival Gift Boxes",
+    "Tea",
+    "Coffee"
+  ],
+  "tags": [
+    "rava laddu",
+    "sooji ladoo",
+    "rava ladoo",
+    "south indian sweet",
+    "diwali sweet",
+    "festival sweet",
+    "vegetarian",
+    "gluten-free",
+    "quick sweet",
+    "easy sweet"
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Seedai",
+  "tamil_name": "உப்பு சீடை",
+  "transliteration": "Uppu Seedai",
+  "category": "snacks",
+  "sub_category": "seedai",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "medium",
+  "prep_time": 30,
+  "cook_time": 60,
+  "total_time": 90,
+  "servings": 6,
+  "description": "Uppu Seedai is a popular South Indian crunchy snack made with rice flour, urad dal flour, coconut and cumin, specially prepared during Krishna Jayanthi (Gokulashtami). These tiny, round, deep-fried balls are crispy and mildly spiced. Making perfect seedai requires attention to moisture control to prevent them from bursting in oil.",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "homemade or store-bought, very fine"
+    },
+    {
+      "name": "Urad dal flour",
+      "tamil_name": "உளுந்து மாவு",
+      "transliteration": "உளுந்து மாவு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "tamil_name": "வெண்ணெய்",
+      "transliteration": "வெண்ணெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "soft, at room temperature"
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "or as needed"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "Sesame seeds",
+      "tamil_name": "எள்",
+      "transliteration": "எள்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Sift rice flour and urad dal flour separately at least twice to ensure they are perfectly smooth.",
+      "tip": "Sifting and roasting flours and coconut removes moisture, which is the main cause of seedai bursting.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Dry roast rice flour in a kadai for 2 minutes on low heat. Remove to a bowl.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 3,
+      "instruction": "Dry roast urad dal flour for 1 minute until light golden. Add to the same bowl.",
+      "tip": "",
+      "duration_mins": 1
+    },
+    {
+      "step_no": 4,
+      "instruction": "Grind grated coconut in a blender without water until fine. Dry roast in a kadai until moisture evaporates. Add to the flour mixture.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add salt, cumin seeds, asafoetida, sesame seeds and soft butter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Rub the butter into the flour mixture with your fingers until evenly incorporated.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Sprinkle water little by little and knead into a soft, stiff dough. Do not add too much water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Take small portions of dough and roll very gently into tiny smooth balls without applying pressure.",
+      "tip": "Roll the balls gently without pressure — tight balls will burst while frying.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Spread the balls on a dry cloth and let them sit for 30 minutes to remove excess moisture.",
+      "tip": "Drying the rolled balls on a cloth for 30 minutes is essential to prevent bursting.",
+      "duration_mins": 30
+    },
+    {
+      "step_no": 10,
+      "instruction": "Heat oil for deep frying. Do a test batch first — drop a few balls and step away. If they don't burst, proceed.",
+      "tip": "Always do a test fry before frying the full batch. Stand back when dropping them in oil.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Fry the seedai on medium heat, stirring occasionally, until light golden and crisp.",
+      "tip": "Fry on medium heat — very high heat will colour the outside but leave the inside raw.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Drain on paper towels. Cool completely before storing.",
+      "tip": "Seedai stays crisp for 1 to 2 weeks in an airtight container.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The ratio of rice flour to urad dal flour is crucial — 11:1 is the traditional ratio.",
+    "Sifting and roasting flours and coconut removes moisture, which is the main cause of seedai bursting.",
+    "Roll the balls gently without pressure — tight balls will burst while frying.",
+    "Always do a test fry before frying the full batch. Stand back when dropping them in oil.",
+    "Drying the rolled balls on a cloth for 30 minutes is essential to prevent bursting.",
+    "If you are scared of bursting, prick each ball with a needle before frying.",
+    "Fry on medium heat — very high heat will colour the outside but leave the inside raw.",
+    "Seedai stays crisp for 1 to 2 weeks in an airtight container."
+  ],
+  "variations": [
+    "Vella Seedai (sweet)",
+    "Karupatti Seedai",
+    "Uppu Seedai with Chana Dal"
+  ],
+  "commonly_served_with": [
+    "Tea",
+    "Coffee",
+    "Filter Coffee",
+    "South Indian Mixture",
+    "Festival Prasad"
+  ],
+  "tags": [
+    "seedai",
+    "uppu seedai",
+    "salt seedai",
+    "gokulashtami snack",
+    "krishna jayanthi",
+    "south indian snack",
+    "festival snack",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "crunchy snack"
+  ]
+}

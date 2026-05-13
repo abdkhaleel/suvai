@@ -1,0 +1,273 @@
+{
+  "name": "Curry Leaves Chutney",
+  "tamil_name": "கறிவேப்பிலை சட்னி",
+  "transliteration": "Karuveppilai Chutney",
+  "category": "chutney",
+  "sub_category": "chutney",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 10,
+  "total_time": 15,
+  "servings": 3,
+  "description": "Curry Leaves Chutney or Karuveppilai Chutney is a super aromatic, nutritious and tasty chutney variety made with fresh curry leaves, roasted lentils, coconut and spices. It is eaten with breakfasts, snacks and even with rice. This chutney is not only delicious but also helps in digestion, and is a wonderful way to consume the iron-rich curry leaves that are usually discarded.",
+  "ingredients": [
+    {
+      "name": "Fresh curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": "30 grams, tightly packed"
+    },
+    {
+      "name": "Fresh coconut (grated coconut)",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Chana dal",
+      "tamil_name": "கடலை பருப்பு",
+      "transliteration": "கடலை பருப்பு",
+      "quantity": "1½",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "¾",
+      "unit": "tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green chillies",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "3 to 4",
+      "unit": "",
+      "notes": "or dried red chillies"
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "3",
+      "unit": "medium cloves",
+      "notes": "or ½ inch ginger"
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "¾",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "tamil_name": "எலுமிச்சை சாறு",
+      "transliteration": "எலுமிச்சை சாறு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "or 1 tsp tamarind paste"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "¼ to ¾",
+      "unit": "cup",
+      "notes": "for grinding"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "½",
+      "unit": "tbsp",
+      "notes": "optional tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": "optional tempering"
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": "optional tempering"
+    },
+    {
+      "name": "Dried red chilli",
+      "tamil_name": "வற்றல் மிளகாய்",
+      "transliteration": "வற்றல் மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "broken, optional tempering"
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "2",
+      "unit": "small cloves",
+      "notes": "crushed, optional tempering"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "5 to 6",
+      "unit": "leaves",
+      "notes": "optional tempering"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": "optional tempering"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse curry leaves in plenty of water at least thrice. Drain and pat dry with a cloth or kitchen tissues.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Heat ½ tbsp oil in a pan. Add chana dal, urad dal and cumin seeds. Fry on medium heat until light golden.",
+      "tip": "Chana dal is preferred for its texture and aroma, but you can replace it with roasted gram or roasted peanuts.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add green chillies and garlic (or ginger). Fry until chillies blister. Remove to a plate to cool.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "To the same pan, add another ½ tbsp oil and add curry leaves. Fry on medium heat until crisp but not burnt.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add coconut and stir fry for 1 to 2 minutes until hot. Turn off and cool completely.",
+      "tip": "Fresh coconut helps retain the bright green colour. Using red chillies will alter the colour.",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add roasted lentils, cumin, chillies, garlic, salt and lemon juice to a grinder.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add curry leaves and coconut. Pour ¼ cup water and begin to blend.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add more water up to ¾ cup total, depending on desired consistency. Blend to a smooth texture.",
+      "tip": "Without dal or peanuts, the chutney can have a coarse texture from curry leaf fibres.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Taste test and adjust salt and lemon juice. Transfer to a bowl.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Optional tempering: Heat ½ tbsp oil. Add mustard, urad dal, dried red chilli, garlic and curry leaves. When crisp, add hing and pour over chutney.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Serve with idli, dosa, uttapam, pongal, upma, pakora, parathas or chapati.",
+      "tip": "This chutney stays good in the refrigerator for 3 to 4 days.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Chana dal is preferred for its texture and aroma, but you can replace it with roasted gram or roasted peanuts.",
+    "Without dal or peanuts, the chutney can have a coarse texture from curry leaf fibres.",
+    "Fresh coconut helps retain the bright green colour. Using red chillies will alter the colour.",
+    "Coconut can be replaced with the same amount of shallots or sliced onions — fry onions separately until golden.",
+    "You can dry curry leaves in shade for a few days until crisp, crush to powder and store for later use.",
+    "This chutney stays good in the refrigerator for 3 to 4 days."
+  ],
+  "variations": [
+    "Curry Leaves Coconut Chutney",
+    "Curry Leaves Peanut Chutney",
+    "Karuveppilai Thuvaiyal (thick version for rice)",
+    "Curry Leaves Powder (Karvepaku Podi)"
+  ],
+  "commonly_served_with": [
+    "Idli",
+    "Dosa",
+    "Uttapam",
+    "Pongal",
+    "Upma",
+    "Rava Idli",
+    "Pakora",
+    "Parathas",
+    "Chapati",
+    "Sandwiches",
+    "Rice"
+  ],
+  "tags": [
+    "curry leaves chutney",
+    "karuveppilai chutney",
+    "kadi patta chutney",
+    "karvepaku pachadi",
+    "south indian chutney",
+    "idli chutney",
+    "dosa chutney",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "breakfast side dish",
+    "healthy chutney"
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "name": "Jangiri",
+  "tamil_name": "ஜாங்கிரி",
+  "transliteration": "Jangiri",
+  "category": "sweets",
+  "sub_category": "jangiri",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "hard",
+  "prep_time": 15,
+  "cook_time": 30,
+  "total_time": 45,
+  "servings": 20,
+  "ingredients": [
+    {
+      "name": "Whole urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "உளுந்து பருப்பு",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "for batter"
+    },
+    {
+      "name": "Idli rice",
+      "tamil_name": "இட்லி அரிசி",
+      "transliteration": "இட்லி அரிசி",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "optional, for crispness, for batter"
+    },
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "or cornstarch, if needed, for batter"
+    },
+    {
+      "name": "Orange food colour",
+      "tamil_name": "ஆரஞ்சு உணவு வண்ணம்",
+      "transliteration": "ஆரஞ்சு உணவு வண்ணம்",
+      "quantity": "⅛",
+      "unit": "tsp",
+      "notes": "for batter"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": "for batter"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "very little, for grinding, for batter"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "",
+      "unit": "",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "Sugar",
+      "tamil_name": "சர்க்கரை",
+      "transliteration": "சர்க்கரை",
+      "quantity": "3",
+      "unit": "cups",
+      "notes": "for sugar syrup"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "for sugar syrup"
+    },
+    {
+      "name": "Cardamom powder",
+      "tamil_name": "ஏலக்காய் பொடி",
+      "transliteration": "ஏலக்காய் பொடி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "for sugar syrup"
+    },
+    {
+      "name": "Lemon juice",
+      "tamil_name": "எலுமிச்சை சாறு",
+      "transliteration": "எலுமிச்சை சாறு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "for sugar syrup"
+    },
+    {
+      "name": "Orange food colour",
+      "tamil_name": "ஆரஞ்சு உணவு வண்ணம்",
+      "transliteration": "ஆரஞ்சு உணவு வண்ணம்",
+      "quantity": "⅛",
+      "unit": "tsp",
+      "notes": "for sugar syrup"
+    },
+    {
+      "name": "Rose essence",
+      "tamil_name": "ரோஜா மணம்",
+      "transliteration": "ரோஜா மணம்",
+      "quantity": "few",
+      "unit": "drops",
+      "notes": "optional, for sugar syrup"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse urad dal (and idli rice if using) twice. Soak in water for 1 to 2 hours.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Drain thoroughly and let sit for 5 minutes to remove excess water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Transfer to a blender or wet grinder. Sprinkle very little water at a time and grind to a thick, smooth paste like medu vada batter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "The batter should be very smooth and light. To test consistency, drop a spoonful in water — it should float.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Transfer to a bowl. Whip the batter with your hand or a wooden spoon in one direction for at least 10 minutes to aerate it.",
+      "tip": "",
+      "duration_mins": 10
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add orange food colour and salt. Mix well. If batter is too thin, add 1 tbsp rice flour.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "For sugar syrup, take 3 cups sugar and 1 cup water in a wide pan. Bring to a boil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Cook until half-string consistency — when stretched between fingers, it forms a string but won't stand stiff. Switch off.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add cardamom, lemon juice, food colour and rose essence. Keep syrup warm.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Fill a piping bag or zip-lock cover with the batter. Cut a small hole at the tip.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Heat oil in a flat-bottomed pan. The oil should be hot but not smoking.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Pipe the batter in circular, flower-like patterns directly into the oil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Fry until both sides are slightly crisp but colour has not darkened too much. Flip carefully.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "Drain and immediately add to the warm sugar syrup. Soak for 3 to 5 minutes per batch.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 15,
+      "instruction": "Remove from syrup and arrange on a plate. Pour remaining syrup over all jangiris.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 16,
+      "instruction": "Serve at room temperature.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The batter consistency is crucial — too thin and jangiris won't hold shape; too thick and they won't be soft inside.",
+    "Whipping the batter for 10 minutes aerates it, making the jangiri crispy outside and juicy inside.",
+    "Use a flat-bottomed pan for frying so the jangiris have space to spread.",
+    "Oil temperature is very important — too hot and they will brown quickly without cooking inside; too cool and they will absorb oil.",
+    "Sugar syrup should be warm, not hot, when soaking the jangiris.",
+    "Lemon juice prevents the syrup from crystallizing.",
+    "Use a skewer or wooden chopstick to flip the jangiris gently.",
+    "Jangiris stay soft and juicy for many hours when soaked properly."
+  ],
+  "variations": [
+    "Mini Jangiri",
+    "Jangiri with Saffron Syrup",
+    "Jangiri with Jaggery Syrup",
+    "Instant Jangiri"
+  ],
+  "commonly_served_with": [
+    "Festival Sweet Platter",
+    "Wedding Sweets",
+    "Tea",
+    "Coffee",
+    "Diwali Gift Boxes"
+  ],
+  "tags": [
+    "jangiri",
+    "jhangri",
+    "south indian sweet",
+    "diwali sweet",
+    "festival sweet",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "urad dal sweet",
+    "juicy sweet",
+    "traditional sweet"
+  ]
+}
