@@ -1,0 +1,162 @@
+{
+  "name": "Paal Sarbath",
+  "tamil_name": "பால் சர்பத்",
+  "transliteration": "Paal Sarbath",
+  "category": "drinks",
+  "sub_category": "sarbath",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 10,
+  "total_time": 20,
+  "servings": 2,
+  "description": "Paal Sarbath is a popular South Indian summer drink made with milk, nannari syrup, sabja seeds and badam pisin (almond gum). It is a simpler, lighter cousin of the famous Madurai Jigarthanda, with natural coolant ingredients that cool the body from within. Creamy, refreshing and mildly sweet, it is perfect for hot afternoons and is enjoyed across Tamil Nadu and Kerala.",
+  "ingredients": [
+    {
+      "name": "Milk",
+      "tamil_name": "பால்",
+      "transliteration": "பால்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "boiled, cooled and chilled"
+    },
+    {
+      "name": "Nannari syrup",
+      "tamil_name": "நன்னாரி சர்பத்",
+      "transliteration": "நன்னாரி சர்பத்",
+      "quantity": "4",
+      "unit": "tbsp",
+      "notes": "or more as needed"
+    },
+    {
+      "name": "Badam pisin (Almond gum)",
+      "tamil_name": "பாதாம் பிசின்",
+      "transliteration": "பாதாம் பிசின்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Sabja seeds (Basil seeds)",
+      "tamil_name": "சப்ஜா விதை",
+      "transliteration": "சப்ஜா விதை",
+      "quantity": "2",
+      "unit": "tsp",
+      "notes": "soaked for 10 minutes"
+    },
+    {
+      "name": "Crushed ice",
+      "tamil_name": "பனிக்கட்டி",
+      "transliteration": "பனிக்கட்டி",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed"
+    },
+    {
+      "name": "Cream / Malai",
+      "tamil_name": "க்ரீம் / பால் அடை",
+      "transliteration": "க்ரீம் / பால் அடை",
+      "quantity": "",
+      "unit": "",
+      "notes": "optional, for topping"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Soak badam pisin in water overnight. In the morning, discard any impurities and refrigerate until use.",
+      "tip": "Badam pisin must be soaked overnight to bloom properly into a jelly-like mass.",
+      "duration_mins": 600
+    },
+    {
+      "step_no": 2,
+      "instruction": "Soak sabja seeds in water for 10 to 15 minutes. They will swell and become gelatinous.",
+      "tip": "Sabja seeds swell quickly — just 10 to 15 minutes of soaking is enough.",
+      "duration_mins": 15
+    },
+    {
+      "step_no": 3,
+      "instruction": "Boil milk, cool completely and refrigerate until chilled.",
+      "tip": "Use boiled, chilled milk for the best taste and freshness.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "In a serving glass, add crushed ice until ¼th full.",
+      "tip": "When using ice, consume immediately — otherwise it will thin out the milk.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Top with 2 tbsp soaked badam pisin.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add 2 tbsp soaked sabja seeds.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Pour 2 to 3 tbsp nannari syrup (adjust to your sweet preference).",
+      "tip": "Adjust nannari syrup quantity based on your sweetness preference.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Top with chilled milk and mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "To make it richer, top with malai (paal adai) or cream.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Serve immediately and enjoy.",
+      "tip": "Paal Sarbath is best consumed fresh — do not let it sit after mixing.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use boiled, chilled milk for the best taste and freshness.",
+    "When using ice, consume immediately — otherwise it will thin out the milk.",
+    "Badam pisin must be soaked overnight to bloom properly into a jelly-like mass.",
+    "Sabja seeds swell quickly — just 10 to 15 minutes of soaking is enough.",
+    "Adjust nannari syrup quantity based on your sweetness preference.",
+    "You can prepare the ingredients (milk, badam pisin, sabja seeds) separately and refrigerate them.",
+    "For a vegan version, use coconut milk or almond milk instead of dairy milk.",
+    "Paal Sarbath is best consumed fresh — do not let it sit after mixing."
+  ],
+  "variations": [
+    "Paal Sarbath with Rose Syrup",
+    "Paal Sarbath with Jigarthanda Ice Cream",
+    "Elaneer Paal Sarbath (with tender coconut water)"
+  ],
+  "commonly_served_with": [
+    "Summer Afternoon Drink",
+    "Evening Refreshment",
+    "Street-side Treat",
+    "Festival Cooler"
+  ],
+  "tags": [
+    "paal sarbath",
+    "milk sarbath",
+    "south indian drink",
+    "summer cooler",
+    "vegetarian",
+    "gluten-free",
+    "cooling drink",
+    "traditional drink",
+    "milk drink",
+    "street drink"
+  ]
+}

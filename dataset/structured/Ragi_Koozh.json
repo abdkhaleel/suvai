@@ -1,0 +1,213 @@
+{
+  "name": "Ragi Koozh",
+  "tamil_name": "கேழ்வரகு கூழ்",
+  "transliteration": "Kezhvaragu Koozh",
+  "category": "drinks",
+  "sub_category": "koozh",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 15,
+  "cook_time": 15,
+  "total_time": 30,
+  "servings": 2,
+  "description": "Ragi Koozh, also known as Kezhvaragu Koozh or Aadi Koozh, is a traditional South Indian fermented millet drink made with finger millet (ragi), raw rice and buttermilk. It is a healthy cooling food prepared especially during the Tamil month of Aadi. The fermentation process develops natural probiotics and a pleasant sour flavour. Nutritious, filling and refreshing, it is an excellent breakfast or summer meal that aids digestion and provides sustained energy.",
+  "ingredients": [
+    {
+      "name": "Ragi flour (Finger millet flour)",
+      "tamil_name": "கேழ்வரகு மாவு",
+      "transliteration": "கேழ்வரகு மாவு",
+      "quantity": "¼",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Raw rice",
+      "tamil_name": "அரிசி",
+      "transliteration": "அரிசி",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1½ cups + ½ cup",
+      "unit": "",
+      "notes": "for cooking and dissolving ragi"
+    },
+    {
+      "name": "Buttermilk",
+      "tamil_name": "மோர்",
+      "transliteration": "மோர்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Small onions (Shallots)",
+      "tamil_name": "சின்ன வெங்காயம்",
+      "transliteration": "சின்ன வெங்காயம்",
+      "quantity": "",
+      "unit": "",
+      "notes": "finely chopped, for garnish"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Raw mango",
+      "tamil_name": "மாங்காய்",
+      "transliteration": "மாங்காய்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": "chopped, optional, for garnish"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "grated, optional, for garnish"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Pulse 2 tbsp raw rice in a blender until it reaches a coarse, rava-like texture. Do not grind into fine powder.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "In a bowl, mix ¼ cup ragi flour with ½ cup water. Whisk thoroughly until smooth and completely lump-free.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Bring 1½ cups water to a rolling boil in a heavy-bottomed pot.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add the coarsely ground rice and cook on medium heat for 10 minutes until soft.",
+      "tip": "",
+      "duration_mins": 10
+    },
+    {
+      "step_no": 5,
+      "instruction": "Lower the flame and slowly pour the ragi slurry into the pot while stirring continuously.",
+      "tip": "Cook on medium flame and keep stirring to avoid getting burnt at the bottom.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Cook on low-medium heat for 15 minutes, stirring constantly. The mixture will thicken and turn glossy.",
+      "tip": "",
+      "duration_mins": 15
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add a pinch of salt and mix well.",
+      "tip": "Adding salt after cooking helps better fermentation.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Cover the pot and allow the mixture to ferment at room temperature for 8 hours (preferably overnight).",
+      "tip": "",
+      "duration_mins": 480
+    },
+    {
+      "step_no": 9,
+      "instruction": "After fermentation, the mixture becomes slightly sour, airy and thick.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Take the required portion of fermented ragi base. Add ½ cup buttermilk and mix well until smooth and drinkable.",
+      "tip": "Fermented ragi koozh thickens significantly — always dilute with buttermilk just before serving.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Garnish with chopped shallots, green chilli, coriander leaves, raw mango and grated ginger.",
+      "tip": "You can add chopped items while cooking itself, or at the end for crunch.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Serve chilled or at room temperature.",
+      "tip": "Ragi Koozh is best consumed fresh on the day of fermentation.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Fermented ragi koozh thickens significantly — always dilute with buttermilk just before serving.",
+    "Adding salt after cooking helps better fermentation.",
+    "For babies, skip fermentation and garnishes. Serve fresh, warm ragi porridge instead.",
+    "Use freshly prepared homemade ragi powder for better texture and flavour.",
+    "Cook on medium flame and keep stirring to avoid getting burnt at the bottom.",
+    "The consistency should be semi-solid or medium liquid — adjust buttermilk accordingly.",
+    "You can add chopped items while cooking itself, or at the end for crunch.",
+    "Ragi Koozh is best consumed fresh on the day of fermentation."
+  ],
+  "variations": [
+    "Sweet Ragi Koozh (with jaggery)",
+    "Ragi Kanji (thin porridge)",
+    "Instant Aadi Koozh (without fermentation)",
+    "Ragi Koozh with Pickle"
+  ],
+  "commonly_served_with": [
+    "Uppu Mangai (Raw Mango Pickle)",
+    "Tangy Kuzhambu",
+    "South Indian Breakfast",
+    "Aadi Festival Meal"
+  ],
+  "tags": [
+    "ragi koozh",
+    "kezhvaragu koozh",
+    "aadi koozh",
+    "finger millet porridge",
+    "south indian drink",
+    "summer cooler",
+    "fermented drink",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "probiotic drink",
+    "healthy drink",
+    "traditional drink",
+    "millet drink",
+    "weight loss drink"
+  ]
+}

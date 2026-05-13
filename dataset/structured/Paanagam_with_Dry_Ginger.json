@@ -1,0 +1,194 @@
+{
+  "name": "Paanagam with Dry Ginger",
+  "tamil_name": "சுக்கு பானகம்",
+  "transliteration": "Sukku Paanagam",
+  "category": "drinks",
+  "sub_category": "panakam",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 0,
+  "total_time": 5,
+  "servings": 2,
+  "description": "Paanagam with Dry Ginger is a spiced variation of the traditional South Indian jaggery drink, specially prepared during Sri Rama Navami and other summer festivals. The addition of dry ginger powder (sukku) gives it a warm, digestive kick that balances the cooling properties of jaggery and lemon. It is aromatic, refreshing and deeply rooted in South Indian temple tradition as a sacred prasadam.",
+  "ingredients": [
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "powdered"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2½",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Dry ginger powder (Sukku)",
+      "tamil_name": "சுக்கு பொடி",
+      "transliteration": "சுக்கு பொடி",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "tamil_name": "ஏலக்காய்",
+      "transliteration": "ஏலக்காய்",
+      "quantity": "2",
+      "unit": "",
+      "notes": "powdered"
+    },
+    {
+      "name": "Black peppercorns",
+      "tamil_name": "மிளகு",
+      "transliteration": "மிளகு",
+      "quantity": "10",
+      "unit": "",
+      "notes": "crushed coarsely"
+    },
+    {
+      "name": "Lemon juice",
+      "tamil_name": "எலுமிச்சை சாறு",
+      "transliteration": "எலுமிச்சை சாறு",
+      "quantity": "½",
+      "unit": "lemon",
+      "notes": ""
+    },
+    {
+      "name": "Edible camphor (Pachai karpooram)",
+      "tamil_name": "பச்சை கற்பூரம்",
+      "transliteration": "பச்சை கற்பூரம்",
+      "quantity": "1 tiny",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Tulsi (Holy basil leaves)",
+      "tamil_name": "துளசி இலை",
+      "transliteration": "துளசி இலை",
+      "quantity": "few",
+      "unit": "",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Using a hand mortar and pestle, crush 10 peppercorns and 2 cardamom pods to a coarse mixture. Set aside.",
+      "tip": "Freshly crushed pepper and cardamom give more flavour than pre-ground powders.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "In a mixing bowl, add 2½ cups water and ½ cup powdered jaggery.",
+      "tip": "Use powdered jaggery for quick dissolving. If using block jaggery, grate it first.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Mix well until the jaggery dissolves completely.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add the crushed pepper and cardamom mixture.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add ¼ tsp dry ginger powder, a tiny pinch of edible camphor and a pinch of salt.",
+      "tip": "Do not add more edible camphor than a tiny pinch — it can overpower the drink.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add lemon juice from ½ lemon.",
+      "tip": "Adjust lemon juice according to your taste.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add a few tulsi leaves if desired.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix everything well. Let it rest for at least a few minutes for the flavours to blend.",
+      "tip": "Let the paanagam rest for a few minutes before straining — this allows all spices to infuse.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Strain the paanagam before serving.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Serve chilled or at room temperature.",
+      "tip": "Paanagam keeps well in room temperature for 1 day and in the fridge for 2 days.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use powdered jaggery for quick dissolving. If using block jaggery, grate it first.",
+    "Freshly crushed pepper and cardamom give more flavour than pre-ground powders.",
+    "Let the paanagam rest for a few minutes before straining — this allows all spices to infuse.",
+    "Adjust lemon juice according to your taste.",
+    "Use paagu vellam (soft, dark reddish-orange jaggery) for a beautiful golden-brown colour.",
+    "Do not add more edible camphor than a tiny pinch — it can overpower the drink.",
+    "Paanagam keeps well in room temperature for 1 day and in the fridge for 2 days.",
+    "The dry ginger adds warmth, making this version especially good during slightly cooler days too."
+  ],
+  "variations": [
+    "Paanagam with Tamarind",
+    "Paanagam with Palm Jaggery",
+    "Temple Style Paanagam",
+    "Pepper Paanagam"
+  ],
+  "commonly_served_with": [
+    "Sri Rama Navami Prasad",
+    "Kosambari",
+    "Vada Pappu",
+    "Neer Mor",
+    "Temple Festivals",
+    "Summer Lunch"
+  ],
+  "tags": [
+    "paanagam",
+    "sukku paanagam",
+    "dry ginger panakam",
+    "south indian drink",
+    "rama navami",
+    "temple prasad",
+    "summer cooler",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "jaggery drink",
+    "traditional drink",
+    "spiced drink",
+    "digestive drink"
+  ]
+}

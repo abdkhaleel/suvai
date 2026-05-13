@@ -1,0 +1,200 @@
+{
+  "name": "Panakam",
+  "tamil_name": "பானகம்",
+  "transliteration": "Panakam",
+  "category": "drinks",
+  "sub_category": "panakam",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 0,
+  "total_time": 35,
+  "servings": 2,
+  "description": "Panakam, also known as Panagam in Tamil, is a traditional South Indian jaggery-based cooling drink synonymous with the religious festival of Sri Rama Navami. Made by dissolving jaggery in water and flavouring it with lemon juice, dry ginger powder, cardamom and a hint of black pepper, this sacred offering is distributed as prasadam in temples across South India. It is a natural body coolant, aids digestion and makes a refreshing summer beverage when served chilled.",
+  "ingredients": [
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "chopped or powdered"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": "or as required"
+    },
+    {
+      "name": "Lemon juice",
+      "tamil_name": "எலுமிச்சை சாறு",
+      "transliteration": "எலுமிச்சை சாறு",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": "or juice of 1 medium lemon"
+    },
+    {
+      "name": "Dry ginger powder (Sukku)",
+      "tamil_name": "சுக்கு பொடி",
+      "transliteration": "சுக்கு பொடி",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green cardamom powder",
+      "tamil_name": "பச்சை ஏலக்காய் பொடி",
+      "transliteration": "பச்சை ஏலக்காய் பொடி",
+      "quantity": "⅓ to ½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper powder",
+      "tamil_name": "மிளகு பொடி",
+      "transliteration": "மிளகு பொடி",
+      "quantity": "⅛",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Edible camphor (Pachai karpooram)",
+      "tamil_name": "பச்சை கற்பூரம்",
+      "transliteration": "பச்சை கற்பூரம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": "optional, for deity offerings"
+    },
+    {
+      "name": "Tulsi (Holy basil leaves)",
+      "tamil_name": "துளசி இலை",
+      "transliteration": "துளசி இலை",
+      "quantity": "4 to 5",
+      "unit": "leaves",
+      "notes": "optional, for deity offerings"
+    },
+    {
+      "name": "Ice cubes",
+      "tamil_name": "பனிக்கட்டி",
+      "transliteration": "பனிக்கட்டி",
+      "quantity": "3 to 4",
+      "unit": "",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "In a bowl, take chopped jaggery and 2 cups water.",
+      "tip": "Use good quality or organic powdered jaggery for quick dissolving.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Mix very well and let the jaggery soak for 30 to 40 minutes until completely dissolved.",
+      "tip": "Hot or warm water helps jaggery dissolve faster.",
+      "duration_mins": 40
+    },
+    {
+      "step_no": 3,
+      "instruction": "If there are impurities in the jaggery syrup, filter the solution using a fine strainer.",
+      "tip": "Always strain jaggery water to remove impurities.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add lemon juice to the dissolved jaggery water.",
+      "tip": "Avoid crushing lemon seeds — they can give a bitter taste.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add dry ginger powder, green cardamom powder, black pepper powder and a pinch of salt.",
+      "tip": "A pinch of salt gives balance to the drink instead of being flat sweet.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add a pinch of edible camphor if offering to deities.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Mix everything very well until completely dissolved.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "If offering to deities, add a few holy basil leaves (tulsi) for divine flavour.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "For serving family and friends, refrigerate for a few hours or add ice cubes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Strain before serving if desired. Serve chilled.",
+      "tip": "Panakam can be stored in the fridge for up to a week.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use good quality or organic powdered jaggery for quick dissolving.",
+    "Hot or warm water helps jaggery dissolve faster.",
+    "Always strain jaggery water to remove impurities.",
+    "A pinch of salt gives balance to the drink instead of being flat sweet.",
+    "Avoid crushing lemon seeds — they can give a bitter taste.",
+    "You can swap lemon with 1 tsp tamarind (soaked in hot water for 20 minutes) for a different variation.",
+    "Panakam can be stored in the fridge for up to a week.",
+    "The colour of panakam depends on the jaggery quality — paagu vellam gives a beautiful golden hue."
+  ],
+  "variations": [
+    "Tamarind Panakam",
+    "Palm Jaggery Panakam",
+    "Pepper Panakam",
+    "Temple Style Panakam with Tulsi"
+  ],
+  "commonly_served_with": [
+    "Sri Rama Navami Prasad",
+    "Kosambari",
+    "Vada Pappu",
+    "Neer Mor",
+    "Temple Festivals"
+  ],
+  "tags": [
+    "panakam",
+    "panagam",
+    "panaka",
+    "south indian drink",
+    "rama navami",
+    "temple prasad",
+    "summer cooler",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "jaggery drink",
+    "traditional drink",
+    "body coolant"
+  ]
+}

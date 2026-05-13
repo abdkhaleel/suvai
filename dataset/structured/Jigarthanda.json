@@ -1,0 +1,240 @@
+{
+  "name": "Jigarthanda",
+  "tamil_name": "ஜிகர்தண்டா",
+  "transliteration": "Jigarthanda",
+  "category": "drinks",
+  "sub_category": "jigarthanda",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "hard",
+  "prep_time": 10,
+  "cook_time": 60,
+  "total_time": 70,
+  "servings": 6,
+  "description": "Jigarthanda is a famous South Indian cooling drink that originated in Madurai, Tamil Nadu. The name literally means \"cool heart\" (Jigar = heart, Thanda = cool) and it is renowned for its refreshing taste and body-cooling benefits. Traditionally made with reduced milk (khoya), badam pisin (almond gum), nannari syrup and a special khoya ice cream, this rich, layered beverage is a summer favourite. The iconic pinkish ice cream and jelly-like texture make it a unique treat.",
+  "ingredients": [
+    {
+      "name": "Full fat milk",
+      "tamil_name": "முழு பால்",
+      "transliteration": "முழு பால்",
+      "quantity": "2",
+      "unit": "litres",
+      "notes": "for khoya"
+    },
+    {
+      "name": "Sugar",
+      "tamil_name": "சர்க்கரை",
+      "transliteration": "சர்க்கரை",
+      "quantity": "½ cup + 3 tbsp + 2 tbsp",
+      "unit": "",
+      "notes": "divided for khoya, caramel and ice cream"
+    },
+    {
+      "name": "Cream",
+      "tamil_name": "க்ரீம்",
+      "transliteration": "க்ரீம்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "tamil_name": "வெண்ணிலா பாகு",
+      "transliteration": "வெண்ணிலா பாகு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Badam pisin (Almond gum)",
+      "tamil_name": "பாதாம் பிசின்",
+      "transliteration": "பாதாம் பிசின்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1 cup + 2 cups",
+      "unit": "",
+      "notes": "for blooming badam pisin and serving"
+    },
+    {
+      "name": "Nannari syrup",
+      "tamil_name": "நன்னாரி சர்பத்",
+      "transliteration": "நன்னாரி சர்பத்",
+      "quantity": "4",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Regular chilled milk",
+      "tamil_name": "குளிர்ந்த பால்",
+      "transliteration": "குளிர்ந்த பால்",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Crushed ice",
+      "tamil_name": "பனிக்கட்டி",
+      "transliteration": "பனிக்கட்டி",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed"
+    },
+    {
+      "name": "Condensed milk",
+      "tamil_name": "கண்டென்ஸ்டு மில்க்",
+      "transliteration": "கண்டென்ஸ்டு மில்க்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "for quick method"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Soak badam pisin in 1 cup water overnight or for at least 8 hours. It will bloom into a jelly-like mass. Refrigerate until use.",
+      "tip": "Soak badam pisin for at least 1 hour, or overnight for best results.",
+      "duration_mins": 480
+    },
+    {
+      "step_no": 2,
+      "instruction": "Take 2 litres milk in a large pot. Add ½ cup sugar and bring to a full boil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Cook for 20 minutes until reduced by half. Leave about 1½ cups milk in the pot and remove the rest into a bowl. Set aside.",
+      "tip": "",
+      "duration_mins": 20
+    },
+    {
+      "step_no": 4,
+      "instruction": "Continue boiling the milk in the pot until it thickens into a khoya-like texture. Add 2 more tbsp sugar to help khoya form faster.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "In a separate pan, heat 3 tbsp sugar. Swirl the pan (do not stir) until it melts and turns dark caramel colour.",
+      "tip": "Swirl the pan for caramel — never stir or it will crystallize.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Pour the reserved milk into the khoya. Add the caramel and mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Remove ⅓ of this mixture into a separate bowl. This is your reduced milk for serving. Refrigerate until needed.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "To the remaining reduced milk, add ½ cup cream and 1 tsp vanilla. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Pour into a freezer-safe container and freeze for 6 hours.",
+      "tip": "The ice cream can be made a week in advance and stored in the freezer.",
+      "duration_mins": 360
+    },
+    {
+      "step_no": 10,
+      "instruction": "Once frozen, scoop into a blender and blend for 2 to 3 minutes until creamy.",
+      "tip": "",
+      "duration_mins": 3
+    },
+    {
+      "step_no": 11,
+      "instruction": "Pour back into the container and freeze again until solid. Repeat once more for extra creamy ice cream.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "In a tall glass, add 2 to 3 tbsp soaked badam pisin.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Add 2 tsp nannari syrup.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "Pour ¼ cup reduced milk.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 15,
+      "instruction": "Top with ½ cup regular chilled milk.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 16,
+      "instruction": "Add a scoop of khoya ice cream.",
+      "tip": "Some restaurants use vanilla ice cream for convenience, but khoya ice cream gives the authentic taste.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 17,
+      "instruction": "Drizzle more nannari syrup on top. Add crushed ice if desired.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 18,
+      "instruction": "Mix well and serve immediately.",
+      "tip": "Consume immediately after mixing — do not let it sit.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "The ice cream can be made a week in advance and stored in the freezer.",
+    "Soak badam pisin for at least 1 hour, or overnight for best results.",
+    "You can use store-bought nannari syrup to save time.",
+    "Swirl the pan for caramel — never stir or it will crystallize.",
+    "The pinkish colour of the ice cream comes from the caramel added to the milk.",
+    "Some restaurants use vanilla ice cream for convenience, but khoya ice cream gives the authentic taste.",
+    "Consume immediately after mixing — do not let it sit."
+  ],
+  "variations": [
+    "Quick Jigarthanda (with condensed milk)",
+    "Jigarthanda with Rose Syrup",
+    "Dry Fruit Jigarthanda"
+  ],
+  "commonly_served_with": [
+    "Summer Evening Snack",
+    "Madurai Street Food",
+    "Festival Treats"
+  ],
+  "tags": [
+    "jigarthanda",
+    "jil jil jigarthanda",
+    "madurai special",
+    "south indian drink",
+    "summer cooler",
+    "vegetarian",
+    "gluten-free",
+    "cooling drink",
+    "street drink",
+    "layered drink"
+  ]
+}

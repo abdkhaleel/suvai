@@ -1,0 +1,210 @@
+{
+  "name": "Neer Mor",
+  "tamil_name": "நீர் மோர்",
+  "transliteration": "Neer Mor",
+  "category": "drinks",
+  "sub_category": "buttermilk",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 5,
+  "total_time": 15,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Thick curd (Yogurt)",
+      "tamil_name": "தயிர்",
+      "transliteration": "தயிர்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "fresh, not sour"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2½ to 4",
+      "unit": "cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "tiny pinch",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": "for tempering"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "To a mixing bowl, add 1 cup fresh thick curd.",
+      "tip": "Use fresh thick curd that is not sour for the best taste.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add 2½ cups chilled water. Whisk vigorously using a hand churner or whisk until nice and frothy. You can also use a mixie with churner attachment.",
+      "tip": "Neer Mor is meant to be watery — adjust water quantity as per your liking.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add cumin seeds (you can crush them for more flavour), finely chopped green chilli, ginger, coriander leaves and salt.",
+      "tip": "You can add raw cumin seeds or use them for tempering along with other ingredients.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Mix everything well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "For tempering, heat ½ tsp oil in a small pan. Add mustard seeds and let them splutter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add curry leaves and asafoetida. Fry for a few seconds until leaves are crisp.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Pour the tempering into the buttermilk and mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Serve chilled or at room temperature. You can strain before serving if preferred.",
+      "tip": "Neer Mor is best consumed fresh, but can be refrigerated for up to 2 days.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use fresh thick curd that is not sour for the best taste.",
+    "Neer Mor is meant to be watery — adjust water quantity as per your liking.",
+    "You can add raw curry leaves instead of tempering them.",
+    "Blend all ingredients along with curd and water in a blender, rest for a few minutes, then strain and serve.",
+    "You can add raw cumin seeds or use them for tempering along with other ingredients.",
+    "Neer Mor is best consumed fresh, but can be refrigerated for up to 2 days.",
+    "For a creamier version, use less water (2 cups instead of 4)."
+  ],
+  "variations": [
+    "Sambharam (Kerala style)",
+    "Chaas (North Indian style)",
+    "Masala Buttermilk",
+    "Spiced Buttermilk with Mint"
+  ],
+  "commonly_served_with": [
+    "Sri Rama Navami Prasad",
+    "South Indian Meals",
+    "Summer Lunch",
+    "Mid-morning Snack",
+    "Kosambari",
+    "Panakam"
+  ],
+  "tags": [
+    "neer mor",
+    "neer moru",
+    "spiced buttermilk",
+    "sambharam",
+    "chaas",
+    "south indian drink",
+    "rama navami",
+    "temple prasad",
+    "summer cooler",
+    "vegetarian",
+    "gluten-free",
+    "probiotic drink",
+    "digestive drink"
+  ]
+}

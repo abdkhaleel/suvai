@@ -5,7 +5,7 @@
 [![Gemma](https://img.shields.io/badge/Powered%20by-Gemma%204%2031B--IT-blue?style=flat-square&logo=google)](https://ai.google.dev/gemma)
 [![Track](https://img.shields.io/badge/Track-Digital%20Equity%20%26%20Inclusivity-purple?style=flat-square)](https://www.kaggle.com/competitions/gemma-4-good-hackathon)
 
-> **SuvAI** is a Tamil cuisine AI chef built for the **Gemma 4 Good Hackathon**. It combines **Gemma 4 31B-IT** with a custom RAG pipeline over 100+ authentic Tamil recipes to guide anyone — from beginners to home cooks — through the art of Tamil cooking in their own language and context.
+> **SuvAI** is a Tamil cuisine AI chef built for the **Gemma 4 Good Hackathon**. It combines **Gemma 4 31B-IT** with a custom RAG pipeline over 80+ authentic Tamil recipes to guide anyone — from beginners to home cooks — through the art of Tamil cooking in their own language and context.
 
 ---
 
@@ -17,7 +17,7 @@ Tamil culinary knowledge is scattered across blogs, YouTube videos, and family n
 
 SuvAI is a specialized, retrieval-augmented cooking assistant that acts as a warm Tamil chef named **Suvai**.
 
-- **Mode 1 — Choose a Dish:** Search or browse 100+ Tamil recipes across 8 categories (breakfast, rice varieties, kuzhambu, kootu, chutneys, snacks, sweets, and festival specials).
+- **Mode 1 — Choose a Dish:** Search or browse 80+ Tamil recipes across 8 categories (breakfast, rice varieties, kuzhambu, kootu, chutneys, snacks, sweets, and drinks).
 - **Mode 2 — Cook With What You Have:** Enter ingredients in English or Tamil (e.g., *kathirikkai*, *kothamalli*). SuvAI resolves synonyms, searches the vector database, and suggests what you can actually cook today.
 
 Both modes lead to a conversational chat where **Gemma 4 31B-IT** guides you step-by-step, explains the science behind each step, suggests substitutions, and gently redirects off-topic questions back to cooking.
@@ -34,25 +34,19 @@ Try it: search for *"Masala Dosa"* or enter *"kathirikkai, kothamalli"* in ingre
 
 ## Screenshots
 
-<!-- 
-  INSTRUCTIONS FOR ADDING SCREENSHOTS:
-  See the "Adding Screenshots" section at the bottom of this README.
-  Replace the placeholder lines below with your actual image references.
--->
-
 ### Home Page
-![Home Page pic 1](images/screenshots/home1.png)
-![Home Page pic 2](images/screenshots/home2.png)
+![Home Page](images/screenshots/home1.png)
+![Home Page](images/screenshots/home2.png)
 
 ### Mode 1 — Choose a Dish
-![Choose Dish pic](images/screenshots/choose-dish.png)
+![Choose Dish](images/screenshots/choose-dish.png)
 
 ### Mode 2 — Cook With What You Have
-![Cook With Ingredients pic 1](images/screenshots/cook-ingredients1.png)
-![Cook With Ingredients pic 2](images/screenshots/cook-ingredients2.png)
+![Cook With Ingredients](images/screenshots/cook-ingredients1.png)
+![Cook With Ingredients](images/screenshots/cook-ingredients2.png)
 
 ### Chat with Suvai
-![Chef Chat pic](images/screenshots/chat.png)
+![Chef Chat](images/screenshots/chat.png)
 
 ---
 
@@ -75,13 +69,13 @@ Try it: search for *"Masala Dosa"* or enter *"kathirikkai, kothamalli"* in ingre
 
 | Layer | Technology |
 |-------|------------|
-| **Frontend** | Next.js 15, React, Tailwind CSS, Playfair Display + DM Sans |
+| **Frontend** | Next.js 16, React, Tailwind CSS, Playfair Display + DM Sans |
 | **AI Model** | Gemma 4 31B-IT via `@google/genai` SDK (`generateContentStream`) |
 | **Embeddings** | `gemini-embedding-001` (3072 dimensions) |
 | **Vector Database** | Supabase PostgreSQL + pgvector extension |
 | **RAG Pipeline** | Custom cosine-similarity search with query embedding + synonym resolution |
 | **Deployment** | Vercel |
-| **Dataset** | 100+ structured Tamil recipes with ingredients, steps, tips, and variations |
+| **Dataset** | 80+ structured Tamil recipes with ingredients, steps, tips, and variations |
 
 ---
 
@@ -132,18 +126,18 @@ We chose **Gemma 4 31B-IT** because it is an open, frontier-level model that can
 
 ## Dataset
 
-The dataset contains **100+ authentic Tamil recipes** structured as JSON and stored in Supabase.
+The dataset contains **80+ authentic Tamil recipes** structured as JSON and stored in Supabase.
 
 | Category | Count |
 |----------|-------|
-| Breakfast / Tiffin | 20 |
-| Rice Varieties | 15 |
-| Kuzhambu & Curries | 15 |
-| Kootu & Poriyal | 10 |
-| Chutneys | 10 |
-| Snacks | 10 |
-| Sweets | 10 |
-| Special / Festival | 10 |
+| Breakfast / Tiffin | 10+ |
+| Rice Varieties | 10+ |
+| Kuzhambu & Curries | 10+ |
+| Kootu & Poriyal | 10+ |
+| Chutneys | 10+ |
+| Snacks | 10+ |
+| Sweets | 10+ |
+| Drinks | 10+ |
 
 **Supporting tables:**
 - `synonyms`: 50 Tamil ingredient synonyms with standard names, transliterations, and aliases.
@@ -157,7 +151,7 @@ The dataset contains **100+ authentic Tamil recipes** structured as JSON and sto
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 22+
 - A Google AI Studio API key (for Gemma 4 and embeddings)
 - A Supabase project with pgvector enabled
 
@@ -168,8 +162,8 @@ The dataset contains **100+ authentic Tamil recipes** structured as JSON and sto
 git clone https://github.com/abdkhaleel/suvai.git
 cd suvai
 
-# 2. Install frontend dependencies
-cd frontend && npm install
+# 2. Install dependencies
+npm install
 
 # 3. Set up environment variables
 cp .env.example .env.local
@@ -183,7 +177,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ### Environment Variables
 
-Create `.env.local` in the `frontend/` directory:
+Create `.env.local` in the project root:
 
 ```env
 NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
@@ -229,6 +223,7 @@ suvai/
 │   ├── synonyms.json            # 50 Tamil ingredient synonyms
 │   ├── substitutions.json       # 24 ingredient substitutions
 │   └── insert.js                # Inserts recipes + embeddings to Supabase
+├── images/                      # Screenshots and design assets
 └── README.md
 ```
 
@@ -250,7 +245,7 @@ suvai/
 - [x] RAG pipeline with pgvector
 - [x] Tamil synonym resolution
 - [x] Mobile-responsive design
-- [x] 100+ recipe dataset
+- [x] 80+ recipe dataset
 - [ ] Voice input for ingredient mode
 - [ ] Pantry scanner (camera integration)
 - [ ] Weekly meal planner
@@ -260,7 +255,7 @@ suvai/
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/abdkhaleel/suvai/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/abdkhaleel/suvai/blob/master/LICENSE) file for details.
 
 ---
 
@@ -269,5 +264,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](https:/
 Built for the **Gemma 4 Good Hackathon** (May 2026). Submitted under the **Digital Equity & Inclusivity** track for preserving and democratizing Tamil culinary heritage through open, accessible AI.
 
 Powered by [Gemma 4](https://ai.google.dev/gemma), [Next.js](https://nextjs.org), [Supabase](https://supabase.com), and [Vercel](https://vercel.com).
-
----

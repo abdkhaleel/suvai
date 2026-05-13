@@ -1,0 +1,188 @@
+{
+  "name": "Kambu Koozh",
+  "tamil_name": "கம்பு கூழ்",
+  "transliteration": "Kambu Koozh",
+  "category": "drinks",
+  "sub_category": "koozh",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 10,
+  "total_time": 15,
+  "servings": 2,
+  "description": "Kambu Koozh is a traditional South Indian fermented porridge made from kambu (pearl millet), a highly nutritious millet widely grown and consumed in Tamil Nadu. This cool, tangy and refreshing drink is especially popular during summer as it helps beat the heat, keeps the body hydrated and provides sustained energy. The natural fermentation process enhances digestibility and adds probiotic benefits, making it a wholesome breakfast or snack.",
+  "ingredients": [
+    {
+      "name": "Pearl millet flour (Kambu maavu)",
+      "tamil_name": "கம்பு மாவு",
+      "transliteration": "கம்பு மாவு",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "3",
+      "unit": "cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "",
+      "unit": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Buttermilk / Curd",
+      "tamil_name": "மோர் / தயிர்",
+      "transliteration": "மோர் / தயிர்",
+      "quantity": "",
+      "unit": "",
+      "notes": "as needed (for diluting)"
+    },
+    {
+      "name": "Sambar onion (Shallots)",
+      "tamil_name": "சாம்பார் வெங்காயம்",
+      "transliteration": "சாம்பார் வெங்காயம்",
+      "quantity": "2",
+      "unit": "",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "1",
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Uppu mangai (Raw mango pickle)",
+      "tamil_name": "உப்பு மாங்காய்",
+      "transliteration": "உப்பு மாங்காய்",
+      "quantity": "2",
+      "unit": "slices",
+      "notes": "for serving"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat 3 cups water in a pan and let it come to a rolling boil. Add salt.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add kambu flour slowly while stirring continuously to avoid lumps.",
+      "tip": "Stir continuously while cooking to prevent lumps and burning at the bottom.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Cook on medium heat for about 10 minutes until the mixture thickens to a porridge consistency.",
+      "tip": "",
+      "duration_mins": 10
+    },
+    {
+      "step_no": 4,
+      "instruction": "Switch off heat. Wet your hands and shape the cooked mixture into balls of desired size.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Immerse the balls in cold water. Cover and let them ferment at room temperature for 8 to 12 hours (or overnight).",
+      "tip": "Proper fermentation is key — it enhances flavour, digestibility and nutritional benefits.",
+      "duration_mins": 600
+    },
+    {
+      "step_no": 6,
+      "instruction": "After fermentation, the balls will have a characteristic tangy flavour.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Take one ball and place it in a bowl. Add whisked yogurt or buttermilk.",
+      "tip": "Add fresh buttermilk or yogurt after fermentation for a tangier taste.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix well. Dilute with a little fermented water (do not discard — it contains probiotics).",
+      "tip": "The fermented water contains probiotics — consume it and do not throw it away.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add chopped shallots, green chilli and curry leaves. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Adjust consistency by adding more buttermilk or water as needed.",
+      "tip": "Adjust water quantity based on desired thickness — some like it thick, others prefer a more drinkable consistency.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Serve immediately with uppu mangai (raw mango pickle) on the side.",
+      "tip": "Kambu Koozh stays good in the refrigerator for 2 to 3 days.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use fresh pearl millet flour or coarsely ground whole pearl millet for the best taste and nutrition.",
+    "Stir continuously while cooking to prevent lumps and burning at the bottom.",
+    "Proper fermentation is key — it enhances flavour, digestibility and nutritional benefits.",
+    "Adjust water quantity based on desired thickness — some like it thick, others prefer a more drinkable consistency.",
+    "Add fresh buttermilk or yogurt after fermentation for a tangier taste.",
+    "The fermented water contains probiotics — consume it and do not throw it away.",
+    "Kambu Koozh stays good in the refrigerator for 2 to 3 days.",
+    "For a non-fermented version, serve immediately after cooking with buttermilk."
+  ],
+  "variations": [
+    "Kambu Soru (thick, non-fermented version)",
+    "Sweet Kambu Koozh (with jaggery)",
+    "Kambu Koozh with Red Chilli Chutney"
+  ],
+  "commonly_served_with": [
+    "Uppu Mangai (Raw Mango Pickle)",
+    "Red Chilli Chutney / Sambol",
+    "Summer Breakfast",
+    "Mid-day Meal"
+  ],
+  "tags": [
+    "kambu koozh",
+    "pearl millet porridge",
+    "bajra porridge",
+    "south indian drink",
+    "summer cooler",
+    "fermented drink",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "probiotic drink",
+    "healthy drink",
+    "traditional drink",
+    "millet drink"
+  ]
+}

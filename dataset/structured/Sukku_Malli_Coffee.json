@@ -1,0 +1,243 @@
+{
+  "name": "Sukku Malli Coffee",
+  "tamil_name": "சுக்கு மல்லி காபி",
+  "transliteration": "Sukku Malli Kaapi",
+  "category": "drinks",
+  "sub_category": "coffee",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 20,
+  "total_time": 30,
+  "servings": 8,
+  "description": "Sukku Malli Coffee, also known as Chukku Kaapi or Dry Ginger Coffee, is a traditional South Indian herbal beverage made from dried ginger, coriander seeds, black pepper and cardamom. It is a soothing, aromatic drink with numerous health benefits — it aids digestion, boosts immunity, relieves cold and cough, and improves blood circulation. A popular alternative to regular tea or coffee, it is especially comforting during rainy seasons and winter months.",
+  "ingredients": [
+    {
+      "name": "Dried ginger (Sukku)",
+      "tamil_name": "சுக்கு",
+      "transliteration": "சுக்கு",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "roughly crushed"
+    },
+    {
+      "name": "Coriander seeds (Malli)",
+      "tamil_name": "மல்லி விதை",
+      "transliteration": "மல்லி விதை",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Black peppercorns",
+      "tamil_name": "மிளகு",
+      "transliteration": "மிளகு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom pods",
+      "tamil_name": "ஏலக்காய்",
+      "transliteration": "ஏலக்காய்",
+      "quantity": "6",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "tamil_name": "பட்டை",
+      "transliteration": "பட்டை",
+      "quantity": "1",
+      "unit": "small stick",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg powder",
+      "tamil_name": "ஜாதிக்காய் பொடி",
+      "transliteration": "ஜாதிக்காய் பொடி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried tulsi leaves",
+      "tamil_name": "காய்ந்த துளசி இலை",
+      "transliteration": "காய்ந்த துளசி இலை",
+      "quantity": "1",
+      "unit": "handful",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "per serving"
+    },
+    {
+      "name": "Sukku Malli powder",
+      "tamil_name": "சுக்கு மல்லி பொடி",
+      "transliteration": "சுக்கு மல்லி பொடி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "per serving"
+    },
+    {
+      "name": "Palm jaggery / Palm sugar candy",
+      "tamil_name": "பனை வெல்லம் / பனங்கற்கண்டு",
+      "transliteration": "பனை வெல்லம் / பனங்கற்கண்டு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "per serving"
+    },
+    {
+      "name": "Milk",
+      "tamil_name": "பால்",
+      "transliteration": "பால்",
+      "quantity": "½",
+      "unit": "cup",
+      "notes": "optional, per serving"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse dried ginger well and dry it. Peel the skin and discard.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Using a mortar and pestle, roughly crush the dried ginger into smaller pieces.",
+      "tip": "Crush dried ginger roughly before grinding — adding whole pieces can damage your mixer.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "To a dry pan, add coriander seeds, black pepper and cardamom pods.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Dry roast on low-medium flame until golden and aromatic. Do not burn.",
+      "tip": "Dry roast spices on low-medium flame to preserve aroma and prevent burning.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add the crushed dry ginger and give a quick sauté. Switch off.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add dried tulsi leaves and nutmeg powder towards the end. Roast for another 30 seconds.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Cool completely, then transfer to a mixer jar.",
+      "tip": "Cool ingredients completely before grinding to prevent moisture in the powder.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Grind to a fine powder. Cool down completely.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Store in an airtight container in a dry place. Use within one month for best flavour.",
+      "tip": "The powder can be stored for up to a month in an airtight container.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "To prepare coffee without milk: Boil 1 cup water in a saucepan. Add 1 tsp Sukku Malli powder and 1 tbsp palm jaggery.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Let it simmer for 2 to 3 minutes.",
+      "tip": "",
+      "duration_mins": 3
+    },
+    {
+      "step_no": 12,
+      "instruction": "Strain the mixture and discard the remains. Serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "To prepare coffee with milk: Boil ½ cup water and ½ cup milk together. Add 1 tsp Sukku Malli powder.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 14,
+      "instruction": "Let it come to a rolling boil, simmer for 1 minute.",
+      "tip": "",
+      "duration_mins": 1
+    },
+    {
+      "step_no": 15,
+      "instruction": "Add 1 tbsp palm jaggery. Switch off.",
+      "tip": "Palm sugar candy (panangarkandu) is the best sweetener for cold and cough relief.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 16,
+      "instruction": "Strain and serve hot.",
+      "tip": "Sukku Malli Coffee is best consumed warm for maximum health benefits.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Crush dried ginger roughly before grinding — adding whole pieces can damage your mixer.",
+    "Dry roast spices on low-medium flame to preserve aroma and prevent burning.",
+    "Cool ingredients completely before grinding to prevent moisture in the powder.",
+    "Palm sugar candy (panangarkandu) is the best sweetener for cold and cough relief.",
+    "You can use karupatti (palm jaggery), regular jaggery or even honey (add only to lukewarm coffee).",
+    "Add a cardamom pod while boiling for extra aroma.",
+    "Sukku Malli Coffee is best consumed warm for maximum health benefits.",
+    "The powder can be stored for up to a month in an airtight container."
+  ],
+  "variations": [
+    "Sukku Coffee with Milk",
+    "Chukku Kaapi (Kerala style)",
+    "Pepper Sukku Coffee",
+    "Tulsi Sukku Coffee"
+  ],
+  "commonly_served_with": [
+    "Morning Beverage",
+    "Evening Drink",
+    "Yoga Class Refreshment",
+    "Rainy Day Comfort",
+    "Cold & Cough Remedy"
+  ],
+  "tags": [
+    "sukku malli coffee",
+    "chukku kaapi",
+    "dry ginger coffee",
+    "south indian drink",
+    "herbal coffee",
+    "immunity booster",
+    "digestive drink",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "healthy drink",
+    "traditional drink"
+  ]
+}

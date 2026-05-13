@@ -1,0 +1,190 @@
+{
+  "name": "Masala Paal",
+  "tamil_name": "மசாலா பால்",
+  "transliteration": "Masala Paal",
+  "category": "drinks",
+  "sub_category": "milk",
+  "diet_type": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 5,
+  "cook_time": 10,
+  "total_time": 15,
+  "servings": 2,
+  "description": "Masala Paal is a fragrant, spiced milk beverage popular in South India, especially in Tamil Nadu. It is made by boiling milk with a blend of aromatic spices like cardamom, saffron, nutmeg and dry ginger, sweetened with sugar or jaggery. Often served warm before bedtime or during cold evenings, it is comforting, aids digestion and promotes good sleep. It is also a common offering at temples and during winter festivals.",
+  "ingredients": [
+    {
+      "name": "Full fat milk",
+      "tamil_name": "முழு பால்",
+      "transliteration": "முழு பால்",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "tamil_name": "சர்க்கரை",
+      "transliteration": "சர்க்கரை",
+      "quantity": "2 to 3",
+      "unit": "tbsp",
+      "notes": "or jaggery to taste"
+    },
+    {
+      "name": "Cardamom powder",
+      "tamil_name": "ஏலக்காய் பொடி",
+      "transliteration": "ஏலக்காய் பொடி",
+      "quantity": "¼",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dry ginger powder (Sukku)",
+      "tamil_name": "சுக்கு பொடி",
+      "transliteration": "சுக்கு பொடி",
+      "quantity": "⅛",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg powder",
+      "tamil_name": "ஜாதிக்காய் பொடி",
+      "transliteration": "ஜாதிக்காய் பொடி",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Saffron strands",
+      "tamil_name": "குங்குமப்பூ",
+      "transliteration": "குங்குமப்பூ",
+      "quantity": "4 to 5",
+      "unit": "strands",
+      "notes": "optional"
+    },
+    {
+      "name": "Cashews",
+      "tamil_name": "முந்திரி பருப்பு",
+      "transliteration": "முந்திரி பருப்பு",
+      "quantity": "4 to 5",
+      "unit": "",
+      "notes": "finely chopped, optional"
+    },
+    {
+      "name": "Almonds",
+      "tamil_name": "பாதாம்",
+      "transliteration": "பாதாம்",
+      "quantity": "4 to 5",
+      "unit": "",
+      "notes": "slivered, optional"
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "நெய்",
+      "quantity": "½",
+      "unit": "tsp",
+      "notes": "for roasting nuts, optional"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat 2 cups full fat milk in a heavy-bottomed pan on medium heat.",
+      "tip": "Use full fat milk for the creamiest, richest masala paal.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Bring to a gentle boil, then reduce to a simmer.",
+      "tip": "Do not let the milk boil over — keep the flame on medium-low after the initial boil.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add sugar or jaggery and stir until dissolved.",
+      "tip": "Jaggery can be used instead of sugar for a caramel-like depth and added minerals.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add cardamom powder, dry ginger powder and nutmeg powder.",
+      "tip": "Adjust spices according to your preference — some like it more cardamom-forward, others prefer ginger.",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "If using saffron, soak the strands in 1 tbsp warm milk for 5 minutes, then add to the pan.",
+      "tip": "Saffron adds a beautiful golden colour and luxurious flavour, but is optional.",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 6,
+      "instruction": "Simmer for 5 to 7 minutes, stirring occasionally, until the milk thickens slightly and becomes aromatic.",
+      "tip": "For a richer version, add 1 tbsp condensed milk while simmering.",
+      "duration_mins": 7
+    },
+    {
+      "step_no": 7,
+      "instruction": "If using nuts, heat ½ tsp ghee in a small pan. Roast chopped cashews and almonds until golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add the roasted nuts to the masala paal.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Switch off and let it cool slightly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Serve warm in small glasses or cups.",
+      "tip": "Masala Paal is best consumed warm — reheating is fine but do not boil repeatedly.",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use full fat milk for the creamiest, richest masala paal.",
+    "Do not let the milk boil over — keep the flame on medium-low after the initial boil.",
+    "Adjust spices according to your preference — some like it more cardamom-forward, others prefer ginger.",
+    "Saffron adds a beautiful golden colour and luxurious flavour, but is optional.",
+    "For a richer version, add 1 tbsp condensed milk while simmering.",
+    "Jaggery can be used instead of sugar for a caramel-like depth and added minerals.",
+    "Masala Paal is best consumed warm — reheating is fine but do not boil repeatedly.",
+    "It can be stored in the refrigerator for 1 day and reheated gently before serving."
+  ],
+  "variations": [
+    "Badam Masala Paal (with almond paste)",
+    "Kesar Masala Paal (with extra saffron)",
+    "Turmeric Masala Paal (with turmeric)",
+    "Paal Payasam (thicker, sweeter version)"
+  ],
+  "commonly_served_with": [
+    "Bedtime Drink",
+    "Winter Evening Comfort",
+    "Temple Prasad",
+    "Festival Offering",
+    "Cold & Cough Remedy",
+    "Children's Snack"
+  ],
+  "tags": [
+    "masala paal",
+    "spiced milk",
+    "south indian drink",
+    "warm drink",
+    "bedtime drink",
+    "vegetarian",
+    "gluten-free",
+    "comforting drink",
+    "traditional drink",
+    "digestive drink",
+    "winter drink"
+  ]
+}
