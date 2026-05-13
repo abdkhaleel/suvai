@@ -1,0 +1,214 @@
+{
+  "name": "Urulai Kizhangu Varuval",
+  "tamil_name": "உருளைக்கிழங்கு வறுவல்",
+  "transliteration": "Urulai Kizhangu Varuval",
+  "category": "kootu-poriyal",
+  "sub_category": "poriyal",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 15,
+  "cook_time": 20,
+  "total_time": 35,
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "tamil_name": "உருளைக்கிழங்கு",
+      "transliteration": "Urulai Kizhangu",
+      "quantity": 3,
+      "unit": "medium",
+      "notes": "diced into small cubes (~1.5 cups)"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "Ennai",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "Katugu",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "Siragam",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "Urad Paruppu",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "Perungayam",
+      "quantity": 1,
+      "unit": "generous pinch",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "Kariveppilai",
+      "quantity": 1,
+      "unit": "sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Sambar powder",
+      "tamil_name": "சாம்பார் பொடி",
+      "transliteration": "Sambar Podi",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "Manjal Thool",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "Uppu",
+      "quantity": 1,
+      "unit": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "Tannir",
+      "quantity": 0.25,
+      "unit": "cup",
+      "notes": "adjust as needed"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Peel and dice the potatoes into small uniform cubes. Soak them in water to remove excess starch and prevent discoloration.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "In a cast iron skillet heat 2 teaspoon oil. Add ½ teaspoon mustard seeds, ½ teaspoon cumin seeds, 1 teaspoon urad dal.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "As the dal turns golden brown, add a generous pinch of asafoetida and a few fresh curry leaves.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Next add the diced potatoes (~1.5 cups). Stir fry for a couple of minutes on low flame.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Now add 1 teaspoon sambar powder, ¼ teaspoon turmeric powder and salt as needed.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Mix well and stir fry for a couple of minutes making sure not to burn the spice powders.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Next add about ¼ cup of water and mix it well. Keep it covered and cook on low flame for 4-5 mins.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 8,
+      "instruction": "When all the water has been evaporated, continue cooking and stir-frying. Don't cover it with a lid.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "In the next 5-6 mins, the starch from the potatoes and moisture starts to disappear. Continue stirring occasionally and cook on low flame.",
+      "tip": "",
+      "duration_mins": 6
+    },
+    {
+      "step_no": 10,
+      "instruction": "As the potato cubes start to turn golden brown, continue cooking on low flame until there is no moisture and the potatoes start to crisp up.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "As the potatoes turn golden, crispy and devoid of any moisture, without sticking to the pan — remove from heat.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Serve hot immediately with any variety rice, plain white rice with sambar, rasam or curd.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Dicing the potatoes into small cubes of even shape and size helps in achieving better results.",
+    "Always soak the potatoes in water after peeling or dicing them — this helps remove the extra starch and makes the fry crispy.",
+    "Always cook the potatoes in a heavy pan preferably cast iron skillet on low flame, stirring them occasionally.",
+    "If you don't have sambar powder, replace it with ½ teaspoon red chilli powder and 1 teaspoon coriander powder.",
+    "Adjust spices as per preference.",
+    "The fry stays crispy when hot and even after cooling down it tastes delicious, making it perfect to pack in lunch boxes."
+  ],
+  "variations": [
+    "Bangaladumpa Vepudu",
+    "Urulai Kizhangu Kara Kari",
+    "Nellai Urulai Roast",
+    "Potato Podimas"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Sambar",
+    "Rasam",
+    "Curd rice",
+    "Variety rice"
+  ],
+  "tags": [
+    "urulai kizhangu varuval",
+    "potato poriyal",
+    "spicy potato fry",
+    "tamil nadu",
+    "south indian",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "side dish",
+    "lunch side dish"
+  ]
+}

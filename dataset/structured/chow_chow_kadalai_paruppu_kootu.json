@@ -1,0 +1,196 @@
+{
+  "name": "Chow Chow Kadalai Paruppu Kootu",
+  "tamil_name": "சௌ சௌ கடலை பருப்பு கூட்டு",
+  "transliteration": "Chow Chow Kadalai Paruppu Kootu",
+  "category": "kootu-poriyal",
+  "sub_category": "kootu",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 20,
+  "total_time": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Chow Chow",
+      "tamil_name": "சௌ சௌ",
+      "transliteration": "Chow Chow",
+      "quantity": 2,
+      "unit": "big",
+      "notes": "3.5 to 4 cups when cubed"
+    },
+    {
+      "name": "Chana dal",
+      "tamil_name": "கடலை பருப்பு",
+      "transliteration": "Kadalai Paruppu",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "Manjal Thool",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "Uppu",
+      "quantity": 1,
+      "unit": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "Thengai Thuruval",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "Pachai Milagai",
+      "quantity": 1,
+      "unit": "whole",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "Siragam",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "tamil_name": "தேங்காய் எண்ணெய்",
+      "transliteration": "Thengai Ennai",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "Katugu",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "Urad Paruppu",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "Kariveppilai",
+      "quantity": 1,
+      "unit": "few",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Wash, peel and chop chow chow into small cubes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "In a small pressure cooker, add chana dal at the bottom and add water just enough to cover the dal.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Place the chopped chow chow pieces over the dal. Add turmeric powder.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Pressure cook for 2 to 3 whistles. Let the pressure release naturally.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 5,
+      "instruction": "Meanwhile, grind grated coconut, green chilli and cumin seeds into a smooth paste with very little water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Open the cooker and place it back on low heat. Add salt and bring to a gentle boil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add the ground coconut paste and mix gently without breaking the vegetable pieces.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Let it come to a gentle boil and switch off the heat.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Heat coconut oil in a small pan. Add mustard seeds, let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Add urad dal and fry till golden. Add curry leaves and pour the tempering over the kootu. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Do not add too much water while pressure cooking to avoid a watery kootu.",
+    "If the kootu is watery, boil on high heat for a few minutes without lid or add a little raw rice while grinding the coconut paste.",
+    "Adding a pinch of jaggery enhances the taste (optional).",
+    "Use coconut oil for authentic flavour."
+  ],
+  "variations": [
+    "Chow Chow with moong dal",
+    "Mixed vegetable kootu",
+    "Chow Chow with toor dal"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Sambar",
+    "Rasam",
+    "Vatha Kuzhambu"
+  ],
+  "tags": [
+    "chow chow kootu",
+    "chayote kootu",
+    "kadalai paruppu kootu",
+    "kootu",
+    "tamil nadu",
+    "vegetarian",
+    "lunch",
+    "healthy"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "name": "Sorakkai Kootu",
+  "tamil_name": "சுரைக்காய் கூட்டு",
+  "transliteration": "Sorakkai Kootu",
+  "category": "kootu-poriyal",
+  "sub_category": "kootu",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 25,
+  "total_time": 35,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Bottle Gourd",
+      "tamil_name": "சுரைக்காய்",
+      "transliteration": "Sorakkai",
+      "quantity": 1,
+      "unit": "medium",
+      "notes": "500 grams"
+    },
+    {
+      "name": "Moong dal",
+      "tamil_name": "பாசிப்பருப்பு",
+      "transliteration": "Paruppu",
+      "quantity": 0.33,
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "Manjal Thool",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "Uppu",
+      "quantity": 1,
+      "unit": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "Thengai Thuruval",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "for paste"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "Pachai Milagai",
+      "quantity": 1,
+      "unit": "whole",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "Siragam",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "tamil_name": "தேங்காய் எண்ணெய்",
+      "transliteration": "Thengai Ennai",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "Katugu",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "Urad Paruppu",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "Kariveppilai",
+      "quantity": 1,
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "Perungayam",
+      "quantity": 1,
+      "unit": "pinch",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse moong dal and pressure cook with ¾ cup water and a pinch of turmeric for 2-3 whistles until soft. Mash lightly and set aside.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 2,
+      "instruction": "Peel the bottle gourd, remove the seeds and chop into small cubes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "In a pan, add chopped sorakkai, turmeric powder, and little water. Cook covered until the vegetable becomes soft.",
+      "tip": "",
+      "duration_mins": 8
+    },
+    {
+      "step_no": 4,
+      "instruction": "Grind grated coconut, green chilli and cumin seeds into a smooth paste with little water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add the cooked moong dal and ground coconut paste to the cooked sorakkai. Mix gently.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add salt and simmer for 3-4 minutes until the kootu comes together. Adjust consistency with little hot water if needed.",
+      "tip": "",
+      "duration_mins": 4
+    },
+    {
+      "step_no": 7,
+      "instruction": "Heat oil in a small pan. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add urad dal and fry until golden. Add curry leaves and asafoetida. Pour the tempering over the kootu.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Mix well and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Choose tender bottle gourd for better taste.",
+    "Do not overcook the vegetable after adding dal to retain texture.",
+    "You can replace moong dal with toor dal for a different flavour.",
+    "This kootu thickens as it cools, so keep it slightly loose."
+  ],
+  "variations": [
+    "Sorakkai Kootu with chana dal",
+    "Mixed vegetable sorakkai kootu",
+    "Sorakkai paruppu usili kootu"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Sambar",
+    "Rasam",
+    "Curd rice"
+  ],
+  "tags": [
+    "sorakkai kootu",
+    "bottle gourd kootu",
+    "chayote kootu",
+    "kootu",
+    "tamil nadu",
+    "vegetarian",
+    "healthy",
+    "lunch recipe"
+  ]
+}

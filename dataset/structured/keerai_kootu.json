@@ -1,0 +1,282 @@
+{
+  "name": "Keerai Kootu",
+  "tamil_name": "கீரை கூட்டு",
+  "transliteration": "Keerai Kootu",
+  "category": "kootu-poriyal",
+  "sub_category": "kootu",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 30,
+  "total_time": 40,
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "Moong dal",
+      "tamil_name": "பாசிப்பருப்பு",
+      "transliteration": "Paruppu",
+      "quantity": 0.33,
+      "unit": "cup",
+      "notes": "or ¼ cup moong dal + 2 tbsp toor dal"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "Tannir",
+      "quantity": 1,
+      "unit": "cup",
+      "notes": "for cooking dal"
+    },
+    {
+      "name": "Spinach",
+      "tamil_name": "பாலக் கீரை",
+      "transliteration": "Keerai",
+      "quantity": 5,
+      "unit": "cup",
+      "notes": "120 grams, chopped"
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "Vengayam",
+      "quantity": 1,
+      "unit": "small",
+      "notes": "½ cup, finely chopped or 8 shallots"
+    },
+    {
+      "name": "Tomato",
+      "tamil_name": "தக்காளி",
+      "transliteration": "Thakkali",
+      "quantity": 1,
+      "unit": "small",
+      "notes": "½ cup, deseeded & chopped"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "Pachai Milagai",
+      "quantity": 1,
+      "unit": "whole",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "Poondu",
+      "quantity": 4,
+      "unit": "clove",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "Kariveppilai",
+      "quantity": 1,
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "tamil_name": "நெய்",
+      "transliteration": "Nei",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "or oil"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "Katugu",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "Siragam",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried red chilli",
+      "tamil_name": "காய்ந்த மிளகாய்",
+      "transliteration": "Kayntha Milagai",
+      "quantity": 1,
+      "unit": "whole",
+      "notes": "broken"
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "Perungayam",
+      "quantity": 1,
+      "unit": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "Manjal Thool",
+      "quantity": 0.125,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "Milagai Thool",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "tamil_name": "தனியா தூள்",
+      "transliteration": "Thaniya Thool",
+      "quantity": 0.75,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "tamil_name": "சீரக தூள்",
+      "transliteration": "Siragam Thool",
+      "quantity": 0.33,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "Thengai Thuruval",
+      "quantity": 0.25,
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Water for paste",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "Tannir",
+      "quantity": 0.25,
+      "unit": "cup",
+      "notes": "for coconut paste"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "Uppu",
+      "quantity": 1,
+      "unit": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Hot water",
+      "tamil_name": "சுடு தண்ணீர்",
+      "transliteration": "Sudu Tannir",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "as needed"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse moong dal well and pressure cook with ¾ to 1 cup water until soft and mushy (3 whistles). Mash well and set aside.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 2,
+      "instruction": "Grind grated coconut with ¼ cup water into a smooth paste. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Heat ghee or oil in a pan. Add mustard seeds, cumin seeds and broken red chilli. Let them splutter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add chopped garlic, curry leaves, green chilli and asafoetida. Sauté for a minute.",
+      "tip": "",
+      "duration_mins": 1
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add chopped onion and a pinch of salt. Sauté until onions turn soft and translucent.",
+      "tip": "",
+      "duration_mins": 3
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add chopped tomato and cook until soft and mushy.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add turmeric powder, red chilli powder, coriander powder and cumin powder. Sauté for 1 minute.",
+      "tip": "",
+      "duration_mins": 1
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add chopped keerai (spinach) and cook until wilted (4-5 minutes).",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add the mashed dal and coconut paste. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Add hot water as needed to adjust consistency. Simmer for 3-4 minutes until bubbling hot. Adjust salt.",
+      "tip": "",
+      "duration_mins": 4
+    },
+    {
+      "step_no": 11,
+      "instruction": "Remove from heat and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use fresh tender spinach for bright green colour and best taste.",
+    "Do not overcook the greens after adding dal to retain texture and colour.",
+    "This kootu thickens as it cools, so keep it slightly loose.",
+    "For vegan version, use oil instead of ghee."
+  ],
+  "variations": [
+    "Palak Kootu",
+    "Moringa Leaves Kootu",
+    "Mixed Greens Kootu",
+    "Keerai Kootu with sambar powder"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Chapati",
+    "Dosa"
+  ],
+  "tags": [
+    "keerai kootu",
+    "spinach kootu",
+    "kootu",
+    "tamil nadu",
+    "south indian",
+    "vegetarian",
+    "lunch",
+    "keerai recipes"
+  ]
+}

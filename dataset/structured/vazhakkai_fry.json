@@ -1,0 +1,225 @@
+{
+  "name": "Vazhakkai Fry",
+  "tamil_name": "வாழைக்காய் வறுவல்",
+  "transliteration": "Vazhakkai Fry",
+  "category": "kootu-poriyal",
+  "sub_category": "poriyal",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 20,
+  "total_time": 30,
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "Raw banana",
+      "tamil_name": "வாழைக்காய்",
+      "transliteration": "Vazhakkai",
+      "quantity": 2,
+      "unit": "medium",
+      "notes": "approx. 400 grams"
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "Ennai",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "Katugu",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "Siragam",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "Urad Paruppu",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried red chilli",
+      "tamil_name": "வற்றல் மிளகாய்",
+      "transliteration": "Vatral Milagai",
+      "quantity": 1,
+      "unit": "whole",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "Kariveppilai",
+      "quantity": 1,
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "Perungayam",
+      "quantity": 1,
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "Manjal Thool",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sambar powder",
+      "tamil_name": "சாம்பார் பொடி",
+      "transliteration": "Sambar Podi",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "Milagai Thool",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "Uppu",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "Tannir",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "as needed"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Wash the raw bananas and chop off both the ends. Peel the skin completely.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Slice the bananas evenly (not too thick or too thin) and add them to a pot of water to prevent discoloration.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Heat a wide pan with oil. Add mustard seeds, cumin seeds, dried red chilli and urad dal.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "When the dal turns golden, throw in the curry leaves and sprinkle asafoetida.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Lower the flame and add turmeric powder, sambar powder and red chilli powder. Mix it well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Drain the banana slices and add them to the pan. Mix well and fry for 2 minutes.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 7,
+      "instruction": "Sprinkle 1 to 2 tbsps of water. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Cover and cook on a very low to medium flame until the banana slices turn tender/soft. If needed sprinkle more water and then stir and cook covered again.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Check if the vazhakkai has cooked properly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Sprinkle salt evenly. Sprinkle another tbsp of water if needed (helps salt dissolve and coat well). Cover and cook for 2 to 3 mins.",
+      "tip": "",
+      "duration_mins": 3
+    },
+    {
+      "step_no": 11,
+      "instruction": "Remove from heat and serve hot with rice or variety rice.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Choose tender and young vazhakkai for best results. Mature green bananas may require more water.",
+    "Always use firm, fresh looking and fat green bananas. Avoid bananas that have begun to ripen.",
+    "Using a wider pan helps to get these stir fried easily without sticking.",
+    "You may chop them to bite sized pieces instead of slicing.",
+    "Store bought sambar podi can be extremely hot, so adjust quantity to keep spice levels moderate.",
+    "Soak sliced bananas in water immediately to prevent discoloration/oxidization."
+  ],
+  "variations": [
+    "Aratikaya Fry",
+    "Masala Banana Curry",
+    "Green Banana Kura",
+    "Vazhakkai Poriyal with Coconut"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Rasam",
+    "Sambar",
+    "Kootu",
+    "Lemon rice",
+    "Curd rice",
+    "Curry leaves rice"
+  ],
+  "tags": [
+    "vazhakkai fry",
+    "raw banana fry",
+    "poriyal",
+    "tamil nadu",
+    "south indian",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "side dish"
+  ]
+}

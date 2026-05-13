@@ -1,0 +1,190 @@
+{
+  "name": "Carrot Poriyal",
+  "tamil_name": "காரட் பொரியல்",
+  "transliteration": "Carrot Poriyal",
+  "category": "kootu-poriyal",
+  "sub_category": "poriyal",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 20,
+  "total_time": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "tamil_name": "காரட்",
+      "transliteration": "Kaarat",
+      "quantity": 2,
+      "unit": "cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "Nallennai",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "gingelly oil"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "Katugu",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "Urad Paruppu",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "Pachai Milagai",
+      "quantity": 1,
+      "unit": "whole",
+      "notes": "chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "Kariveppilai",
+      "quantity": 9,
+      "unit": "count",
+      "notes": "8 to 9"
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "Manjal Thool",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "Perungayam",
+      "quantity": 1,
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "Thengai Thuruval",
+      "quantity": 0.33,
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "Uppu",
+      "quantity": 1,
+      "unit": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "Tannir",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "or as needed"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat gingelly oil in a kadai or pan on low heat. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add urad dal and fry until golden, stirring continuously to prevent burning.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add chopped green chilli and curry leaves. Sauté for a few seconds.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add finely chopped carrots, turmeric powder, asafoetida, and salt. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add ½ cup water and stir. Cover and cook on low heat until carrots are tender.",
+      "tip": "",
+      "duration_mins": 10
+    },
+    {
+      "step_no": 6,
+      "instruction": "Check every 4-5 minutes and add more water if needed.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Once carrots are cooked and water evaporates, add grated coconut.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix thoroughly and cook for 1-2 minutes. Remove from heat.",
+      "tip": "",
+      "duration_mins": 2
+    },
+    {
+      "step_no": 9,
+      "instruction": "Serve hot or warm. Garnish with chopped coriander leaves if desired.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Finely chop the carrots for faster and even cooking.",
+    "Use fresh tender carrots for best taste and colour.",
+    "Do not add too much water to keep the poriyal dry.",
+    "You can use coconut oil for a more authentic flavour."
+  ],
+  "variations": [
+    "Carrot Beans Poriyal",
+    "Carrot Cabbage Poriyal",
+    "Grated Carrot Poriyal"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Sambar",
+    "Rasam",
+    "Curd rice"
+  ],
+  "tags": [
+    "carrot poriyal",
+    "carrot stir fry",
+    "poriyal",
+    "tamil nadu",
+    "south indian",
+    "vegetarian",
+    "no onion no garlic",
+    "lunch side dish"
+  ]
+}

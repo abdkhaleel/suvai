@@ -1,0 +1,197 @@
+{
+  "name": "Pudalangai Kootu",
+  "tamil_name": "புடலங்காய் கூட்டு",
+  "transliteration": "Pudalangai Kootu",
+  "category": "kootu-poriyal",
+  "sub_category": "kootu",
+  "diet_type": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "prep_time": 15,
+  "cook_time": 20,
+  "total_time": 35,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Snake Gourd",
+      "tamil_name": "புடலங்காய்",
+      "transliteration": "Pudalangai",
+      "quantity": 1,
+      "unit": "medium",
+      "notes": "300-350 grams"
+    },
+    {
+      "name": "Moong dal",
+      "tamil_name": "பாசிப்பருப்பு",
+      "transliteration": "Paruppu",
+      "quantity": 0.25,
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "Manjal Thool",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "Uppu",
+      "quantity": 1,
+      "unit": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "Thengai Thuruval",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "for grinding"
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "Pachai Milagai",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "1-2"
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "Siragam",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for grinding"
+    },
+    {
+      "name": "Coconut oil",
+      "tamil_name": "தேங்காய் எண்ணெய்",
+      "transliteration": "Thengai Ennai",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "Katugu",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Urad dal",
+      "tamil_name": "உளுந்து பருப்பு",
+      "transliteration": "Urad Paruppu",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "Kariveppilai",
+      "quantity": 1,
+      "unit": "sprig",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "Perungayam",
+      "quantity": 1,
+      "unit": "pinch",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse moong dal and pressure cook with ¾ cup water and turmeric powder for 2-3 whistles until soft. Mash lightly and set aside.",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 2,
+      "instruction": "Wash, peel the outer skin of snake gourd, remove the inner seeds and chop into small pieces.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "In a pan or pressure cooker, add chopped pudalangai, little water and cook until soft (2 whistles if using pressure cooker).",
+      "tip": "",
+      "duration_mins": 5
+    },
+    {
+      "step_no": 4,
+      "instruction": "Grind grated coconut, green chilli and cumin seeds into a smooth paste with little water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add the cooked moong dal and ground coconut paste to the cooked snake gourd. Mix gently.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add salt and simmer for 3-4 minutes until the kootu thickens slightly.",
+      "tip": "",
+      "duration_mins": 4
+    },
+    {
+      "step_no": 7,
+      "instruction": "Heat oil in a small tadka pan. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add urad dal and fry till golden. Add curry leaves and asafoetida. Pour this tempering over the kootu.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Mix well and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Choose tender snake gourd for better taste.",
+    "Do not add too much water while cooking the vegetable.",
+    "You can add a pinch of jaggery for a mild sweetness (optional).",
+    "This kootu tastes best when served warm with rice."
+  ],
+  "variations": [
+    "Pudalangai Kootu with chana dal",
+    "Snake gourd poricha kootu",
+    "Mixed vegetable kootu"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Sambar",
+    "Rasam",
+    "Curd rice"
+  ],
+  "tags": [
+    "pudalangai kootu",
+    "snake gourd kootu",
+    "kootu",
+    "tamil nadu",
+    "vegetarian",
+    "healthy",
+    "lunch side dish"
+  ]
+}
