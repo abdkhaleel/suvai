@@ -1,7 +1,7 @@
 # SuvAI — Your Tamil AI Chef
 
 [![Deploy](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://suvai.vercel.app)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/abdkhaleel/suvai?tab=MIT-1-ov-file)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/abdkhaleel/suvai/blob/master/LICENSE)
 [![Gemma](https://img.shields.io/badge/Powered%20by-Gemma%204%2031B--IT-blue?style=flat-square&logo=google)](https://ai.google.dev/gemma)
 [![Track](https://img.shields.io/badge/Track-Digital%20Equity%20%26%20Inclusivity-purple?style=flat-square)](https://www.kaggle.com/competitions/gemma-4-good-hackathon)
 
