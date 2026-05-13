@@ -1,0 +1,176 @@
+{
+  "name": "Kongunadu Mutton Kuzhambu",
+  "tamil_name": "கொங்குநாடு மட்டன் குழம்பு",
+  "transliteration": "Kongunadu Mutton Kuzhambu",
+  "category": "curry",
+  "sub_category": "non-veg",
+  "diet_type": ["non-veg"],
+  "difficulty": "medium",
+  "prep_time": 20,
+  "cook_time": 45,
+  "total_time": 65,
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Mutton",
+      "tamil_name": "மட்டன்",
+      "transliteration": "மட்டன்",
+      "quantity": "500",
+      "unit": "grams",
+      "notes": "bone-in, curry cut"
+    },
+    {
+      "name": "Gingelly oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "2 tbsp (for masala) + 1 tbsp (for curry)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Shallots / Small onions",
+      "tamil_name": "சின்ன வெங்காயம்",
+      "transliteration": "சின்ன வெங்காயம்",
+      "quantity": "10",
+      "unit": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "3-4",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Castor oil",
+      "tamil_name": "விளக்கெண்ணெய்",
+      "transliteration": "விளக்கெண்ணெய்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1.5",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Thick coconut milk",
+      "tamil_name": "தேங்காய் பால்",
+      "transliteration": "தேங்காய் பால்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1.5",
+      "unit": "cups",
+      "notes": "+ as needed"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat 1 tbsp gingelly oil in a pan. Add all masala paste ingredients except onions and tomatoes. Roast on low flame for 4-5 minutes until fragrant. Set aside to cool.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "In the same pan, add remaining oil, chopped onions and sauté until soft. Add tomatoes and cook until mushy. Remove and cool.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Grind the roasted spices, onions, tomatoes, and a little water into a smooth fine paste. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat 1 tbsp gingelly oil in a pressure cooker. Add curry leaves and chopped shallots. Sauté briefly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add cleaned mutton pieces, castor oil (optional), and cook on medium heat for 5 minutes until juices evaporate.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add turmeric powder and mix well. Add the prepared masala paste.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Rinse the mixer jar with 1 cup water and add it to the cooker. Add 1.5 cups water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Pressure cook for 30 minutes on medium heat. Let the pressure release naturally.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Open the cooker, add salt and 1 cup thick coconut milk. Simmer on low heat for 5-7 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Remove from heat and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Do not trim fat from mutton as it enhances flavour and richness.",
+    "Roast spices on low flame to prevent burning and bitterness.",
+    "Add salt only at the end for softer mutton pieces.",
+    "This kuzhambu tastes even better the next day after flavours meld."
+  ],
+  "variations": [
+    "Kongunadu Mutton Milagu Kuzhambu",
+    "Chettinad Mutton Kuzhambu",
+    "Milder version with less pepper"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Idli",
+    "Dosa",
+    "Parotta"
+  ],
+  "tags": [
+    "kongunadu mutton kuzhambu",
+    "mutton kuzhambu",
+    "non-veg",
+    "kongu cuisine",
+    "tamil nadu",
+    "sunday special",
+    "spicy curry",
+    "rice accompaniment"
+  ]
+}

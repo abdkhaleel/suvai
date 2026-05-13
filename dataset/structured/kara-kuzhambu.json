@@ -1,0 +1,238 @@
+{
+  "name": "Kara Kuzhambu",
+  "tamil_name": "கார குழம்பு",
+  "transliteration": "Kara Kuzhambu",
+  "category": "curry",
+  "sub_category": "kuzhambu",
+  "diet_type": ["vegetarian", "vegan"],
+  "difficulty": "medium",
+  "prep_time": 15,
+  "cook_time": 15,
+  "total_time": 30,
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Sesame oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "1 tsp (for masala) + 3 tbsp (for cooking)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek seeds",
+      "tamil_name": "வெந்தயம்",
+      "transliteration": "வெந்தயம்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "tamil_name": "தனியா",
+      "transliteration": "தனியா",
+      "quantity": "2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "tamil_name": "சோம்பு",
+      "transliteration": "சோம்பு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried red chillies",
+      "tamil_name": "காய்ந்த மிளகாய்",
+      "transliteration": "காய்ந்த மிளகாய்",
+      "quantity": "2",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Sambar powder",
+      "tamil_name": "சாம்பார் பொடி",
+      "transliteration": "சாம்பார் பொடி",
+      "quantity": "2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1/2 tsp (for paste) + 1/2 tsp (for gravy)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "medium, chopped"
+    },
+    {
+      "name": "Tomato",
+      "tamil_name": "தக்காளி",
+      "transliteration": "தக்காளி",
+      "quantity": "1",
+      "unit": "",
+      "notes": "ripe, chopped"
+    },
+    {
+      "name": "Brinjal",
+      "tamil_name": "கத்தரிக்காய்",
+      "transliteration": "கத்தரிக்காய்",
+      "quantity": "5",
+      "unit": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Drumstick",
+      "tamil_name": "முருங்கைக்காய்",
+      "transliteration": "முருங்கைக்காய்",
+      "quantity": "1",
+      "unit": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tamarind paste",
+      "tamil_name": "புளி பேஸ்ட்",
+      "transliteration": "புளி பேஸ்ட்",
+      "quantity": "2-3",
+      "unit": "tbsp",
+      "notes": "or small lime sized tamarind"
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "as needed",
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat 1 tsp sesame oil in a pan. Add fenugreek seeds, coriander seeds, fennel seeds, and dried red chillies. Fry until aromatic.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add grated coconut and fry for a couple of minutes. Switch off the flame.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add sambar powder and ½ tsp salt. Mix well and let it cool.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Grind the cooled mixture with ½ cup water into a smooth paste. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Heat 3 tbsp sesame oil in a pressure cooker or pan. Add mustard seeds and curry leaves. Let them splutter.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add chopped onion and sauté until soft. Add chopped tomato and cook until juicy.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add chopped drumstick and brinjal. Add ½ cup water, ground masala paste, tamarind paste, remaining salt, and jaggery.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Mix gently, cover and pressure cook for 2 whistles (or simmer on low flame for 15 minutes if not using cooker).",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Once pressure releases, open and check consistency. Add hot water if needed to get a pouring consistency.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Mix well and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use generous sesame oil for authentic taste and to prevent bitterness from fenugreek.",
+    "Do not over-roast fenugreek seeds as they can make the gravy bitter.",
+    "Adjust water after cooking to get the right gravy consistency.",
+    "This kuzhambu tastes better the next day as flavours develop."
+  ],
+  "variations": [
+    "Drumstick only kara kuzhambu",
+    "Brinjal kara kuzhambu",
+    "Mixed vegetable kara kuzhambu"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Appalam",
+    "Poriyal"
+  ],
+  "tags": [
+    "kara kuzhambu",
+    "chettinad",
+    "kuzhambu",
+    "tamil nadu",
+    "south indian",
+    "vegetarian",
+    "rice accompaniment"
+  ]
+}

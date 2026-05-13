@@ -1,0 +1,178 @@
+{
+  "name": "Sambar",
+  "tamil_name": "சாம்பார்",
+  "transliteration": "Sambar",
+  "category": "curry",
+  "sub_category": "kuzhambu",
+  "diet_type": ["vegetarian", "vegan"],
+  "difficulty": "medium",
+  "prep_time": 10,
+  "cook_time": 40,
+  "total_time": 50,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Toor dal",
+      "tamil_name": "துவரம் பருப்பு",
+      "transliteration": "துவரம் பருப்பு",
+      "quantity": "3/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Water to cook dal",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Mixed vegetables (onion/shallots, drumstick, okra, carrot, tomato)",
+      "tamil_name": "காய்கறிகள்",
+      "transliteration": "காய்கறிகள்",
+      "quantity": "as needed",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind",
+      "tamil_name": "புளி",
+      "transliteration": "புளி",
+      "quantity": "1 to 2",
+      "unit": "tbsp",
+      "notes": "lemon sized"
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "3/4",
+      "unit": "tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "1/2 to 3/4",
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": "chopped"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Wash toor dal and pressure cook with 2 cups water until soft and mushy (2-4 whistles). Mash well and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "While dal cooks, dry roast ingredients for sambar powder (red chilies, chana dal, urad dal, coriander seeds, fenugreek, cumin) and grind to a fine powder.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Rinse and chop vegetables (shallots/onion, drumstick, okra, carrot, tomato).",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat 1 tsp oil in a pot; sauté onions for 1 minute, add all vegetables and sauté for 2 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add 4 cups water and cook vegetables until tender.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Soak tamarind in hot water, squeeze and extract juice (filter if needed).",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add turmeric powder, homemade sambar powder, salt, and tamarind water to the cooked vegetables; simmer for 3-5 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add mashed dal, mix well, adjust consistency with hot water if needed, and bring to a gentle boil. Add chopped coriander leaves.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "For tempering: Heat ghee/oil, add mustard seeds, cumin, fenugreek, red chilies, curry leaves, and asafoetida. Pour over the sambar.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Simmer for 2-3 minutes and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use fresh homemade sambar powder for the best aroma and taste.",
+    "Cook vegetables until soft so their flavors blend well into the stock.",
+    "Add tamarind only after vegetables are cooked to ensure proper tenderness.",
+    "For storage, refrigerate without tempering and add fresh tempering when reheating."
+  ],
+  "variations": [
+    "Arachuvitta sambar",
+    "Idli sambar",
+    "Hotel style sambar",
+    "Vegetable sambar"
+  ],
+  "commonly_served_with": [
+    "Rice",
+    "Idli",
+    "Dosa",
+    "Medu Vada",
+    "Pongal"
+  ],
+  "tags": [
+    "sambar",
+    "kuzhambu",
+    "south indian",
+    "vegetarian",
+    "lentil stew",
+    "tiffin",
+    "rice accompaniment",
+    "tamil nadu"
+  ]
+}

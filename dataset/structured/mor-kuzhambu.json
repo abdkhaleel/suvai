@@ -1,0 +1,216 @@
+{
+  "name": "Mor Kuzhambu",
+  "tamil_name": "மோர் குழம்பு",
+  "transliteration": "Mor Kuzhambu",
+  "category": "curry",
+  "sub_category": "kuzhambu",
+  "diet_type": ["vegetarian"],
+  "difficulty": "medium",
+  "prep_time": 20,
+  "cook_time": 20,
+  "total_time": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Tuvar dal",
+      "tamil_name": "துவரம் பருப்பு",
+      "transliteration": "துவரம் பருப்பு",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "tamil_name": "தனியா",
+      "transliteration": "தனியா",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Raw rice",
+      "tamil_name": "பச்சை அரிசி",
+      "transliteration": "பச்சை அரிசி",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Hot water for soaking",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Green chillies",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "3 to 4",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "tamil_name": "இஞ்சி",
+      "transliteration": "இஞ்சி",
+      "quantity": "1",
+      "unit": "inch",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "5 to 6",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Ash gourd",
+      "tamil_name": "பூசணிக்காய்",
+      "transliteration": "பூசணிக்காய்",
+      "quantity": "1.5",
+      "unit": "cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Curd",
+      "tamil_name": "தயிர்",
+      "transliteration": "தயிர்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "thick and slightly sour"
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": "+ as needed"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Rinse tuvar dal, coriander seeds, cumin seeds, and raw rice. Soak in ¼ cup hot water for 20 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add soaked ingredients along with green chillies, ginger, curry leaves, and grated coconut into a mixer jar. Grind to a smooth paste.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Whisk the thick sour curd until smooth. Add the ground paste and 1 cup water. Mix well and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Peel and chop ash gourd into cubes. Cook with 1 cup water and turmeric powder until almost tender.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Reduce heat to low, add the buttermilk mixture and salt. Mix gently.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Simmer on low heat until the kuzhambu turns frothy and comes to a gentle boil. Do not let it boil vigorously. Turn off the heat.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Heat oil in a small pan. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add fenugreek seeds, dried red chillies, curry leaves, and asafoetida. Fry briefly.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Pour the tempering over the mor kuzhambu. Cover and let it rest for 5 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Serve hot with steamed rice.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use slightly sour, full-fat curd for the best taste and to prevent curdling.",
+    "Do not boil the kuzhambu after adding the curd mixture — only gentle simmer is needed.",
+    "Rice or rice flour in the paste helps thicken the gravy and prevents separation.",
+    "You can skip ash gourd or use other vegetables like okra, brinjal, or drumstick."
+  ],
+  "variations": [
+    "Ash gourd mor kuzhambu",
+    "Okra mor kuzhambu",
+    "Keerai mor kuzhambu",
+    "No-vegetable mor kuzhambu"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Idli",
+    "Dosa"
+  ],
+  "tags": [
+    "mor kuzhambu",
+    "more kulambu",
+    "kuzhambu",
+    "south indian",
+    "yogurt curry",
+    "vegetarian",
+    "tamil nadu",
+    "rice accompaniment"
+  ]
+}

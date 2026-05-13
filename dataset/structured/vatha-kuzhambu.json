@@ -1,0 +1,215 @@
+{
+  "name": "Vatha Kuzhambu",
+  "tamil_name": "வத்தல் குழம்பு",
+  "transliteration": "Vatha Kuzhambu",
+  "category": "curry",
+  "sub_category": "kuzhambu",
+  "diet_type": ["vegetarian", "vegan"],
+  "difficulty": "easy",
+  "prep_time": 10,
+  "cook_time": 30,
+  "total_time": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Tamarind",
+      "tamil_name": "புளி",
+      "transliteration": "புளி",
+      "quantity": "1",
+      "unit": "lemon sized ball",
+      "notes": "or 1 tbsp tightly packed"
+    },
+    {
+      "name": "Hot water for soaking",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "1",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Gingelly oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek seeds",
+      "tamil_name": "வெந்தயம்",
+      "transliteration": "வெந்தயம்",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried red chillies",
+      "tamil_name": "காய்ந்த மிளகாய்",
+      "transliteration": "காய்ந்த மிளகாய்",
+      "quantity": "1 to 2",
+      "unit": "",
+      "notes": "broken"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "8 to 10",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Asafoetida",
+      "tamil_name": "பெருங்காயம்",
+      "transliteration": "பெருங்காயம்",
+      "quantity": "1",
+      "unit": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Manathakkali vathal",
+      "tamil_name": "மணத்தக்காளி வத்தல்",
+      "transliteration": "மணத்தக்காளி வத்தல்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sambar powder",
+      "tamil_name": "சாம்பார் பொடி",
+      "transliteration": "சாம்பார் பொடி",
+      "quantity": "1.5 to 2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "2",
+      "unit": "cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "tamil_name": "அரிசி மாவு",
+      "transliteration": "அரிசி மாவு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Soak tamarind in 1 cup hot water for 20-30 minutes. Squeeze and extract the pulp. Keep aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Heat gingelly oil in a pan. Add mustard seeds and let them crackle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Add fenugreek seeds, broken red chillies, curry leaves, and asafoetida. Fry on low heat until chillies change color.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add manathakkali vathal and fry on low heat for a few seconds until the color changes slightly. Do not burn.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Switch off the heat and add sambar powder. Stir for 1 minute (you can keep on low heat briefly).",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add the extracted tamarind pulp and 2 cups water. Stir well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add salt to taste and bring to a boil on medium-low heat.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Simmer for 25-30 minutes until the gravy thickens slightly and oil specks appear on top.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add rice flour and jaggery (if using). Simmer for another 4-5 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Switch off the heat. Let it rest for a few minutes so a layer of oil forms on top. Check seasoning.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use generous amount of gingelly oil for authentic taste and longer shelf life.",
+    "Fry the vathal and sambar powder on low heat to avoid burning.",
+    "Aged dark tamarind gives better sourness to the kuzhambu.",
+    "This kuzhambu tastes even better the next day as flavors develop."
+  ],
+  "variations": [
+    "Sundakkai vatha kuzhambu",
+    "Mixed vegetable vatha kuzhambu",
+    "No vathal version with brinjal or drumstick"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Poriyal",
+    "Appalam"
+  ],
+  "tags": [
+    "vatha kuzhambu",
+    "vathal kuzhambu",
+    "kuzhambu",
+    "manathakkali",
+    "south indian",
+    "tamil nadu",
+    "vegetarian",
+    "rice accompaniment"
+  ]
+}

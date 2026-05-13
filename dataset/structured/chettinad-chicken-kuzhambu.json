@@ -1,0 +1,153 @@
+{
+  "name": "Chicken Chettinad Kuzhambu",
+  "tamil_name": "செட்டிநாடு சிக்கன் குழம்பு",
+  "transliteration": "Chicken Chettinad Kuzhambu",
+  "category": "curry",
+  "sub_category": "non-veg",
+  "diet_type": ["non-veg"],
+  "difficulty": "medium",
+  "prep_time": 15,
+  "cook_time": 30,
+  "total_time": 45,
+  "servings": 3,
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "tamil_name": "சிக்கன்",
+      "transliteration": "சிக்கன்",
+      "quantity": "1/2",
+      "unit": "kg",
+      "notes": "bone-in, curry cut"
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/8",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger garlic paste",
+      "tamil_name": "இஞ்சி பூண்டு விழுது",
+      "transliteration": "இஞ்சி பூண்டு விழுது",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice or curd",
+      "tamil_name": "எலுமிச்சை சாறு அல்லது தயிர்",
+      "transliteration": "எலுமிச்சை சாறு அல்லது தயிர்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Marinate chicken with turmeric powder, red chilli powder, salt, ginger garlic paste, and lemon juice or curd. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Dry roast all Chettinad masala spices (red chillies, coriander seeds, fennel, cumin, pepper, cardamom, cinnamon, cloves, star anise, stone flower) until aromatic and golden. Cool down.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "In the same pan, roast grated coconut and one sprig curry leaves with little oil until light golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Grind the roasted spices to a fine powder, then add roasted coconut, curry leaves, and cashews. Add ½ cup water and grind to a smooth paste.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Heat oil in a pan, add bay leaf and chopped onions. Sauté until onions turn light golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add marinated chicken and fry on high heat for 4-5 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add chopped tomatoes and sauté until oil separates and tomatoes are cooked.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add the Chettinad masala paste, remaining curry leaves, and hot water. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Cover and simmer until chicken is fully cooked and tender. Adjust consistency with more water if needed.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Taste and adjust salt. Garnish with fried curry leaves (optional) and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use bone-in chicken for better flavour and authentic taste.",
+    "Roast spices on low heat and do not burn them to avoid bitterness.",
+    "Grind the masala paste very smooth for best texture.",
+    "This kuzhambu tastes even better the next day as flavours develop."
+  ],
+  "variations": [
+    "Mutton Chettinad Kuzhambu",
+    "Egg Chettinad Kuzhambu",
+    "Chettinad Vegetable Kuzhambu"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Idli",
+    "Dosa",
+    "Appam",
+    "Chapati"
+  ],
+  "tags": [
+    "chicken chettinad kuzhambu",
+    "chettinad chicken",
+    "non-veg",
+    "chicken kuzhambu",
+    "tamil nadu",
+    "south indian",
+    "chettinad cuisine",
+    "spicy curry"
+  ]
+}

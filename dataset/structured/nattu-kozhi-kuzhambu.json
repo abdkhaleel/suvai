@@ -1,0 +1,208 @@
+{
+  "name": "Nattu Kozhi Kuzhambu",
+  "tamil_name": "நாட்டு கோழி குழம்பு",
+  "transliteration": "Nattu Kozhi Kuzhambu",
+  "category": "curry",
+  "sub_category": "non-veg",
+  "diet_type": ["non-veg"],
+  "difficulty": "medium",
+  "prep_time": 20,
+  "cook_time": 60,
+  "total_time": 80,
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Country Chicken / Nattu Kozhi",
+      "tamil_name": "நாட்டு கோழி",
+      "transliteration": "நாட்டு கோழி",
+      "quantity": "1",
+      "unit": "kg",
+      "notes": "cut into medium pieces"
+    },
+    {
+      "name": "Gingelly oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "1/2",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Shallots / Sambar onion",
+      "tamil_name": "சின்ன வெங்காயம்",
+      "transliteration": "சின்ன வெங்காயம்",
+      "quantity": "20",
+      "unit": "",
+      "notes": "peeled & chopped"
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Ginger garlic paste",
+      "tamil_name": "இஞ்சி பூண்டு விழுது",
+      "transliteration": "இஞ்சி பூண்டு விழுது",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "tamil_name": "தக்காளி",
+      "transliteration": "தக்காளி",
+      "quantity": "3",
+      "unit": "large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "1",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "tamil_name": "தனியா தூள்",
+      "transliteration": "தனியா தூள்",
+      "quantity": "3",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind extract",
+      "tamil_name": "புளி சாறு",
+      "transliteration": "புளி சாறு",
+      "quantity": "2-3",
+      "unit": "tbsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Heat 1 tsp oil in a small pan. Add fennel seeds, cinnamon, cloves, cardamom, black pepper, and cumin seeds. Roast for a few seconds.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Add 10 peeled shallots and sauté for 1 minute. Cool and grind to a smooth paste. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Grind grated coconut and poppy seeds with little water into a smooth paste. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat gingelly oil in a wide pot or kadai. Add chopped shallots and curry leaves. Sauté for 2-3 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add ginger garlic paste and sauté until raw smell goes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add chopped tomatoes and cook until mushy.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add turmeric powder, red chilli powder, coriander powder, and salt. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add cleaned nattu kozhi pieces and stir fry for 4-5 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add enough water to cover the chicken and tamarind extract. Bring to a full boil.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Cover and simmer on low to medium heat for 60-90 minutes until chicken is tender.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Add the freshly ground masala paste and coconut paste. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Simmer on low heat for another 10-15 minutes until oil floats on top.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 13,
+      "instruction": "Garnish with chopped coriander leaves and remove from heat.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use gingelly oil for authentic village-style flavour and aroma.",
+    "Country chicken takes longer to cook than broiler chicken — pressure cooker can reduce time.",
+    "Adjust spice level according to your preference.",
+    "This kuzhambu tastes even better the next day as flavours develop."
+  ],
+  "variations": [
+    "Nattu Kozhi Kuzhambu with roasted coconut masala",
+    "Nattu Kozhi Kuzhambu without coconut"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Idli",
+    "Dosa",
+    "Appam"
+  ],
+  "tags": [
+    "nattu kozhi kuzhambu",
+    "country chicken kuzhambu",
+    "non-veg",
+    "tamil nadu",
+    "village style",
+    "spicy kuzhambu",
+    "sunday special"
+  ]
+}

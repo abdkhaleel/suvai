@@ -1,0 +1,230 @@
+{
+  "name": "Paruppu Urundai Kuzhambu",
+  "tamil_name": "பருப்பு உருண்டை குழம்பு",
+  "transliteration": "Paruppu Urundai Kuzhambu",
+  "category": "curry",
+  "sub_category": "kuzhambu",
+  "diet_type": ["vegetarian", "vegan"],
+  "difficulty": "medium",
+  "prep_time": 30,
+  "cook_time": 45,
+  "total_time": 75,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Chana dal",
+      "tamil_name": "கடலை பருப்பு",
+      "transliteration": "கடலை பருப்பு",
+      "quantity": "1/2",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "tamil_name": "சோம்பு",
+      "transliteration": "சோம்பு",
+      "quantity": "¼ tsp (for dumplings) + ½ tsp (for curry)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "tamil_name": "பூண்டு",
+      "transliteration": "பூண்டு",
+      "quantity": "2 cloves (minced for dumplings) + 4 cloves (crushed for curry)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "½ (finely chopped for dumplings) + 1 (chopped for curry)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "¼ tsp (for dumplings) + ½ tsp (for curry)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Green chilli",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "1/2",
+      "unit": "",
+      "notes": "finely minced"
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "5-6",
+      "unit": "stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh grated coconut",
+      "tamil_name": "தேங்காய் துருவல்",
+      "transliteration": "தேங்காய் துருவல்",
+      "quantity": "¼ cup (for dumplings) + ¼ cup (for curry)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "¼ tsp (for dumplings) + 1 tsp (for curry)",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "tamil_name": "எண்ணெய்",
+      "transliteration": "எண்ணெய்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cloves",
+      "tamil_name": "கிராம்பு",
+      "transliteration": "கிராம்பு",
+      "quantity": "2",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "tamil_name": "பட்டை",
+      "transliteration": "பட்டை",
+      "quantity": "1",
+      "unit": "small piece",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "tamil_name": "தக்காளி",
+      "transliteration": "தக்காளி",
+      "quantity": "3",
+      "unit": "",
+      "notes": "pureed"
+    },
+    {
+      "name": "Sambar powder",
+      "tamil_name": "சாம்பார் பொடி",
+      "transliteration": "சாம்பார் பொடி",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "tamil_name": "தண்ணீர்",
+      "transliteration": "தண்ணீர்",
+      "quantity": "as needed",
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Soak chana dal in water for 2 hours. Drain and grind to a coarse paste without adding water.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "To the ground dal, add fennel seeds, minced garlic, chopped onion, turmeric powder, green chilli, coriander leaves, grated coconut, and salt. Mix well.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Shape into small dumplings and steam in an idli vessel for 5 minutes. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Heat oil in a wide flat pan. Add cloves, cinnamon, fennel seeds, curry leaves, and crushed garlic. Sauté until garlic turns golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add chopped onion and sauté until soft.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add pureed tomatoes, salt, turmeric powder, and sambar powder. Cook until oil separates.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Grind ¼ cup coconut with ½ cup water into a smooth paste and add to the pan.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Add 2 cups water and bring to a full boil. Check seasoning.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Gently add the steamed dumplings one by one. Do not stir for the first 5 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Simmer on medium heat for 10-12 minutes. Turn dumplings gently if needed. Remove from heat.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use a wide flat pan instead of a kadai to prevent dumplings from breaking.",
+    "Do not stir immediately after adding dumplings to avoid breaking them.",
+    "Steam the dumplings only for 5 minutes so they remain soft.",
+    "This kuzhambu tastes even better the next day as the flavours develop."
+  ],
+  "variations": [
+    "Onion only paruppu urundai kuzhambu",
+    "Mixed dal urundai kuzhambu",
+    "No coconut version"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Appalam"
+  ],
+  "tags": [
+    "paruppu urundai kuzhambu",
+    "lentil dumplings",
+    "kuzhambu",
+    "tamil nadu",
+    "south indian",
+    "vegetarian",
+    "rice accompaniment",
+    "festival recipe"
+  ]
+}

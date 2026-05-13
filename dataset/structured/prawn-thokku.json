@@ -1,0 +1,261 @@
+{
+  "name": "Prawn Thokku",
+  "tamil_name": "இறால் தொக்கு",
+  "transliteration": "Eral Thokku",
+  "category": "curry",
+  "sub_category": "kuzhambu",
+  "diet_type": ["non-veg"],
+  "difficulty": "medium",
+  "prep_time": 10,
+  "cook_time": 30,
+  "total_time": 40,
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "tamil_name": "இறால்",
+      "transliteration": "இறால்",
+      "quantity": "250",
+      "unit": "grams",
+      "notes": "medium sized, cleaned and deveined"
+    },
+    {
+      "name": "Gingelly oil",
+      "tamil_name": "நல்லெண்ணெய்",
+      "transliteration": "நல்லெண்ணெய்",
+      "quantity": "1/4",
+      "unit": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "tamil_name": "கடுகு",
+      "transliteration": "கடுகு",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "tamil_name": "சீரகம்",
+      "transliteration": "சீரகம்",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek seeds",
+      "tamil_name": "வெந்தயம்",
+      "transliteration": "வெந்தயம்",
+      "quantity": "1/4",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dry red chillies",
+      "tamil_name": "காய்ந்த மிளகாய்",
+      "transliteration": "காய்ந்த மிளகாய்",
+      "quantity": "2",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "name": "Curry leaves",
+      "tamil_name": "கறிவேப்பிலை",
+      "transliteration": "கறிவேப்பிலை",
+      "quantity": "2",
+      "unit": "sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "tamil_name": "வெங்காயம்",
+      "transliteration": "வெங்காயம்",
+      "quantity": "2",
+      "unit": "large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Green chillies",
+      "tamil_name": "பச்சை மிளகாய்",
+      "transliteration": "பச்சை மிளகாய்",
+      "quantity": "2",
+      "unit": "",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger garlic paste",
+      "tamil_name": "இஞ்சி பூண்டு விழுது",
+      "transliteration": "இஞ்சி பூண்டு விழுது",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato puree",
+      "tamil_name": "தக்காளி ப்யூரி",
+      "transliteration": "தக்காளி ப்யூரி",
+      "quantity": "3",
+      "unit": "tomatoes",
+      "notes": "pureed"
+    },
+    {
+      "name": "Turmeric powder",
+      "tamil_name": "மஞ்சள் தூள்",
+      "transliteration": "மஞ்சள் தூள்",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chilli powder",
+      "tamil_name": "மிளகாய் தூள்",
+      "transliteration": "மிளகாய் தூள்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "tamil_name": "தனியா தூள்",
+      "transliteration": "தனியா தூள்",
+      "quantity": "2",
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala powder",
+      "tamil_name": "கரம் மசாலா",
+      "transliteration": "கரம் மசாலா",
+      "quantity": "1",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Jaggery",
+      "tamil_name": "வெல்லம்",
+      "transliteration": "வெல்லம்",
+      "quantity": "1/2",
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander leaves",
+      "tamil_name": "கொத்தமல்லி இலை",
+      "transliteration": "கொத்தமல்லி இலை",
+      "quantity": "4",
+      "unit": "tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "tamil_name": "உப்பு",
+      "transliteration": "உப்பு",
+      "quantity": "to taste",
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_no": 1,
+      "instruction": "Mix tamarind pulp with ½ cup water and set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 2,
+      "instruction": "Dry roast fennel seeds, cumin seeds, fenugreek seeds, black peppercorns, and mustard seeds until aromatic. Cool and grind to a coarse powder. Set aside.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 3,
+      "instruction": "Heat gingelly oil in a kadai. Add mustard seeds, cumin seeds, fenugreek seeds, dry red chillies, and curry leaves. Let them sizzle.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 4,
+      "instruction": "Add finely chopped onions, green chillies, salt, and turmeric powder. Sauté until onions turn golden.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 5,
+      "instruction": "Add ginger garlic paste and sauté until raw smell disappears.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 6,
+      "instruction": "Add red chilli powder and coriander powder. Fry for 2-3 minutes until fragrant.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 7,
+      "instruction": "Add tomato puree and cook until oil separates and mixture thickens.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 8,
+      "instruction": "Pour in tamarind water and mix well. Cook until the masala thickens and oil floats on top.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 9,
+      "instruction": "Add cleaned prawns and stir fry on high heat for 4-5 minutes.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 10,
+      "instruction": "Cover and cook for 6-8 minutes until prawns are cooked through.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 11,
+      "instruction": "Sprinkle the roasted special powder, garam masala powder, jaggery, and chopped coriander leaves. Mix gently.",
+      "tip": "",
+      "duration_mins": 0
+    },
+    {
+      "step_no": 12,
+      "instruction": "Remove from heat and serve hot.",
+      "tip": "",
+      "duration_mins": 0
+    }
+  ],
+  "tips": [
+    "Use gingelly oil for authentic taste and flavour.",
+    "Cook the masala base patiently until oil separates for best results.",
+    "Do not overcook prawns as they become rubbery.",
+    "This thokku tastes even better the next day."
+  ],
+  "variations": [
+    "Mutton Thokku",
+    "Chicken Thokku",
+    "Fish Thokku"
+  ],
+  "commonly_served_with": [
+    "Steamed rice",
+    "Idli",
+    "Dosa",
+    "Appam",
+    "Idiyappam"
+  ],
+  "tags": [
+    "prawn thokku",
+    "eral thokku",
+    "prawn masala",
+    "non-veg",
+    "seafood",
+    "tamil nadu",
+    "spicy curry",
+    "rice accompaniment"
+  ]
+}
