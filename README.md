@@ -35,15 +35,13 @@ Try it: search for *"Masala Dosa"* or enter *"kathirikkai, kothamalli"* in ingre
 ## Screenshots
 
 ### Home Page
-![Home Page](images/screenshots/home1.png)
-![Home Page](images/screenshots/home2.png)
+![Home Page](images/screenshots/home.png)
 
 ### Mode 1 — Choose a Dish
 ![Choose Dish](images/screenshots/choose-dish.png)
 
 ### Mode 2 — Cook With What You Have
-![Cook With Ingredients](images/screenshots/cook-ingredients1.png)
-![Cook With Ingredients](images/screenshots/cook-ingredients2.png)
+![Cook With Ingredients](images/screenshots/cook-ingredients.png)
 
 ### Chat with Suvai
 ![Chef Chat](images/screenshots/chat.png)
