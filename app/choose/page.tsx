@@ -1,9 +1,18 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Navbar from '@/components/Navbar'
-import { Search, Loader2, Frown, Soup, ArrowRight, CookingPot } from 'lucide-react'
+import {
+  Search,
+  Loader2,
+  Frown,
+  Soup,
+  ArrowRight,
+  CookingPot,
+  ChevronLeft,
+  ChevronRight,
+} from 'lucide-react'
 
 interface Recipe {
   id: string
@@ -15,16 +24,7 @@ interface Recipe {
   similarity: number
 }
 
-const CATEGORIES = ['All', 'Breakfast', 'Rice', 'Curry', 'Snacks', 'Sweets']
-
-const CATEGORY_QUERIES: Record<string, string> = {
-  All: 'Tamil South Indian recipe',
-  Breakfast: 'Tamil breakfast tiffin morning dish idli dosa pongal upma',
-  Rice: 'Tamil rice variety dish sambar curd lemon rice',
-  Curry: 'Tamil kuzhambu curry gravy dish sambar rasam',
-  Snacks: 'Tamil snack street food bajji murukku sundal',
-  Sweets: 'Tamil sweet dessert payasam halwa pongal',
-}
+const ITEMS_PER_PAGE = 9
 
 export default function ChoosePage() {
   const [query, setQuery] = useState('')
@@ -32,6 +32,75 @@ export default function ChoosePage() {
   const [loading, setLoading] = useState(false)
   const [searched, setSearched] = useState(false)
   const [activeCategory, setActiveCategory] = useState('All')
+  const [categories, setCategories] = useState<string[]>(['All'])
+  const [currentPage, setCurrentPage] = useState(1)
+
+  const totalPages = Math.ceil(results.length / ITEMS_PER_PAGE)
+  const paginatedResults = results.slice(
+    (currentPage - 1) * ITEMS_PER_PAGE,
+    currentPage * ITEMS_PER_PAGE
+  )
+
+  // ── Mount: load recipes immediately, fetch categories in parallel ──
+  useEffect(() => {
+    let cancelled = false
+
+    async function loadRecipes() {
+      setSearched(true)
+      setLoading(true)
+      setCurrentPage(1)
+      try {
+        const res = await fetch('/api/rag', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            mode: 'dish',
+            query: 'Tamil South Indian recipe',
+            category: 'All',
+          }),
+        })
+        const data = await res.json()
+        if (!cancelled) setResults(data.results || [])
+      } catch (err) {
+        console.error('Recipe load error:', err)
+        if (!cancelled) setResults([])
+      } finally {
+        if (!cancelled) setLoading(false)
+      }
+    }
+
+    async function loadCategories() {
+      try {
+        const res = await fetch('/api/categories')
+        const data = await res.json()
+
+        const raw = (data.categories || [])
+          .map((c: string) => c.trim())
+          .filter((c: string) => c.length > 0)
+
+        const seen = new Set<string>()
+        const unique: string[] = []
+        for (const cat of raw) {
+          const lower = cat.toLowerCase()
+          if (!seen.has(lower)) {
+            seen.add(lower)
+            unique.push(cat.charAt(0).toUpperCase() + cat.slice(1).toLowerCase())
+          }
+        }
+
+        if (!cancelled) setCategories(['All', ...unique])
+      } catch (err) {
+        console.error('Category load error:', err)
+      }
+    }
+
+    loadRecipes()
+    loadCategories()
+
+    return () => {
+      cancelled = true
+    }
+  }, [])
 
   async function handleSearch(e?: React.FormEvent) {
     e?.preventDefault()
@@ -39,6 +108,8 @@ export default function ChoosePage() {
 
     setLoading(true)
     setSearched(true)
+    setActiveCategory('')
+    setCurrentPage(1)
 
     try {
       const res = await fetch('/api/rag', {
@@ -60,6 +131,8 @@ export default function ChoosePage() {
     setActiveCategory(cat)
     setSearched(true)
     setLoading(true)
+    setQuery('')
+    setCurrentPage(1)
 
     try {
       const res = await fetch('/api/rag', {
@@ -67,8 +140,8 @@ export default function ChoosePage() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           mode: 'dish',
-          query: CATEGORY_QUERIES[cat] || `Tamil ${cat} recipe`,
-          matchCount: 9,
+          query: 'Tamil South Indian recipe',
+          category: cat,
         }),
       })
       const data = await res.json()
@@ -151,7 +224,7 @@ export default function ChoosePage() {
           className="animate-fade-up delay-2 flex flex-wrap gap-2 mb-10"
           style={{ opacity: 0 }}
         >
-          {CATEGORIES.map((cat) => (
+          {categories.map((cat) => (
             <button
               key={cat}
               onClick={() => handleCategory(cat)}
@@ -211,11 +284,7 @@ export default function ChoosePage() {
         {/* No Results */}
         {!loading && searched && results.length === 0 && (
           <div className="flex flex-col items-center gap-4 py-20 text-center">
-            <Frown
-              size={48}
-              className="text-[var(--muted)]"
-              strokeWidth={1.5}
-            />
+            <Frown size={48} className="text-[var(--muted)]" strokeWidth={1.5} />
             <h3
               className="text-xl font-bold text-[var(--dark)]"
               style={{ fontFamily: 'var(--font-playfair)' }}
@@ -235,6 +304,8 @@ export default function ChoosePage() {
                 setQuery('')
                 setSearched(false)
                 setResults([])
+                setActiveCategory('')
+                setCurrentPage(1)
               }}
               className="btn-outline mt-2 text-sm px-6 py-2.5"
             >
@@ -244,9 +315,9 @@ export default function ChoosePage() {
         )}
 
         {/* Results Grid */}
-        {!loading && results.length > 0 && (
+        {!loading && paginatedResults.length > 0 && (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            {results.map((recipe, i) => (
+            {paginatedResults.map((recipe, i) => (
               <Link
                 key={recipe.id}
                 href={`/chat?id=${recipe.id}&name=${encodeURIComponent(recipe.name)}`}
@@ -323,6 +394,38 @@ export default function ChoosePage() {
                 </div>
               </Link>
             ))}
+          </div>
+        )}
+
+        {/* Pagination */}
+        {!loading && totalPages > 1 && (
+          <div className="flex items-center justify-center gap-3 mt-12">
+            <button
+              onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+              disabled={currentPage === 1}
+              className="inline-flex items-center gap-1 px-4 py-2 rounded-full text-sm font-medium border border-[var(--border)] bg-white text-[var(--dark)] transition-all duration-200 hover:border-[var(--burnt-orange)] hover:text-[var(--burnt-orange)] disabled:opacity-40 disabled:cursor-not-allowed"
+              style={{ fontFamily: 'var(--font-dm-sans)' }}
+            >
+              <ChevronLeft size={16} strokeWidth={2.5} />
+              Prev
+            </button>
+
+            <span
+              className="text-sm text-[var(--muted)] px-2"
+              style={{ fontFamily: 'var(--font-dm-sans)' }}
+            >
+              Page {currentPage} of {totalPages}
+            </span>
+
+            <button
+              onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+              disabled={currentPage === totalPages}
+              className="inline-flex items-center gap-1 px-4 py-2 rounded-full text-sm font-medium border border-[var(--border)] bg-white text-[var(--dark)] transition-all duration-200 hover:border-[var(--burnt-orange)] hover:text-[var(--burnt-orange)] disabled:opacity-40 disabled:cursor-not-allowed"
+              style={{ fontFamily: 'var(--font-dm-sans)' }}
+            >
+              Next
+              <ChevronRight size={16} strokeWidth={2.5} />
+            </button>
           </div>
         )}
       </main>

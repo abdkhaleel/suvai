@@ -3,7 +3,7 @@ import { searchByDish, searchByIngredients } from '@/lib/rag'
 
 export async function POST(request: NextRequest) {
   try {
-    const { mode, query, ingredients, matchCount } = await request.json()
+    const { mode, query, ingredients, matchCount, category } = await request.json()
 
     if (mode === 'dish') {
       if (!query?.trim()) {
@@ -12,8 +12,19 @@ export async function POST(request: NextRequest) {
           { status: 400 }
         )
       }
-      const results = await searchByDish(query, matchCount || 6)
-      return Response.json({ results })
+      const results = await searchByDish(query, matchCount || 1000)
+
+      // Exact category filter (case-insensitive)
+      const finalResults =
+        category && category !== 'All'
+          ? results.filter(
+              (r: any) =>
+                r.category &&
+                r.category.toLowerCase() === category.toLowerCase()
+            )
+          : results
+
+      return Response.json({ results: finalResults })
     }
 
     if (mode === 'ingredients') {
@@ -23,7 +34,7 @@ export async function POST(request: NextRequest) {
           { status: 400 }
         )
       }
-      const results = await searchByIngredients(ingredients, matchCount || 6)
+      const results = await searchByIngredients(ingredients, matchCount || 1000)
       return Response.json({ results })
     }
 
