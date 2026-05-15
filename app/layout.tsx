@@ -15,12 +15,12 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'SuvAI — Tamil Cuisine Chef',
+  title: 'SuvAI | Tamil Cuisine Chef',
   description: 'Your AI Tamil cuisine chef powered by Gemma 4',
   keywords: ['Tamil cuisine', 'AI chef', 'South Indian food', 'cooking assistant', 'SuvAI'],
   authors: [{ name: 'SuvAI' }],
   openGraph: {
-    title: 'SuvAI — Tamil Cuisine Chef',
+    title: 'SuvAI | Tamil Cuisine Chef',
     description: 'Your AI Tamil cuisine chef powered by Gemma 4',
     type: 'website',
     locale: 'en_US',
