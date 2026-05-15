@@ -15,6 +15,8 @@ import {
   Carrot,
   ArrowRight,
   Sparkles,
+  ChevronLeft,
+  ChevronRight,
 } from 'lucide-react'
 
 interface Recipe {
@@ -42,12 +44,21 @@ const SUGGESTIONS = [
   },
 ]
 
+const ITEMS_PER_PAGE = 9
+
 export default function CookPage() {
   const [input, setInput] = useState('')
   const [ingredients, setIngredients] = useState<string[]>([])
   const [results, setResults] = useState<Recipe[]>([])
   const [loading, setLoading] = useState(false)
   const [searched, setSearched] = useState(false)
+  const [currentPage, setCurrentPage] = useState(1)
+
+  const totalPages = Math.ceil(results.length / ITEMS_PER_PAGE)
+  const paginatedResults = results.slice(
+    (currentPage - 1) * ITEMS_PER_PAGE,
+    currentPage * ITEMS_PER_PAGE
+  )
 
   function addIngredient() {
     const trimmed = input.trim()
@@ -76,6 +87,7 @@ export default function CookPage() {
 
     setLoading(true)
     setSearched(true)
+    setCurrentPage(1)
 
     try {
       const res = await fetch('/api/rag', {
@@ -306,6 +318,7 @@ export default function CookPage() {
                 setIngredients([])
                 setSearched(false)
                 setResults([])
+                setCurrentPage(1)
               }}
               className="btn-outline mt-2 text-sm px-6 py-2.5"
             >
@@ -315,7 +328,7 @@ export default function CookPage() {
         )}
 
         {/* Results */}
-        {!loading && results.length > 0 && (
+        {!loading && paginatedResults.length > 0 && (
           <>
             <p
               className="mb-6 text-sm text-[var(--muted)] inline-flex items-center gap-2"
@@ -331,7 +344,7 @@ export default function CookPage() {
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {results.map((recipe, i) => (
+              {paginatedResults.map((recipe, i) => (
                 <Link
                   key={recipe.id}
                   href={`/chat?id=${recipe.id}&name=${encodeURIComponent(
@@ -414,6 +427,38 @@ export default function CookPage() {
                 </Link>
               ))}
             </div>
+
+            {/* Pagination */}
+            {totalPages > 1 && (
+              <div className="flex items-center justify-center gap-3 mt-12">
+                <button
+                  onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+                  disabled={currentPage === 1}
+                  className="inline-flex items-center gap-1 px-4 py-2 rounded-full text-sm font-medium border border-[var(--border)] bg-white text-[var(--dark)] transition-all duration-200 hover:border-[var(--burnt-orange)] hover:text-[var(--burnt-orange)] disabled:opacity-40 disabled:cursor-not-allowed"
+                  style={{ fontFamily: 'var(--font-dm-sans)' }}
+                >
+                  <ChevronLeft size={16} strokeWidth={2.5} />
+                  Prev
+                </button>
+
+                <span
+                  className="text-sm text-[var(--muted)] px-2"
+                  style={{ fontFamily: 'var(--font-dm-sans)' }}
+                >
+                  Page {currentPage} of {totalPages}
+                </span>
+
+                <button
+                  onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+                  disabled={currentPage === totalPages}
+                  className="inline-flex items-center gap-1 px-4 py-2 rounded-full text-sm font-medium border border-[var(--border)] bg-white text-[var(--dark)] transition-all duration-200 hover:border-[var(--burnt-orange)] hover:text-[var(--burnt-orange)] disabled:opacity-40 disabled:cursor-not-allowed"
+                  style={{ fontFamily: 'var(--font-dm-sans)' }}
+                >
+                  Next
+                  <ChevronRight size={16} strokeWidth={2.5} />
+                </button>
+              </div>
+            )}
           </>
         )}
       </main>
