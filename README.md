@@ -82,9 +82,9 @@ Try it: search for *"Masala Dosa"* or enter *"kathirikkai, kothamalli"* in ingre
 ```
 User Query
     │
-    ├─► Mode 1 (Dish Search) ──► Embedding ──► Supabase pgvector (cosine sim, threshold 0.65)
+    ├─► Mode 1 (Dish Search) ──► Embedding ──► Supabase pgvector (cosine sim, threshold 0.592666625977)
     │
-    └─► Mode 2 (Ingredients) ──► Synonym Resolver ──► Embedding ──► Supabase pgvector (threshold 0.4)
+    └─► Mode 2 (Ingredients) ──► Synonym Resolver ──► Embedding ──► Supabase pgvector (threshold 0.621875)
                                               │
                                               ▼
                                     Retrieved Recipe (full context)
@@ -107,7 +107,7 @@ User Query
 
 1. **Query Embedding:** The user's dish name or ingredient list is converted to a 3072-dimension vector using `gemini-embedding-001`.
 2. **Vector Search:** A custom SQL function `match_recipes()` queries the `recipes` table using cosine similarity (`<=>` operator) via pgvector.
-3. **Threshold Tuning:** Dish mode uses `0.65` to block irrelevant queries (e.g., "pizza" returns nothing). Ingredient mode uses `0.4` to be more permissive with partial matches.
+3. **Threshold Tuning:** Dish mode uses `0.592666625977` to block irrelevant queries (e.g., "pizza" returns nothing). Ingredient mode uses `0.621875` to be more permissive with partial matches.
 4. **Synonym Resolution:** For ingredient mode, Tamil names are first resolved through the `synonyms` table before embedding.
 5. **Context Injection:** The full recipe (ingredients, steps, tips, variations) is fetched by ID and injected into every chat prompt as system context, along with the full conversation history.
 
