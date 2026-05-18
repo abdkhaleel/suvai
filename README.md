@@ -164,8 +164,8 @@ cd suvai
 npm install
 
 # 3. Set up environment variables
-cp env.example .env.local
-# Edit .env.local with your keys (see Environment Variables below)
+cp env.example  .env
+# Edit  .env with your keys (see Environment Variables below)
 
 # 4. Run the development server
 npm run dev
@@ -175,7 +175,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ### Environment Variables
 
-Create `.env.local` in the project root:
+Create ` .env` in the project root:
 
 ```env
 GEMINI_API_KEY=your-google-ai-studio-key
