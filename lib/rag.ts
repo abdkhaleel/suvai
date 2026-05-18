@@ -57,7 +57,7 @@ export async function searchByIngredients(
 
   const { data, error } = await supabase.rpc('match_recipes', {
     query_embedding: embedding,
-    match_threshold: 0.6,
+    match_threshold: 0.621875,
     match_count: 10000,
   })
 
