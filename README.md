@@ -164,7 +164,7 @@ cd suvai
 npm install
 
 # 3. Set up environment variables
-cp .env.example .env.local
+cp env.example .env.local
 # Edit .env.local with your keys (see Environment Variables below)
 
 # 4. Run the development server
@@ -178,17 +178,9 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 Create `.env.local` in the project root:
 
 ```env
-NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 GEMINI_API_KEY=your-google-ai-studio-key
-```
-
-For the dataset insertion script (`dataset/insert.js`), create `dataset/.env`:
-
-```env
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_KEY=your-service-role-key
-GEMINI_API_KEY=your-google-ai-studio-key
 ```
 
 ---
@@ -202,7 +194,7 @@ suvai/
 │   ├── choose/page.tsx          # Mode 1: search + recipe cards
 │   ├── cook/page.tsx            # Mode 2: ingredient input
 │   ├── chat/page.tsx            # Chef chat (Suspense wrapped)
-│   ├── globals.css              # CSS variables + animations
+│   ├── global.css              # CSS variables + animations
 │   ├── layout.tsx               # Fonts + metadata
 │   └── api/
 │       ├── gemma/route.ts       # Gemma 4 streaming endpoint
