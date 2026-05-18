@@ -15,14 +15,13 @@ export interface RecipeMatch {
 
 export async function searchByDish(
   query: string,
-  matchCount: number = 100
 ): Promise<RecipeMatch[]> {
   const embedding = await getEmbedding(query)
 
   const { data, error } = await supabase.rpc('match_recipes', {
     query_embedding: embedding,
-    match_threshold: 0.55,
-    match_count: matchCount,
+    match_threshold: 0.592666625977,
+    match_count: 10000,
   })
 
   if (error) {
@@ -50,10 +49,8 @@ export async function getCategories(): Promise<string[]> {
 
 export async function searchByIngredients(
   ingredients: string[],
-  matchCount: number = 100
 ): Promise<RecipeMatch[]> {
   const resolved = await resolveIngredients(ingredients)
-
   const query = `recipe with ingredients: ${resolved.join(', ')}`
 
   const embedding = await getEmbedding(query)
@@ -61,7 +58,7 @@ export async function searchByIngredients(
   const { data, error } = await supabase.rpc('match_recipes', {
     query_embedding: embedding,
     match_threshold: 0.6,
-    match_count: matchCount,
+    match_count: 10000,
   })
 
   if (error) {
