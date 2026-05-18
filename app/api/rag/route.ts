@@ -12,7 +12,7 @@ export async function POST(request: NextRequest) {
           { status: 400 }
         )
       }
-      const results = await searchByDish(query, matchCount || 1000)
+      const results = await searchByDish(query)
 
       // Exact category filter (case-insensitive)
       const finalResults =
@@ -34,7 +34,7 @@ export async function POST(request: NextRequest) {
           { status: 400 }
         )
       }
-      const results = await searchByIngredients(ingredients, matchCount || 1000)
+      const results = await searchByIngredients(ingredients)
       return Response.json({ results })
     }
 
