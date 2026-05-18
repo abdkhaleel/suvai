@@ -244,10 +244,10 @@ suvai/
 - [x] Tamil synonym resolution
 - [x] Mobile-responsive design
 - [x] 80+ recipe dataset
-- [ ] Voice input for ingredient mode
-- [ ] Pantry scanner (camera integration)
-- [ ] Weekly meal planner
-- [ ] Persistent chat history (localStorage)
+- [ ] Voice input for ingredient mode [post-hackathon]
+- [ ] Pantry scanner (camera integration) [post-hackathon]
+- [ ] Weekly meal planner [post-hackathon]
+- [ ] Persistent chat history (localStorage) [post-hackathon]
 
 ---
 
