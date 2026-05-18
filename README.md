@@ -1,24 +1,24 @@
-# SuvAI — Your Tamil AI Chef
+# SuvAI Your Tamil AI Chef
 
 [![Deploy](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://suvai-g4.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/abdkhaleel/suvai/blob/master/LICENSE)
 [![Gemma](https://img.shields.io/badge/Powered%20by-Gemma%204%2031B--IT-blue?style=flat-square&logo=google)](https://ai.google.dev/gemma)
 [![Track](https://img.shields.io/badge/Track-Digital%20Equity%20%26%20Inclusivity-purple?style=flat-square)](https://www.kaggle.com/competitions/gemma-4-good-hackathon)
 
-> **SuvAI** is a Tamil cuisine AI chef built for the **Gemma 4 Good Hackathon**. It combines **Gemma 4 31B-IT** with a custom RAG pipeline over 80+ authentic Tamil recipes to guide anyone — from beginners to home cooks — through the art of Tamil cooking in their own language and context.
+> **SuvAI** is a Tamil cuisine AI chef built for the **Gemma 4 Good Hackathon**. It combines **Gemma 4 31B-IT** with a custom RAG pipeline over 80+ authentic Tamil recipes to guide anyone from beginners to home cooks through the art of Tamil cooking in their own language and context.
 
 ---
 
 ## The Problem
 
-Tamil culinary knowledge is scattered across blogs, YouTube videos, and family notes. For millions of Tamil speakers and diaspora communities, finding a recipe is easy — but understanding *why* a step matters, what substitutes work, or how to cook with what's already in the pantry is hard. Most AI assistants are generic, Western-centric, and don't understand regional ingredients like *kathirikkai* (eggplant) or *kothamalli* (coriander).
+Tamil culinary knowledge is scattered across blogs, YouTube videos, and family notes. For millions of Tamil speakers and diaspora communities, finding a recipe is easy but understanding *why* a step matters, what substitutes work, or how to cook with what's already in the pantry is hard. Most AI assistants are generic, Western-centric, and don't understand regional ingredients like *kathirikkai* (eggplant) or *kothamalli* (coriander).
 
 ## The Solution
 
 SuvAI is a specialized, retrieval-augmented cooking assistant that acts as a warm Tamil chef named **Suvai**.
 
-- **Mode 1 — Choose a Dish:** Search or browse 80+ Tamil recipes across 8 categories (breakfast, rice varieties, kuzhambu, kootu, chutneys, snacks, sweets, and drinks).
-- **Mode 2 — Cook With What You Have:** Enter ingredients in English or Tamil (e.g., *kathirikkai*, *kothamalli*). SuvAI resolves synonyms, searches the vector database, and suggests what you can actually cook today.
+- **Mode 1 Choose a Dish:** Search or browse 80+ Tamil recipes across 8 categories (breakfast, rice varieties, kuzhambu, kootu, chutneys, snacks, sweets, and drinks).
+- **Mode 2 Cook With What You Have:** Enter ingredients in English or Tamil (e.g., *kathirikkai*, *kothamalli*). SuvAI resolves synonyms, searches the vector database, and suggests what you can actually cook today.
 
 Both modes lead to a conversational chat where **Gemma 4 31B-IT** guides you step-by-step, explains the science behind each step, suggests substitutions, and gently redirects off-topic questions back to cooking.
 
@@ -37,10 +37,10 @@ Try it: search for *"Masala Dosa"* or enter *"kathirikkai, kothamalli"* in ingre
 ### Home Page
 ![Home Page](images/screenshots/home.png)
 
-### Mode 1 — Choose a Dish
+### Mode 1 Choose a Dish
 ![Choose Dish](images/screenshots/choose-dish.png)
 
-### Mode 2 — Cook With What You Have
+### Mode 2 Cook With What You Have
 ![Cook With Ingredients](images/screenshots/cook-ingredients.png)
 
 ### Chat with Suvai
@@ -253,7 +253,7 @@ suvai/
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/abdkhaleel/suvai/blob/master/LICENSE) file for details.
+This project is licensed under the **MIT License** see the [LICENSE](https://github.com/abdkhaleel/suvai/blob/master/LICENSE) file for details.
 
 ---
 
