@@ -117,8 +117,8 @@ We chose **Gemma 4 31B-IT** because it is an open, frontier-level model that can
 
 - **Cultural Fluency:** The model naturally understands and generates Tamil culinary context when guided by the system prompt.
 - **Streaming Inference:** `generateContentStream` delivers a real-time conversational experience without perceptible latency.
-- **Open Weights:** The architecture is transparent, auditable, and aligned with the hackathon's mission of accessible, trustworthy AI.
-- **Function-Calling Ready:** Native tool-use capabilities allow future expansion (e.g., pantry scanner, meal planner).
+- **Open Model:** Powered by Gemma 4 31B-IT via Google AI Studio API. Gemma's open weights also enable future local deployment for offline or privacy-sensitive use cases.
+- **Function-Calling Ready:** Tool stubs defined for future pantry scanner and meal planner integration. Not yet active.
 
 ---
 

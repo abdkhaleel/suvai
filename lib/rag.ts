@@ -92,10 +92,22 @@ export async function getRecipeById(id: string) {
   }
 }
 
-export async function getSubstitutions(ingredientName: string) {
-  const { data } = await supabase
+export async function getSubstitutions(ingredientNames: string[]) {
+  if (!ingredientNames.length) return []
+
+  const normalizedNames = ingredientNames.map(n => n.toLowerCase().trim())
+
+  const { data, error } = await supabase
     .from('substitutions')
     .select('*')
-    .eq('ingredient_name', ingredientName)
-  return data || []
+
+  if (error) {
+    console.error('Substitutions fetch error:', error)
+    return []
+  }
+
+  return (data || []).filter(row =>
+    normalizedNames.includes(row.ingredient_name?.toLowerCase()) ||
+    normalizedNames.includes(row.tamil_name?.toLowerCase())
+  )
 }

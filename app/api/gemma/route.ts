@@ -29,12 +29,13 @@ Your rules:
 - Keep responses concise but warm — no unnecessary fluff, but never cold or robotic
 - When substituting, preserve the soul of the dish. Technique and tradition matter as much as taste.`
 
-// Lightweight off-topic guardrail
+// ─── Off-topic guardrail ───
 const COOKING_WORDS = [
   'recipe', 'cook', 'food', 'dish', 'ingredient', 'spice', 'oil', 'heat',
   'pan', 'boil', 'fry', 'temper', 'sambar', 'dosa', 'rice', 'curry', 'chutney',
   'kootu', 'kuzhambu', 'poriyal', 'payasam', 'pongal', 'idli', 'vada', 'uttapam',
-  'brinjal', 'drumstick', 'dal', 'lentil', 'mustard', 'cumin', 'turmeric'
+  'brinjal', 'drumstick', 'dal', 'lentil', 'mustard', 'cumin', 'turmeric',
+  'kathirikkai', 'kothamalli', 'murungai', 'paruppu', 'thakkali', 'vendakkai'
 ]
 
 const OFF_TOPIC_WORDS = [
@@ -50,6 +51,20 @@ function isOffTopic(message: string): boolean {
   const hasOffTopic = OFF_TOPIC_WORDS.some(w => lower.includes(w))
   return hasOffTopic && !hasCooking
 }
+
+// ─── Function-calling stubs (future expansion) ───
+const tools: any[] = [
+  {
+    name: 'get_pantry_items',
+    description: 'Fetch available ingredients from user pantry (not yet implemented)',
+    parameters: { type: 'object', properties: {} }
+  },
+  {
+    name: 'suggest_meal_plan',
+    description: 'Generate a weekly meal plan based on user preferences (not yet implemented)',
+    parameters: { type: 'object', properties: {} }
+  }
+]
 
 export async function POST(request: NextRequest) {
   try {
@@ -126,6 +141,7 @@ User message: ${message}
             model: 'gemma-4-31b-it',
             config: {
               systemInstruction: CHEF_SYSTEM_PROMPT,
+              tools, // ← Function-calling stubs passed
             },
             contents,
           })
