@@ -91,3 +91,11 @@ export async function getRecipeById(id: string) {
     ingredients: ingredients || []
   }
 }
+
+export async function getSubstitutions(ingredientName: string) {
+  const { data } = await supabase
+    .from('substitutions')
+    .select('*')
+    .eq('ingredient_name', ingredientName)
+  return data || []
+}
