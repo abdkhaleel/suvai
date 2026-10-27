@@ -3,9 +3,9 @@ import { getCategories } from "@/lib/rag";
 export async function GET(request: NextRequest) {
     try{
         const categories = await getCategories();
-        console.log('Categories API response:', categories);
         console.log('Cron executed successfully');
-        return new Response(`Cron job executed successfully, no of categories are: ${categories.length}`, { status: 200 });
+        console.log('Categories API response:', categories);
+        return new Response(`No of categories are: ${categories.length}`, { status: 200 });
     }
     catch (error: any) {
         console.error('Categories API error:', error);
