@@ -5,7 +5,7 @@ export async function GET(request: NextRequest) {
         const categories = await getCategories();
         console.log('Categories API response:', categories);
         console.log('Cron executed successfully');
-        return new Response('Cron job executed successfully', { status: 200 });
+        return new Response(`Cron job executed successfully, no of categories are: ${categories.length}`, { status: 200 });
     }
     catch (error: any) {
         console.error('Categories API error:', error);
